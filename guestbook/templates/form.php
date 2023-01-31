@@ -1,4 +1,4 @@
-<script language="JavaScript">
+﻿<script language="JavaScript">
 <!--
 function openCentered(theURL,winName,winWidth,winHeight,features) {
  var w = (screen.width - winWidth)/2;
@@ -139,3 +139,4 @@ $OPTIONAL
   </tr>
 </table>
 </form>
+

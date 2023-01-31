@@ -1,4 +1,4 @@
-<html>
+﻿<html>
 <head>
 <title>Guestbook - Password Settings</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -95,3 +95,4 @@ for (reset($this->table); $key=key($this->table); next($this->table)) {
     <input type="hidden" value="save" name="action">
   </center>
 </form>
+

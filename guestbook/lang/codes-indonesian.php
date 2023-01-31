@@ -1,4 +1,4 @@
-<!--//
+﻿<!--//
 Indonesian Translation
 by
 Oeban Poetih
@@ -139,3 +139,4 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
 <BR>
 </BODY>
 </HTML>
+

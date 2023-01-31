@@ -1,4 +1,4 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+ï»¿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <HTML>
 <HEAD>
 <TITLE>Smilies And AGCodes</TITLE>
@@ -17,11 +17,11 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
     </tr>
     <tr>
       <td>
-        <p>'Smilies' são pequenas imagens gráficas que podem ser usadas para demonstrar um sentimento ou emoção.
-	Se você já usou e-mail ou chat de internet, você já conhece esse conceito. Certas sequências de caracteres 
-	são convertidos automaticamente em smlies. Se vocÊ não entendeu, tente inclinar a cabeça para o lado e use
-	um pouco de imaginação para compreender os Smiles.</p>
-        <p> Esta é a lista de Smiles aceitos atualmente: </p>
+        <p>'Smilies' sç·Œ pequenas imagens grå¡»icas que podem ser usadas para demonstrar um sentimento ou emoèª½o.
+	Se voc?j?usou e-mail ou chat de internet, voc?j?conhece esse conceito. Certas sequç˜½cias de caracteres 
+	sç·Œ convertidos automaticamente em smlies. Se voc?nç·Œ entendeu, tente inclinar a cabeè“· para o lado e use
+	um pouco de imaginaèª½o para compreender os Smiles.</p>
+        <p> Esta ?a lista de Smiles aceitos atualmente: </p>
       </td>
     </tr>
   </table>
@@ -29,8 +29,8 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
     <tbody>
     <tr>
       <td bgcolor="#996699"><font color=#ffffff><b>O que digitar</b></font></td>
-      <td bgcolor="#996699"><font color=#ffffff><b>Emoção</b></font></td>
-      <td bgcolor="#996699"><font color=#ffffff><b>Imagem que irá aparecer</b></font></td>
+      <td bgcolor="#996699"><font color=#ffffff><b>Emoèª½o</b></font></td>
+      <td bgcolor="#996699"><font color=#ffffff><b>Imagem que ir?aparecer</b></font></td>
     </tr>
 
 <?php include ("./smilies.inc"); ?>
@@ -40,15 +40,15 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
   <br>
   <table width="95%" border="0" cellspacing="1" cellpadding="0">
     <tr>
-      <td height="25">O &nbsp;&nbsp;&nbsp; Q  U E &nbsp;&nbsp;&nbsp; É &nbsp;&nbsp;&nbsp; A G C O D E ?</td>
+      <td height="25">O &nbsp;&nbsp;&nbsp; Q  U E &nbsp;&nbsp;&nbsp; ?&nbsp;&nbsp;&nbsp; A G C O D E ?</td>
     </tr>
     <tr>
       <td>
-        <p>AGCode (Advanced Guestbook Code) é uma variação das tags HTML que você já deve conhecer.
+        <p>AGCode (Advanced Guestbook Code) ?uma variaèª½o das tags HTML que voc?j?deve conhecer.
 	Basicamente, ele permite adicionar funcionalidade ou estilo em sua mensagem onde normalmente seria preciso usar HTML.
-	Você pode usar AGCode mesmo que HTML não esteja habilitado para o livro de visitas.
-	Você pode querer usar AGCode no lugar do HTML, mesmo que o HTML esteja habilitadopara o livro de visitas,
-        porque ele necessita de menos códico para ser usado e mais seguro (um erro de sintaxe não causa tantos problemas).
+	Voc?pode usar AGCode mesmo que HTML nç·Œ esteja habilitado para o livro de visitas.
+	Voc?pode querer usar AGCode no lugar do HTML, mesmo que o HTML esteja habilitadopara o livro de visitas,
+        porque ele necessita de menos céšico para ser usado e mais seguro (um erro de sintaxe nç·Œ causa tantos problemas).
         <p>AGCodes atuais:
       </td>
     </tr>
@@ -63,31 +63,31 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
           <TD><b><font color="#FFFFFF">URL Hyperlinking</font></b></TD>
         </TR>
         <TR bgColor=#ffffff>
-          <TD>Se o AGCode estiver ativado, você não precisará usar o código [URL] para criar um hiperlink.
-		Simplesmente digite a URL completa de uma das duas maneiras a seguir e o hiperlink será criado automaticamente:
+          <TD>Se o AGCode estiver ativado, voc?nç·Œ precisar?usar o céšigo [URL] para criar um hiperlink.
+		Simplesmente digite a URL completa de uma das duas maneiras a seguir e o hiperlink ser?criado automaticamente:
             <UL>
               <LI><font color="#800000">http://www.suaURL.com </font>
-              <LI><FONT color=#800000>www.suaURL.com </FONT>Note que você precisará usar o endereço completo com http:// ou
-		o endereço curto apenas com o www. Se o site não começar com "www", então você deve usar o enderço completo com "http://".
-		Além disso, você pode usar os prefixos de URL do tipo https e ftp (quando o AGCode estiver ativado).<BR>
+              <LI><FONT color=#800000>www.suaURL.com </FONT>Note que voc?precisar?usar o endereè” completo com http:// ou
+		o endereè” curto apenas com o www. Se o site nç·Œ comeè“·r com "www", entç·Œ voc?deve usar o enderè” completo com "http://".
+		Alå¹¦ disso, voc?pode usar os prefixos de URL do tipo https e ftp (quando o AGCode estiver ativado).<BR>
                 <BR>
-              <LI>Você pode também criar hiperlinks usando o código [url]. Apenas use o formato abaixo: <br><br>
+              <LI>Voc?pode tambå¹¦ criar hiperlinks usando o céšigo [url]. Apenas use o formato abaixo: <br><br>
                 <CENTER>
                   <FONT color=#ff0000>[url=http://www.proxy2.de]</FONT>hiperlink<FONT color=#ff0000>[/url]</FONT>
                 </CENTER><br><br>
               <LI>
-                <P>O antigo código [URL] continua funcionando, como demonstrado abaixo. Apenas digite o texto entre as tags [url] [/url] como mostrado no exemplo abaixo
-		(AGCode está em <FONT color=#ff0000>vermelho</FONT>).
+                <P>O antigo céšigo [URL] continua funcionando, como demonstrado abaixo. Apenas digite o texto entre as tags [url] [/url] como mostrado no exemplo abaixo
+		(AGCode est?em <FONT color=#ff0000>vermelho</FONT>).
                 <P>
                   <CENTER>
                     <FONT color=#ff0000>[url]</FONT>http://www.proxy2.de<FONT color=#ff0000>[/url]</FONT>
                   </CENTER>
                 <P>Nos exemplos acima o AGCode gera automaticamente
-                  um hiperlink para a URL entre as tags. Também se garantirá que o link
-                  será aberto em uma nova janela quando clicado.
-                  Note que o "http://" é completamente opcional.
-                  No segundo exemplo acima, a URL será linkada ao texto com qualquer URL que você digitar depois do sinal de igual ("=").
-		  Além disso, note que você NÃO DEVE usar aspas dentro da tag URL.</P>
+                  um hiperlink para a URL entre as tags. Tambå¹¦ se garantir?que o link
+                  ser?aberto em uma nova janela quando clicado.
+                  Note que o "http://" ?completamente opcional.
+                  No segundo exemplo acima, a URL ser?linkada ao texto com qualquer URL que voc?digitar depois do sinal de igual ("=").
+		  Alå¹¦ disso, note que voc?Né¬ƒ DEVE usar aspas dentro da tag URL.</P>
               </LI>
             </UL>
           </TD>
@@ -96,23 +96,23 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
         </TR>
         <TR bgColor=#ffffff>
           <TD>Para adicionar hiperlinks de e-mails na sua mensagem, basta digitar o e-mail entre as tags [email] [/email] como no exemplo abaixo.
-           (AGCode está em <FONT color=#ff0000>vermelho</FONT>).
+           (AGCode est?em <FONT color=#ff0000>vermelho</FONT>).
             <P>
               <CENTER>
                 <FONT color=#ff0000>[email]</FONT>webmaster@proxy2.de<FONT color=#ff0000>[/email]</FONT>
               </CENTER>
-            <P>No exemplo acima, o AGCode gera automaticamente o hiperlink para o endereço de e-mail entre as tags.</P>
+            <P>No exemplo acima, o AGCode gera automaticamente o hiperlink para o endereè” de e-mail entre as tags.</P>
           </TD>
         </TR>
         <TR bgColor=#0099CC>
-          <TD><b><font color="#FFFFFF">Negrito e Itálico</font></b></TD>
+          <TD><b><font color="#FFFFFF">Negrito e Itå«®ico</font></b></TD>
         </TR>
         <TR bgColor=#ffffff>
-          <TD>Você pode tornar o seu texto negrito ou itálico utilizando as tags [b] [/b] ou [i] [/i] ("i" para itálico, "b" para negrito ou "bold").
+          <TD>Voc?pode tornar o seu texto negrito ou itå«®ico utilizando as tags [b] [/b] ou [i] [/i] ("i" para itå«®ico, "b" para negrito ou "bold").
             <P>
               <CENTER>
-                Olá, <FONT color=#ff0000>[b]</FONT><B>João</B><FONT color=#ff0000>[/b]</FONT><BR><br>
-                Olá, <FONT color=#ff0000>[i]</FONT><I>Maria</I><font color="#FF0000">[i]</font>
+                Ol? <FONT color=#ff0000>[b]</FONT><B>Joç·Œ</B><FONT color=#ff0000>[/b]</FONT><BR><br>
+                Ol? <FONT color=#ff0000>[i]</FONT><I>Maria</I><font color="#FF0000">[i]</font>
               </CENTER>
           </TD>
         </TR>
@@ -120,14 +120,14 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
           <TD><b><font color="#FFFFFF">Adicionando Imagens</font></b></TD>
         </TR>
         <TR bgColor=#ffffff>
-          <TD>Para adicionar uma imagem gráfica na sua mensagem, basta digitar a URL da imagem entre as tags [img] [/img] como mostrado no exemplo abaixo 
-	  (AGCode está em <FONT color=#ff0000>vermelho</FONT>).
+          <TD>Para adicionar uma imagem grå¡»ica na sua mensagem, basta digitar a URL da imagem entre as tags [img] [/img] como mostrado no exemplo abaixo 
+	  (AGCode est?em <FONT color=#ff0000>vermelho</FONT>).
             <P>
               <CENTER>
                 <FONT color=#ff0000>[img]</FONT>http://www.suaURL.com/imagem/logo.gif<FONT color=#ff0000>[/img]</FONT>
               </CENTER>
             <P>No exemplo acima, o AGCode exibe automaticamente a imagem na sua mensagem. 
-	    Nota: o "http://" como parte da URL é OBRIGATÓRIA para a tag <FONT color=#ff0000>[img]</FONT>.</P>
+	    Nota: o "http://" como parte da URL ?OBRIGATç´‘IA para a tag <FONT color=#ff0000>[img]</FONT>.</P>
           </TD>
         </TR>
         </TBODY>
@@ -138,12 +138,12 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
 </TABLE>
 <table width="95%" border="0" cellspacing="1" cellpadding="4" align="center">
   <tr>
-    <td><font color=#800000>Observações:</font><br>
-      Você não deve usar ao mesmo tempo o HTML e o AGCode para fazer a mensa função. Além disso note 
-      que o AGCode não é "case-sensiteve" (ou seja, você pode usar <font color=#ff0000>[URL]</font>
+    <td><font color=#800000>Observaè¸¥es:</font><br>
+      Voc?nç·Œ deve usar ao mesmo tempo o HTML e o AGCode para fazer a mensa funèª½o. Alå¹¦ disso note 
+      que o AGCode nç·Œ ?"case-sensiteve" (ou seja, voc?pode usar <font color=#ff0000>[URL]</font>
       ou <font color=#ff0000>[url]</font>).<br><br>
       <font color="#800000">Usos Incorretos de AGCode:</font> <br>
-       <font color="#ff0000">[url]</font> www.proxy2.de <font color=#ff0000>[/url]</font> - não coloque espaços entre as tags e o texto que você está aplicando o código.<br>
+       <font color="#ff0000">[url]</font> www.proxy2.de <font color=#ff0000>[/url]</font> - nç·Œ coloque espaè”s entre as tags e o texto que voc?est?aplicando o céšigo.<br>
         <br>
         <font color="#ff0000">[email]</font>webmaster@proxy2.de<font color=#ff0000>[email]</font> - a tag final deve incluir a barra inclinada (<font color=#ff0000>[/email]</font>)
     </td>
@@ -154,3 +154,4 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
 </BODY>
 </HTML>
 
+

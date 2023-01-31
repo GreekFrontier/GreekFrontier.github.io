@@ -1,4 +1,4 @@
-<html>
+﻿<html>
 <head>
 <title>Guestbook - Edit Entry</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -82,3 +82,4 @@ Settings</font></a> | <a href="<?php echo $this->SELF; ?>?action=settings&amp;pa
     </tr>
   </table>
 </form>
+

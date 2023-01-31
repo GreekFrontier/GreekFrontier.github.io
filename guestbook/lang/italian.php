@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 # General
 # Courtesy Carlo Queirolo, carloq@carloq.it
 
@@ -13,7 +13,7 @@ $LANG["BookMess6"]  = "Grazie per aver visitato il mio sito. Qui potete lasciare
 $LANG["BookMess7"]  = "Commenti";
 $LANG["BookMess8"]  = "Torna al modulo di invio";
 $LANG["BookMess9"]  = "Scrivi un commento.";
-$LANG["BookMess10"] = "<u>Grazie per aver firmato il guestbook.</u><br><br>La tua firma è stata aggiunta con successo! Nel giro di tre secondi tornerai al guestbook.";
+$LANG["BookMess10"] = "<u>Grazie per aver firmato il guestbook.</u><br><br>La tua firma 癡 stata aggiunta con successo! Nel giro di tre secondi tornerai al guestbook.";
 
 $LANG["EmailAdminSubject"] = "Nuovo messaggio";
 $LANG["EmailGuestSubject"] = "Grazie per aver scritto sul guestbook";
@@ -35,7 +35,7 @@ $LANG["FormMess6"]   = "AGCode non attivo";
 $LANG["FormMess7"]   = "Smilies non attive";
 $LANG["FormName"]    = "Nome";
 $LANG["FormEmail"]   = "E-mail";
-$LANG["FormLoc"]     = "Località";
+$LANG["FormLoc"]     = "Localit?";
 $LANG["FormPic"]     = "Immagine";
 $LANG["FormUrl"]     = "Homepage";
 $LANG["FormGender"]  = "Sesso";
@@ -62,27 +62,27 @@ $LANG["NavNext"]    = "Pagina successiva";
 # Post Errors
 $LANG["ErrorPost1"]  = "Ti sei dimenticato di scrivere il tuo nome. Digitalo e rinvia il modulo.";
 $LANG["ErrorPost2"]  = "Ti sei dimenticato di scrivere un messaggio. Scrivilo e rinviaci il modulo.";
-$LANG["ErrorPost3"]  = "Il tuo messaggio è troppo lungo o troppo corto. Per favore, correggilo e invialo di nuovo.";
+$LANG["ErrorPost3"]  = "Il tuo messaggio 癡 troppo lungo o troppo corto. Per favore, correggilo e invialo di nuovo.";
 $LANG["ErrorPost4"]  = "Uno dei campi immessi non sembra essere valido.";
 $LANG["ErrorPost5"]  = "Guestbook - Errore";
-$LANG["ErrorPost6"]  = "L'immagine è troppo grande";
-$LANG["ErrorPost7"]  = "Il formato dell'immagine è errato";
-$LANG["ErrorPost8"]  = "spiacenti! E' attivo un controllo anti-flood. Per favore, provate di nuovo dopo che è trascorso un periodo di tempo!";
-$LANG["ErrorPost9"]  = "Il tuo indirizzo IP è al bando!";
+$LANG["ErrorPost6"]  = "L'immagine 癡 troppo grande";
+$LANG["ErrorPost7"]  = "Il formato dell'immagine 癡 errato";
+$LANG["ErrorPost8"]  = "spiacenti! E' attivo un controllo anti-flood. Per favore, provate di nuovo dopo che 癡 trascorso un periodo di tempo!";
+$LANG["ErrorPost9"]  = "Il tuo indirizzo IP 癡 al bando!";
 $LANG["ErrorPost10"] = "Il tuo messaggio contiene parole non valide. Correggilo e rinviaci il modulo.";
 $LANG["ErrorPost11"] = "Hai dimenticato di riempire il campo del commento. Correggilo e rinviaci il modulo.";
 
 $LANG["PassMess1"] = "Per favore, inserisci uno username e una password validi:";
 $LANG["PassMess2"] = "Username o password non validi. Per favore, prova di nuovo.";
-$LANG["PassMess3"] = "Spiacenti, ma la password non è corretta.";
+$LANG["PassMess3"] = "Spiacenti, ma la password non 癡 corretta.";
 
 # Days
 $weekday[0] = "Domenica";
-$weekday[1] = "Lunedì";
-$weekday[2] = "Martedì";
-$weekday[3] = "Mercoledì";
-$weekday[4] = "Giovedì";
-$weekday[5] = "Venerdì";
+$weekday[1] = "Luned穫";
+$weekday[2] = "Marted穫";
+$weekday[3] = "Mercoled穫";
+$weekday[4] = "Gioved穫";
+$weekday[5] = "Venerd穫";
 $weekday[6] = "Sabato";
 
 # Months

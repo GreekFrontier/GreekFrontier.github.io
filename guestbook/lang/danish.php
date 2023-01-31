@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 # General
 
 $LANG["metatag"]    = '<meta http-equiv="Content-Type" content="text/html; charset=utf-8">';
@@ -11,7 +11,7 @@ $LANG["BookMess5"]  = "Administration";
 $LANG["BookMess6"]  = "Tak fordi du stoppede her hos os. Her kan l&aelig;gge din hilsen.";
 $LANG["BookMess7"]  = "Kommentar";
 $LANG["BookMess8"]  = "Tilbage til formular";
-$LANG["BookMess9"]  = "Skriv en kommentar til dette g&aelig;stebogsindlæ&aelig;g.";
+$LANG["BookMess9"]  = "Skriv en kommentar til dette g&aelig;stebogsindl疆&aelig;g.";
 $LANG["BookMess10"] = "<u>Tak fordi du skrev i g&aelig;stebogen.</u><br><br>Dit bidrag blev gemt korrekt! Du skulle nu blive sendt tilbage til g&aelig;stebogen om ca. 2 sek.";
 
 $LANG["EmailAdminSubject"] = "Nyt indl&aelig;g er skrevet i g&aelig;stebogen";

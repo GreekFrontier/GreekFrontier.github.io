@@ -1,4 +1,4 @@
-<html>
+﻿<html>
 <head>
 <title>Guestbook - Style</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -260,3 +260,4 @@ Settings</font></a> | <a href="<?php echo $this->SELF; ?>?action=settings&amp;pa
     <input type="hidden" value="style" name="panel">
   </center>
 </form>
+

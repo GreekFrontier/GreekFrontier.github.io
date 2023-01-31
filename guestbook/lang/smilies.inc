@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 require_once ("../admin/config.inc.php");
 require_once ("../lib/mysql.class.php");
 

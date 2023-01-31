@@ -1,4 +1,4 @@
-<table border="0" cellspacing="1" cellpadding="5" width="$VARS[width]" align="center" bgcolor="$VARS[tb_bg_color]">
+﻿<table border="0" cellspacing="1" cellpadding="5" width="$VARS[width]" align="center" bgcolor="$VARS[tb_bg_color]">
  <tr>
    <td colspan="2" bgcolor="$VARS[tb_hdr_color]"><b><font size="2" face="$VARS[font_face]" color="$VARS[tb_text]">$LANG[BookMess3]:</font></b>
    </td>
@@ -35,3 +35,4 @@
    </td>
  </tr>
 </table>
+

@@ -1,4 +1,4 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+ï»¿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <HTML>
 <HEAD>
 <TITLE>Emotikony i kody AGCode</TITLE>
@@ -13,23 +13,23 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
 <CENTER>
   <table width="95%" border="0" cellspacing="1" cellpadding="0">
     <tr>
-      <td height="25" align="center"><b> C&nbsp;O&nbsp;&nbsp;&nbsp;T&nbsp;O&nbsp;&nbsp;&nbsp;S&nbsp;¡&nbsp;&nbsp;&nbsp;E&nbsp;M&nbsp;O&nbsp;T&nbsp;I&nbsp;K&nbsp;O&nbsp;N&nbsp;Y?</b></td>
+      <td height="25" align="center"><b> C&nbsp;O&nbsp;&nbsp;&nbsp;T&nbsp;O&nbsp;&nbsp;&nbsp;S&nbsp;?nbsp;&nbsp;&nbsp;E&nbsp;M&nbsp;O&nbsp;T&nbsp;I&nbsp;K&nbsp;O&nbsp;N&nbsp;Y?</b></td>
     </tr>
     <tr>
       <td>
-        <p style="text-align:justify;">Nasza ksiêga umo¿liwia u¿ywanie tzw. emotikonów 
-          - znaków graficznych, reprezentuj±cych aktualny stan emocjonalny. Aby 
-          zobaczyæ emotikona nale¿ przechyliæ nieco g³owê na bok i zbitka znaków 
-          <b>:)</b>&nbsp;oka¿e siê u¶miechniêt± bu¼k±. W Internecie znale¼æ mo¿a 
-          mnóstwo takich znaków. Nasza Ksiêga Go¶ci zamienia te bu¼ki na obrazki:</p>
-        <p>Oto lista dostêpnych emotikonów:</p>
+        <p style="text-align:justify;">Nasza ksiç’•a umoç£§iwia uç¯¡wanie tzw. emotikoné—š 
+          - znaké—š graficznych, reprezentujå¸·ych aktualny stan emocjonalny. Aby 
+          zobaczy?emotikona nale?przechyli?nieco gé€™w?na bok i zbitka znaké—š 
+          <b>:)</b>&nbsp;okaç  si?ué„‰iechniçš»?buå¶”? W Internecie znaleæ½­ moç˜¸ 
+          mné€two takich znaké—š. Nasza Ksiç’•a Goè»¼i zamienia te buå¶”i na obrazki:</p>
+        <p>Oto lista dostç˜¼nych emotikoné—š:</p>
         </td>
     </tr>
   </table>
   <table bgcolor=#f7f7f7 border=0 width="95%" cellspacing="1" cellpadding="4">
     <tbody> 
     <tr> 
-      <td bgcolor="#996699"><font color=#ffffff><b>Wpisana bu¼ka</b></font></td>
+      <td bgcolor="#996699"><font color=#ffffff><b>Wpisana buå¶”a</b></font></td>
       <td bgcolor="#996699"><font color=#ffffff><b>Emocje</b></font></td>
       <td bgcolor="#996699"><font color=#ffffff><b>Zamiennik graficzny</b></font></td>
     </tr>
@@ -38,7 +38,7 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
         <div align="center"><b><font color="#000000">:) </font></b></div>
       </td>
       <td> 
-        <div align="center"><font color="#000000">u¶miech</font></div>
+        <div align="center"><font color="#000000">ué„‰iech</font></div>
       </td>
       <td> 
         <div align="center"><img alt="smile" border=0 height=15 src="../img/smilies/a1.gif" width=15></div>
@@ -82,7 +82,7 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
         <div align="center"><b><font color="#000000">:D </font></b></div>
       </td>
       <td> 
-        <div align="center"><font color="#000000">wielki u¶miech</font></div>
+        <div align="center"><font color="#000000">wielki ué„‰iech</font></div>
       </td>
       <td> 
         <div align="center"><img alt="big grin" border=0 height=15 src="../img/smilies/a5.gif" width=15></div>
@@ -93,7 +93,7 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
         <div align="center"><b><font color="#000000">:P </font></b></div>
       </td>
       <td bgcolor="#E1E1E1"> 
-        <div align="center"><font color="#000000">jêzyczek</font></div>
+        <div align="center"><font color="#000000">jç›yczek</font></div>
       </td>
       <td bgcolor="#E1E1E1"> 
         <div align="center"><img alt="razz" border=0 height=15 src="../img/smilies/a6.gif" width=15></div>
@@ -119,10 +119,10 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
     </tr>
     <tr>
       <td>
-        <p style="text-align:justify">AGCode to wariant kodu HTML umo¿liwiaj±cy wstawianie odsy³aczy do innych 
-          stron we wpisie do Ksiêgi Go¶ci bez znajomo¶ci kodu HTML. Kod HTML bêdzie 
-          automatycznie generowany je¶li zostan± u¿yte kody AG. 
-        <p>Dostêpne kody AG:
+        <p style="text-align:justify">AGCode to wariant kodu HTML umoç£§iwiajå¸·y wstawianie odsyè±‰czy do innych 
+          stron we wpisie do Ksiç’•i Goè»¼i bez znajomoè»¼i kodu HTML. Kod HTML bç’ zie 
+          automatycznie generowany jeéƒµi zostan?uç¯¡te kody AG. 
+        <p>Dostç˜¼ne kody AG:
       </td>
     </tr>
   </table>
@@ -133,30 +133,30 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
       <TABLE border=0 cellPadding=4 cellSpacing=1 width="100%">
         <TBODY>
         <TR bgColor=#0099CC>
-            <TD><b><font color="#FFFFFF">Odsy³acze do innych URL (innych stron)</font></b></TD>
+            <TD><b><font color="#FFFFFF">Odsyè±‰cze do innych URL (innych stron)</font></b></TD>
         </TR>
         <TR bgColor=#ffffff>
-            <TD height="118" ><font color="#000000">Konstrukcja kodu dla odsy³acza: 
+            <TD height="118" ><font color="#000000">Konstrukcja kodu dla odsyè±‰cza: 
               (<font color="#FF0000">czerwonym</font> kolorem zaznaczono kod AG) 
               </font> 
               <UL>
-                <LI><font color="#FF0000">[url=http://sjo-perfekt.pl]</font><font color="#000000">jaki¶_tekst<font color="#FF0000">[/url]</font></font> 
+                <LI><font color="#FF0000">[url=http://sjo-perfekt.pl]</font><font color="#000000">jakiè·›tekst<font color="#FF0000">[/url]</font></font> 
                   <font color="#000000"><br>
                   <br>
                   </font>
                 <LI><font color="#FF0000">[url]</font><font color="#000000">http://sjo-perfekt.pl<font color="#FF0000">[/url]</font></font> 
               </UL>
-              <P><font color="#000000">Powy¿sze przyk³ady zastosowania AGCode 
-                umo¿liwiaj± przekierowanie do stron innego serwisu.</font></P>
+              <P><font color="#000000">Powyçªºze przykè±‰dy zastosowania AGCode 
+                umoç£§iwiaj?przekierowanie do stron innego serwisu.</font></P>
                 
           </TD>
         <TR bgColor=#0099CC>
-            <TD><b><font color="#FFFFFF">Odsy³acze E-mail</font></b></TD>
+            <TD><b><font color="#FFFFFF">Odsyè±‰cze E-mail</font></b></TD>
         </TR>
         <TR bgColor=#ffffff>
             <TD>
-              <p style="text-align:justify"><font color="#000000">Mo¿liwe jest 
-                równie¿ umieszczanie we wpisie do Ksiêgi Go¶ci adresów e-mail: 
+              <p style="text-align:justify"><font color="#000000">Moç£§iwe jest 
+                ré—šnie?umieszczanie we wpisie do Ksiç’•i Goè»¼i adresé—š e-mail: 
                 (AGCode oznaczono kolorem</font> <font color="#ff0000">czerwonym</font><font color="#000000">). 
                 </font> 
               <P>
@@ -172,14 +172,14 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
         </TR>
         <TR bgColor=#ffffff>
             <TD>
-              <p  style="text-align:justify"><font color="#000000">Mo¿na dokonaæ 
-                pogrubienia i pochylenia tekstu stosuj±c kody AG: [b] [/b] oraz 
+              <p  style="text-align:justify"><font color="#000000">Moç©a dokona?
+                pogrubienia i pochylenia tekstu stosujå¸· kody AG: [b] [/b] oraz 
                 [i] [/i].</font> </p>
               <P>
               <UL>
                 <LI><font color="#000000"> Witam </font><FONT color=#ff0000>[b]</FONT><b><font color="#000000">MoonDee</font></b><FONT color=#ff0000>[/b]</FONT><BR>
                   <br>
-                <LI> <font color="#000000">Cze¶æ</font> <FONT color=#ff0000>[i]</FONT><I><font color="#000000">MoonDee</font></I><font color="#FF0000">[i]</font> 
+                <LI> <font color="#000000">Czeå—†</font> <FONT color=#ff0000>[i]</FONT><I><font color="#000000">MoonDee</font></I><font color="#FF0000">[i]</font> 
               </UL>
           </TD>
         </TR>
@@ -187,15 +187,15 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
             <TD><b><font color="#FFFFFF">Wstawianie grafiki</font></b></TD>
         </TR>
         <TR bgColor=#ffffff>
-            <TD><font color="#000000">Aby dodaæ grafikê (z jakiej¶ strony WWW) 
-              do pisanego tekstu nale¿y u¿yæ kodu: (AGCode na </font><FONT color=#ff0000>czerwono</FONT><font color="#000000">). 
+            <TD><font color="#000000">Aby doda?grafik?(z jakiej?strony WWW) 
+              do pisanego tekstu naleç¯¡ uç¯¡?kodu: (AGCode na </font><FONT color=#ff0000>czerwono</FONT><font color="#000000">). 
               </font> 
               <P>
               <UL>
                 <LI> <FONT color=#ff0000>[img]</FONT><font color="#000000">http://www.jakis_adres.com/rysunki/logo.gif</font><FONT color=#ff0000>[/img]</FONT> 
               </UL>
               <P><font color="#000000">UWAGA: fragment "http://" jest KONIECZNIE 
-                potrzebny aby zadzia³a³ kod </font><FONT color=#ff0000>[img]</FONT>.</P>
+                potrzebny aby zadziaè±‰?kod </font><FONT color=#ff0000>[img]</FONT>.</P>
           </TD>
         </TR>
         </TBODY>
@@ -207,15 +207,15 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
 <table width="95%" border="0" cellspacing="1" cellpadding="4" align="center">
   <tr>
       <td bgcolor="#a2a2a2"><font color="#800000">Na koniec</font><br>
-        Kody AG nie rozpoznaj± wielko¶ci liter: (mo¿na pisaæ <font color=#ff0000>[URL]</font> 
+        Kody AG nie rozpoznaj?wielkoè»¼i liter: (moç©a pisa?<font color=#ff0000>[URL]</font> 
         lub <font color=#ff0000>[url]</font>).<br>
         <br>
-        <font color="#800000">Niew³a¶ciwe u¿ycie kodów AG:</font> <br>
+        <font color="#800000">Niewè±‰è»¼iwe uç¯¡cie kodé—š AG:</font> <br>
         <font color="#ff0000">[url]</font> http://sjo-perfekt.pl <font color=#ff0000>[/url]</font> 
-        - nie wolno u¿ywaæ spacji wewn±trz kodu AG.<br>
+        - nie wolno uç¯¡wa?spacji wewnå¾ rz kodu AG.<br>
         <br>
         <font color="#ff0000">[email]</font>moondee@sjo-perfekt.pl<font color=#ff0000>[email]</font> 
-        - zamkniêcie kodu dokonuje znak SLASH (<font color=#ff0000>[/email]</font>) 
+        - zamkniç’šie kodu dokonuje znak SLASH (<font color=#ff0000>[/email]</font>) 
       </td>
   </tr>
 </table>
@@ -223,3 +223,4 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
 <BR>
 </BODY>
 </HTML>
+

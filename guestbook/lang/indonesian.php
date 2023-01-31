@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 /*
 Indonesian Translation
 by

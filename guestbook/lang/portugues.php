@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 # General
 
 $LANG["metatag"]    = "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">";
@@ -61,15 +61,15 @@ $LANG["NavNext"]    = "Pr&oacute;xima P&aacute;gina";
 # Post Errors
 $LANG["ErrorPost1"]  = "Voc&ecirc; esqueceu de preencher o campo Nome. Por favor corrija e envie envie novamente.";
 $LANG["ErrorPost2"]  = "Voc&ecirc; esqueceu de preencher o campo Mensagem. Por favor corrija e envie envie novamente.";
-$LANG["ErrorPost3"]  = "Sua mensagem está muito curta ou muito longa. Por favor corrija e envie envie novamente.";
+$LANG["ErrorPost3"]  = "Sua mensagem est獺 muito curta ou muito longa. Por favor corrija e envie envie novamente.";
 $LANG["ErrorPost4"]  = "Um dos campos parece n&atilde;o estar v&aaculte;lido.";
 $LANG["ErrorPost5"]  = "Livro de Visitas - Erro";
-$LANG["ErrorPost6"]  = "A imagem é muito grande";
+$LANG["ErrorPost6"]  = "A imagem 矇 muito grande";
 $LANG["ErrorPost7"]  = "Tipo de imagem n&aacute;o aceito";
 $LANG["ErrorPost8"]  = "Desculpe! N&oacute;s possuimos controle de flood ativado. Por favor tente novamente daqui a alguns minutos!";
 $LANG["ErrorPost9"]  = "Seu IP est&aacute; banido!";
 $LANG["ErrorPost10"] = "Sua mensagem cont&eacute;m algumas palavras n&atilde; permitidas. Your message contains some invalid words. Por favor corrija e envie envie novamente.";
-$LANG["ErrorPost11"] = "Vocę esqueceu de preencher o campo Coment&aacute;rios You forgot to fill in the Comment field. Por favor corrija e envie envie novamente.";
+$LANG["ErrorPost11"] = "Voc? esqueceu de preencher o campo Coment&aacute;rios You forgot to fill in the Comment field. Por favor corrija e envie envie novamente.";
 
 $LANG["PassMess1"] = "Por favor digite um nome de usu&aacute;rio e senha v&aacute;lidos:";
 $LANG["PassMess2"] = "nome de usu&aacute;rio e senha inv&aacute;lidos. Tente novamente.";

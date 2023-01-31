@@ -1,4 +1,4 @@
-<table border="0" cellspacing="0" cellpadding="2" align="center" width="$VARS[width]">
+﻿<table border="0" cellspacing="0" cellpadding="2" align="center" width="$VARS[width]">
    <tr>
     <td height="45"><b><font size="4" face="$VARS[font_face]" color="$VARS[text_color]">$LANG[FormSelect]</font></b></td>
     <td height="45">&nbsp;</td>
@@ -41,3 +41,4 @@ $COMMENT_PASS
     </tr>
   </table>
 </form>
+

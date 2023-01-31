@@ -1,7 +1,7 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//FI">
+ï»¿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//FI">
 <HTML>
 <HEAD>
-<TITLE>Hymiöt ja AGCode</TITLE>
+<TITLE>Hymié£† ja AGCode</TITLE>
 <META content="text/html; charset=windows-1252" http-equiv="Content-Type">
 <style type="text/css">
 <!--
@@ -13,16 +13,16 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
 <CENTER>
   <table width="95%" border="0" cellspacing="1" cellpadding="0">
     <tr>
-      <td height="25"> MITÄ &nbsp;OVAT &nbsp;HYMIÖT ?</td>
+      <td height="25"> MIT?&nbsp;OVAT &nbsp;HYMIç„† ?</td>
     </tr>
     <tr>
       <td>
-        <p>'Hymiöt' ovat pieniä graafisia kuvia, joilla voidaan ilmaista tunteita 
-	ja tuntemuksia. Jos olet käyttänyt sähköpostia tai internet chattiä, olet 
-	varmaan törmännyt hymiöihin. Tietyt näpäin yhdistelmät muutetaan automaattisesti
-	hymiöiksi. Yritä kääntää päätä, jos et saa hymiötä; käyttäen hieman mielikuvitusta
-	näkeäksesi jonkin määrätyn naaman.</p>
-        <p> Tässä on tällä hetkellä hyväksyttyjen hymiöiden lista: </p>
+        <p>'Hymié£†' ovat pieni?graafisia kuvia, joilla voidaan ilmaista tunteita 
+	ja tuntemuksia. Jos olet kéŠ›tté„šyt sé„£kéž¿ostia tai internet chatti? olet 
+	varmaan té¡¤mé„šnyt hymié‘€hin. Tietyt né„¡é„œn yhdistelmé…¹ muutetaan automaattisesti
+	hymié‘€ksi. Yrit?ké³µnté³µ pé³µt? jos et saa hymié£†? kéŠ›ttè¼‘n hieman mielikuvitusta
+	né„¢eé„¢sesi jonkin mé³µré…¹yn naaman.</p>
+        <p> Té…²s?on té„Ÿl?hetkell?hyvé„¢syttyjen hymié‘€den lista: </p>
       </td>
     </tr>
   </table>
@@ -41,18 +41,18 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
   <br>
   <table width="95%" border="0" cellspacing="1" cellpadding="0">
     <tr>
-      <td height="25">MITÄ &nbsp;&nbsp;&nbsp;ON &nbsp;&nbsp;&nbsp; A G C O D E ? </td>
+      <td height="25">MIT?&nbsp;&nbsp;&nbsp;ON &nbsp;&nbsp;&nbsp; A G C O D E ? </td>
     </tr>
     <tr>
       <td>
         <p>AGCode on HTML-koodin variaatio, joka saattaa olla entuudestaan tuttu.
-	Periaatteessa, se mahdollistaa lisätä toiminnallisuutta ja eri tyylejä
-	vieteihisi, jotka normaalisti vaatisivat HTML-koodia. Voit käyttää AGCodea
-	vaikka HTML-koodi ei ole aktivoitu vieraskirjassa. Voit haluta käyttää
+	Periaatteessa, se mahdollistaa lisé…¹?toiminnallisuutta ja eri tyylej?
+	vieteihisi, jotka normaalisti vaatisivat HTML-koodia. Voit kéŠ›tté³µ AGCodea
+	vaikka HTML-koodi ei ole aktivoitu vieraskirjassa. Voit haluta kéŠ›tté³µ
 	AGCode HTML-koodin sijaan vaikka HTML-koodi olisikin aktivoitu, koska
-	se vaatii vähemmän koodaamista ja on turvallisempi käyttää (Virheellinen
-	koodi ei aiheuta yhtä vakavia ongelmia).
-        <p>Tämän hetkiset AGCode-koodit:
+	se vaatii vé„£emmé„š koodaamista ja on turvallisempi kéŠ›tté³µ (Virheellinen
+	koodi ei aiheuta yht?vakavia ongelmia).
+        <p>Té„é„š hetkiset AGCode-koodit:
       </td>
     </tr>
   </table>
@@ -66,53 +66,53 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
           <TD><b><font color="#FFFFFF">URL Hyperlinkki</font></b></TD>
         </TR>
         <TR bgColor=#ffffff>
-          <TD>Jos AGCode on aktivoitu, sinun ei enää tarvitse käyttää HTML-koodia 
-	luodaksesi hyperlinkin. Yksinkertaisesti täydennä www-osoitetta jollain seuraavista tavoista
+          <TD>Jos AGCode on aktivoitu, sinun ei ené³µ tarvitse kéŠ›tté³µ HTML-koodia 
+	luodaksesi hyperlinkin. Yksinkertaisesti téŠ›denn?www-osoitetta jollain seuraavista tavoista
 	ja linkki luodaan automaattisesti:
             <UL>
               <LI><font color="#800000">http://www.sinunsivusi.com </font>
-              <LI><FONT color=#800000>www.sinunsivusi.com </FONT>Huomaa että voit käyttää
-	joko koko osoitetta http://www.sinunsivusi.com tai lyhennettyä www.sinunsivusi.com.
-	Jos sivusi osoite ei ala "www", sinun täytyy käyttää "http://" osoitetta.
-	 Voit myös käyttää https tai ftp osoitetta kun AGCode on aktivoitu<BR>
+              <LI><FONT color=#800000>www.sinunsivusi.com </FONT>Huomaa ett?voit kéŠ›tté³µ
+	joko koko osoitetta http://www.sinunsivusi.com tai lyhennetty?www.sinunsivusi.com.
+	Jos sivusi osoite ei ala "www", sinun téŠ›tyy kéŠ›tté³µ "http://" osoitetta.
+	 Voit myé£‰ kéŠ›tté³µ https tai ftp osoitetta kun AGCode on aktivoitu<BR>
                 <BR>
-              <LI>Voit myös käyttää linkin tekemiseen [url] koodia seuraavalla tavalla: <br><br>
+              <LI>Voit myé£‰ kéŠ›tté³µ linkin tekemiseen [url] koodia seuraavalla tavalla: <br><br>
                 <CENTER>
                   <FONT color=#ff0000>[url=http://www.proxy2.de]</FONT>hyperlink<FONT color=#ff0000>[/url]</FONT>
                 </CENTER><br><br>
               <LI>
-                <P>Vanha [URL] koodi toimii kuten kuvattu alla. Vain ympäröi linkki seuraavalla tavalla
+                <P>Vanha [URL] koodi toimii kuten kuvattu alla. Vain ympé…ºé‘€ linkki seuraavalla tavalla
 		(AGCode on merkitty <FONT color=#ff0000>punaisella</FONT>).
                 <P>
                   <CENTER>
                     <FONT color=#ff0000>[url]</FONT>http://www.proxy2.de<FONT color=#ff0000>[/url]</FONT>
                   </CENTER>
-                <P>Yllöolevassa esimerkissä AGCode automaatisesti luo linkin merkkittyyn www-osoitteeseen.
-		Se myös varmistaa että sivu avautuu uuteen ikkunaan kun käyttäjä painaa linkkiä.
-		Huomioi että "http://" osa on täysin vapaaehtoinen. Toisessa esimerkissä yläpuolella, 
-		teksti linkitetään minkä www-soitteen kirjoitatkaan on yhtä suuri merkin jälkeen. Huomaa
-		myös että sinä et saa käyttää lainausmerkkejä URL-tägin ulkopuolella. </P>
+                <P>Ylléœºlevassa esimerkiss?AGCode automaatisesti luo linkin merkkittyyn www-osoitteeseen.
+		Se myé£‰ varmistaa ett?sivu avautuu uuteen ikkunaan kun kéŠ›tté„ ?painaa linkki?
+		Huomioi ett?"http://" osa on téŠ›sin vapaaehtoinen. Toisessa esimerkiss?ylé„¡uolella, 
+		teksti linkiteté³µn mink?www-soitteen kirjoitatkaan on yht?suuri merkin jé„Ÿkeen. Huomaa
+		myé£‰ ett?sin?et saa kéŠ›tté³µ lainausmerkkej?URL-tè¼in ulkopuolella. </P>
               </LI>
             </UL>
           </TD>
         <TR bgColor=#0099CC>
-          <TD><b><font color="#FFFFFF">Sähköpostilinkit</font></b></TD>
+          <TD><b><font color="#FFFFFF">Sé„£kéž¿ostilinkit</font></b></TD>
         </TR>
         <TR bgColor=#ffffff>
-          <TD>Lisätäksesi sähköpostilinkin sinun pitää vain merkitä linkki seuraavalla tavalla (AGCode on merkitty
+          <TD>Lisé…¹é„¢sesi sé„£kéž¿ostilinkin sinun pité³µ vain merkit?linkki seuraavalla tavalla (AGCode on merkitty
             <FONT color=#ff0000>punaisella</FONT>).
             <P>
               <CENTER>
                 <FONT color=#ff0000>[email]</FONT>webmaster@proxy2.de<FONT color=#ff0000>[/email]</FONT>
               </CENTER>
-            <P>Yläpuolella olevassa esimerkissä ABCode luo automaattisesti linkin sähköpostiosoitteeseen, joka on [email- tägien välissä</P>
+            <P>Ylé„¡uolella olevassa esimerkiss?ABCode luo automaattisesti linkin sé„£kéž¿ostiosoitteeseen, joka on [email- tè¼ien vé„Ÿiss?/P>
           </TD>
         </TR>
         <TR bgColor=#0099CC>
           <TD><b><font color="#FFFFFF">Lihavoitu ja kursivoitu</font></b></TD>
         </TR>
         <TR bgColor=#ffffff>
-          <TD>Voit myös kirjoitta tekstiä kursivoituna tai lihavoituna käyttämällä [b] [/b] tai [i] [/i] tägejä.
+          <TD>Voit myé£‰ kirjoitta teksti?kursivoituna tai lihavoituna kéŠ›tté„é„Ÿl?[b] [/b] tai [i] [/i] tè¼ej?
             <P>
               <CENTER>
                 Hei, <FONT color=#ff0000>[b]</FONT><B>Jaakko</B><FONT color=#ff0000>[/b]</FONT><BR><br>
@@ -121,17 +121,17 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
           </TD>
         </TR>
         <TR bgColor=#0099CC>
-          <TD><b><font color="#FFFFFF">kuvien lisääminen</font></b></TD>
+          <TD><b><font color="#FFFFFF">kuvien lisé³µminen</font></b></TD>
         </TR>
         <TR bgColor=#ffffff>
-          <TD>Lisätäksesi kuvia sinun viestiisi, käyty [img] [/img] tägejä kuten alla olevassa esimerkissä 
+          <TD>Lisé…¹é„¢sesi kuvia sinun viestiisi, kéŠ›ty [img] [/img] tè¼ej?kuten alla olevassa esimerkiss?
 	(AGCode on merkitty <FONT color=#ff0000>punaisella</FONT>).
             <P>
               <CENTER>
                 <FONT color=#ff0000>[img]</FONT>http://www.yourURL.com/image/logo.gif<FONT color=#ff0000>[/img]</FONT>
               </CENTER>
-            <P>Kuten yläpuolella olevassa esimerkissä, AGCode muuttaa osoitteen automaattisesti tekstissä olevaksi kuvaksi
-	Huomioi että "http://" osa PAKOLLINEN <FONT color=#ff0000>[img]</FONT> koodissa.</P>
+            <P>Kuten ylé„¡uolella olevassa esimerkiss? AGCode muuttaa osoitteen automaattisesti tekstiss?olevaksi kuvaksi
+	Huomioi ett?"http://" osa PAKOLLINEN <FONT color=#ff0000>[img]</FONT> koodissa.</P>
           </TD>
         </TR>
         </TBODY>
@@ -143,13 +143,13 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
 <table width="95%" border="0" cellspacing="1" cellpadding="4" align="center">
   <tr>
     <td><font color=#800000>Huomioi!</font><br>
-      Sinun ei tule käyttää sekä HTML että AGCode tekemään sama tehtävä. Huomio myös että AGCode 
-	voidaan käyttää isoja ja pieniä kirjaimia (eli voit käyttää <font color=#ff0000>[URL]</font>
+      Sinun ei tule kéŠ›tté³µ sek?HTML ett?AGCode tekemé³µn sama tehtéŠ¥? Huomio myé£‰ ett?AGCode 
+	voidaan kéŠ›tté³µ isoja ja pieni?kirjaimia (eli voit kéŠ›tté³µ <font color=#ff0000>[URL]</font>
       tai <font color=#ff0000>[url]</font>).<br><br>
-      <font color="#800000">Esimerkki virheellisestä AGCode käytöstä:</font> <br>
-       <font color="#ff0000">[url]</font> www.proxy2.de <font color=#ff0000>[/url]</font> - älä laita välejä hakasulkujen ja osoitteen väliin.<br>
+      <font color="#800000">Esimerkki virheellisest?AGCode kéŠ›té£‰t?</font> <br>
+       <font color="#ff0000">[url]</font> www.proxy2.de <font color=#ff0000>[/url]</font> - é„Ÿ?laita vé„Ÿej?hakasulkujen ja osoitteen vé„Ÿiin.<br>
         <br>
-        <font color="#ff0000">[email]</font>webmaster@proxy2.de<font color=#ff0000>[email]</font> - Loppu tägeissä tulee olla keno viiva(<font color=#ff0000>[/email]</font>)
+        <font color="#ff0000">[email]</font>webmaster@proxy2.de<font color=#ff0000>[email]</font> - Loppu tè¼eiss?tulee olla keno viiva(<font color=#ff0000>[/email]</font>)
     </td>
   </tr>
 </table>
@@ -160,3 +160,4 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
 
 
 
+

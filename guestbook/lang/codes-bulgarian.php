@@ -1,7 +1,7 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+п»ї<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <HTML>
 <HEAD>
-<TITLE>Усмивки и AG код</TITLE>
+<TITLE>иї¶ж“Їзћѓ??AG и†°?/TITLE>
 <META content="text/html; charset=windows-1251" http-equiv="Content-Type">
 <style type="text/css">
 <!--
@@ -13,24 +13,24 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
 <CENTER>
   <table width="95%" border="0" cellspacing="1" cellpadding="0">
     <tr>
-      <td height="25"> К А К В О &nbsp;&nbsp;&nbsp;С А &nbsp;&nbsp;&nbsp;У С М И В К И Т Е?</td>
+      <td height="25"> ?????&nbsp;&nbsp;&nbsp;??&nbsp;&nbsp;&nbsp;?????????</td>
     </tr>
     <tr>
       <td>
-        <p>'Усмивките' са малки картинки които могат да бъдат използвани да придадат емоция на Вашето съобщение.Ако сте използвали e-mail или IRC, 
-          Вие сте запознати вече с тези "изрази". Тук стандартния текстов низ
-          автоматично се конвертира в усмивка. Завъртете главата си на една страна
-          и ако не видите усмивка; използвайте малко въображение.</p>
-        <p> Тук е списъка с използваните усмивки: </p>
+        <p>'иї¶ж“ЇзћѓйјЏ? й»џ ж†µйЌ†?зЅ»иІ—йґ€и†± и†°йјЏ?ж–Ѓињ¬?й­Ў жњ„й­Ў?йіїзЂЃйЊЈз”и†» й­Ў зЂ”йіјй¦Їеѓ— жЁ¦йљ¬? зёє иЅ‰й·їиҐњ е¬ЅйЌ•в•ќи†»?з‡Ґ?ељ¦?йіїзЂЃйЊЈз”йЊ’ e-mail йі№?IRC, 
+          йЋ”?ељ¦?и«зЂЃиіќеѓ—?зћ‚зЃљ ?и €иіҐ "йіїи­‡иіҐ". з§њ?ељ¦йі§й­ЎиІ—и†»пЈё и €и†ІиҐњ?и†»?
+          йЈ¶иҐњж†µи ‚з±¦?йј« и†°зЅїж­‘и ‚и­‡ ?йµЁж“Їзћѓ? пћЌз¦‹иІ—ж®Ј?ињ±йЈ¶еѓ—?йјЁ зёє ж§јзёє ељ¦и­‡зёє
+          ?й­›?зїґ зќЇе„°и € йµЁж“Їзћѓ? йіїзЂЃйЊЈз”жѕЅ?ж†µйЌ†?з¦‹йЌ•и­‡з·Єи†»?</p>
+        <p> з§њ??еЋґй»“о‚€??йіїзЂЃйЊЈз”и†»и € йµЁж“Їзћѓ? </p>
       </td>
     </tr>
   </table>
   <table bgcolor=#9CB5DC border=0 width="95%" cellspacing="1" cellpadding="4">
     <tbody>
     <tr>
-      <td bgcolor="#6288C6"><font color=#ffffff>Какво да напиша</font></td>
-      <td bgcolor="#6288C6"><font color=#ffffff>Емоция</font></td>
-      <td bgcolor="#6288C6"><font color=#ffffff>Картинка, която се появява</font></td>
+      <td bgcolor="#6288C6"><font color=#ffffff>еїєзЅє?й­Ў зёєж­ћйё†</font></td>
+      <td bgcolor="#6288C6"><font color=#ffffff>й±—йљ¬?</font></td>
+      <td bgcolor="#6288C6"><font color=#ffffff>еїєиІ—йґ€зЅ», и†°пЈёиҐњ йј« зЂЃпЈё?з”</font></td>
     </tr>
 
 <?php include ("./smilies.inc"); ?>
@@ -40,15 +40,15 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
   <br>
   <table width="95%" border="0" cellspacing="1" cellpadding="0">
     <tr>
-      <td height="25">К А К В О &nbsp;&nbsp;&nbsp; Е  &nbsp;&nbsp;&nbsp; У С Ъ В Ъ Р Ш Е Н С Т В А Н &nbsp;&nbsp;&nbsp;К О Д  &nbsp;&nbsp;&nbsp;З А  &nbsp;&nbsp;&nbsp; К Н И Г А&nbsp;&nbsp;&nbsp;   З А &nbsp;&nbsp;&nbsp; Г О С Т И ? </td>
+      <td height="25">?????&nbsp;&nbsp;&nbsp; ? &nbsp;&nbsp;&nbsp; ??????????????&nbsp;&nbsp;&nbsp;??? &nbsp;&nbsp;&nbsp;?? &nbsp;&nbsp;&nbsp; ?????nbsp;&nbsp;&nbsp;   ??&nbsp;&nbsp;&nbsp; ?????? </td>
     </tr>
     <tr>
       <td>
-        <p>AG кода е вариант на HTML таговете,  с които може би вече сте запознати. Основно, позволява функционалност и стил в Вашите
-          съобщения, за които се изисква HTML. Вие можете да използвате AG код дори когато
-          HTML е забранен в книгата за гости. Вие можете да го използвате и когато HTML е позволен,
-          а също така е и по-безопасен да употреба (некоректния синтаксис няма да създаде проблем).
-        <p>Текущ усъвършенстван AG код:
+        <p>AG и†°й­Ў ?з”и¬¶йі§?зёє HTML и ‰ињ¦зћ‚и €,  ?и†°йјЏ?ж–Ѓз·Є ж‘њ зћ‚зЃљ ељ¦?и«зЂЃиіќеѓ—? жўи†јзўґ? зЂЃиЄєйЋЂпЈёз” йЏµи‡ЊзЃ•йЌ™йіЄи†јељ¦ ?ељ¦йі№ ?иЅ‰йє и €
+          е¬ЅйЌ•в•ќи†»пЈё, и« и†°йјЏ?йј« йіїй»“зЅє?HTML. йЋ”?ж–Ѓз·Єи € й­Ў йіїзЂЃйЊЈз”и € AG и†°?е„‹и¬¶ и†°ињ¬иҐњ
+          HTML ?и«ж‘«йі§жЁ‡ ?и†«й­¬еѓ—?и« ињ¦ељ¦? йЋ”?ж–Ѓз·Єи € й­Ў ињ¦ йіїзЂЃйЊЈз”и € ?и†°ињ¬иҐњ HTML ?зЂЃиЄєйЋЂжЁ‡,
+          ?е¬Ѕв•› и ‰зЅ» ??зЂЃ-ж‘Ћиі§ж«Ўйј«?й­Ў йµїй—…и¬Ґж‘і (зїґи†°и¬Ґи†·и†»пЈё йјЁи‰њй­›йјЁ??ж†µ й­Ў е¬Ѕи«™й¦Ї?зЂ”йЌ•йЊј?.
+        <p>з ±и†§?йµЁо‚Ђо‚Ћй·їи‰љи ‹йі§ AG и†°?
       </td>
     </tr>
   </table>
@@ -59,59 +59,59 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
       <TABLE border=0 cellPadding=0 cellSpacing=0 width="100%">
         <TBODY>
         <TR bgColor=#6288C6>
-          <TD><b><font color="#FFFFFF">URL хипервръзка</font></b></TD>
+          <TD><b><font color="#FFFFFF">URL зє‡ж«‡и¬ји№—иі™?/font></b></TD>
         </TR>
         <TR bgColor=#ffffff>
-          <TD>Когато AG кода е активиран, вече не е необходимо да използвате
-            [URL] код за да създадете хипервръзка. Просто напишете пълния URL както е посочено по-долу и хипервръзката ще бъде създадена
-            автоматично:
+          <TD>ж‰»ињ¬иҐњ AG и†°й­Ў ?й­›и ‚зќЇи­‡? зћ‚зЃљ зїґ ?зїґйЌ•зѕ»е„°ж–Ѓ й­Ў йіїзЂЃйЊЈз”и €
+            [URL] и†°?и« й­Ў е¬Ѕи«™й¦Їж®Ј?зє‡ж«‡и¬ји№—иі™? з Ћй—ѓиҐњ зёєж­ћй·їи € з‡їйЊЌ? URL зЅ»и†·??зЂЃе‹·зЃљи†ј зЂЃ-е„‹й‹№ ?зє‡ж«‡и¬ји№—иі™еѓ—?в•ќ жњ„йє§ е¬Ѕи«™й¦ЇжЁ‡?
+            йЈ¶иҐњж†µи ‚з±¦?
             <UL>
               <LI><font color="#800000">http://www.yourURL.com </font>
-              <LI><FONT color=#800000>www.yourURL.com </FONT>Забележете, че можете да използвате пълния  http:// или краткия www
-                domain. Ако адреса не започва с "www", Вие трябва да използвате 
-                пълния "http://" адрес. Също може да използвате https и  ftp URL
-                префикс в autolink режима(when AGCode is ON). <BR>
+              <LI><FONT color=#800000>www.yourURL.com </FONT>пћЌж‘ЋйЊјз·Єи €, зЃљ ж–Ѓз·Єи € й­Ў йіїзЂЃйЊЈз”и € з‡їйЊЌ?  http:// йі№?и†ґеѓ—и†±пЈё www
+                domain. з‡Ґ?й¦Їи¬Ґй»џ зїґ и«зЂЃж¬Џ??"www", йЋ”?иҐќпЈёж‘µ?й­Ў йіїзЂЃйЊЈз”и € 
+                з‡їйЊЌ? "http://" й¦Їи¬Ґ? ж­­в•› ж–Ѓз·Є й­Ў йіїзЂЃйЊЈз”и € https ? ftp URL
+                зЂ”ж®¦йґЂ??autolink и¬Ґз·Ўж†µ(when AGCode is ON). <BR>
                 <BR>
-              <LI>Може също да имате истинска хипервръзка [url] код. Просто
-                използвайте следния формат: <br><br>
+              <LI>жІ“з·Є е¬Ѕв•› й­Ў йі»еѓ—?й»“и ‚и‰љзЅ» зє‡ж«‡и¬ји№—иі™?[url] и†°? з Ћй—ѓиҐњ
+                йіїзЂЃйЊЈз”жѕЅ?е„ґж§ји†»пЈё йђ•и¬Ѕеѓ—: <br><br>
                 <CENTER>
                   <FONT color=#ff0000>[url=http://www.atlanticradio.net]</FONT>hyperlink<FONT color=#ff0000>[/url]</FONT>
                 </CENTER><br><br>
               <LI>
-                <P>Стария [URL] код пак ще си работи, както е показано. Просто
-                  в случай,  връзката е показана в следния пример(AGCode is
+                <P>ж єеѓ¦? [URL] и†°?ж«Ў?в•ќ йјЁ и­‡жђїи ‚, зЅ»и†·??зЂЃзЅ»и«и†ј. з Ћй—ѓиҐњ
+                  ?е„ґйЅЂйЄ«,  зЎѕо‚…зЅ»и ‰ ?зЂЃзЅ»и«зёє ?е„ґж§ји†»пЈё зЂ”йі»ж­‘(AGCode is
                   in <FONT color=#ff0000>red</FONT>).
                 <P>
                   <CENTER>
                     <FONT color=#ff0000>[url]</FONT>http://www.atlanticradio.net<FONT color=#ff0000>[/url]</FONT>
                   </CENTER>
-                <P>В горните примери,  AG кода автоматично генерира
-                  хипервръзка до  URL който е означен. Това също осигурява,
-                  че връзката ще се отвори в нов прозорец при клик
-                  върху нея.  </P>
+                <P>?ињ¦и¬єйјЏ?зЂ”йі»ж­‘?  AG и†°й­Ў йЈ¶иҐњж†µи ‚з±¦?ињІзїґи¬¶и­‡
+                  зє‡ж«‡и¬ји№—иі™?е„‹  URL и†°жѕЅ??йЌЎзёєзЃљ? з§¬з” е¬Ѕв•› й—ѓй­¬й¶‡пЈёз”,
+                  зЃљ зЎѕо‚…зЅ»и ‰ в•ќ йј« й—…зў­и¬¶ ?и†ј?зЂ”йЌЎй—‰ж°Ђ зЂ”?и†№йґЂ
+                  з¦‹иґ‚?зїґпЈё.  </P>
               </LI>
             </UL>
           </TD>
         <TR bgColor=#6288C6>
-          <TD><b><font color="#FFFFFF">Email връзки</font></b></TD>
+          <TD><b><font color="#FFFFFF">Email зЎѕо‚…и†±</font></b></TD>
         </TR>
         <TR bgColor=#ffffff>
-          <TD>За да поставите хипервръзка на email адрес във Вашето съобщение, просто оградете
-             email адреса, както е показано в следния пример(AGCode is in
+          <TD>пћЌ й­Ў зЂЃељ¦йЈ¶йјЏ?зє‡ж«‡и¬ји№—иі™?зёє email й¦Їи¬Ґ?з¦‹?иЅ‰й·їиҐњ е¬ЅйЌ•в•ќи†»? зЂ”й—ѓиҐњ йЌЏи­‡йє§и €
+             email й¦Їи¬Ґй»џ, зЅ»и†·??зЂЃзЅ»и«и†ј ?е„ґж§ји†»пЈё зЂ”йі»ж­‘(AGCode is in
             <FONT color=#ff0000>red</FONT>).
             <P>
               <CENTER>
                 <FONT color=#ff0000>[email]</FONT>webmaster@atlanticradio.net<FONT color=#ff0000>[/email]</FONT>
               </CENTER>
-            <P> AG кода автоматимно генерира хипервръзка
-              към означения e-mail. </P>
+            <P> AG и†°й­Ў йЈ¶иҐњж†µи ‚ж“Ё?ињІзїґи¬¶и­‡ зє‡ж«‡и¬ји№—иі™?
+              и•«?йЌЎзёєзЃљи†»пЈё e-mail. </P>
           </TD>
         </TR>
         <TR bgColor=#6288C6>
           <TD><b><font color="#FFFFFF">Bold and Italics</font></b></TD>
         </TR>
         <TR bgColor=#ffffff>
-          <TD>Можете да създавате болд и италик текст като ограждате съответните текстови секции със следните [b] [/b] or [i] [/i] тагове.
+          <TD>жІ“з·Єи € й­Ў е¬Ѕи«™йЈ¶еѓ—?жђїйЊё ?йјЏйіЄйґЂ и €и†І?зЅ»иҐњ йЌЏи­‡з·›еѓ—?е¬Ѕй—…зћ‚иҐЎйјЏ?и €и†ІиҐњзќЇ йј«и‰–йі· е¬Ѕ?е„ґж§ји†»и € [b] [/b] or [i] [/i] и ‰ињ¦зћ‚.
             <P>
               <CENTER>
                 Hello, <FONT color=#ff0000>[b]</FONT><B>John</B><FONT color=#ff0000>[/b]</FONT><BR><br>
@@ -120,17 +120,17 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
           </TD>
         </TR>
         <TR bgColor=#6288C6>
-          <TD><b><font color="#FFFFFF">Добавяне на картинки</font></b></TD>
+          <TD><b><font color="#FFFFFF">з™©ж‘і?зїґ зёє зЅ»иІ—йґ€и†±</font></b></TD>
         </TR>
         <TR bgColor=#ffffff>
-          <TD>За да поставите графичен обект във Вашето съобщение, просто оградете URL на
-            графичния обект, както е показано в следния пример(AGCode is in <FONT color=#ff0000>red</FONT>).
+          <TD>пћЌ й­Ў зЂЃељ¦йЈ¶йјЏ?ињёеѓіе„љжЁ‡ йЌ•жЁЏ?з¦‹?иЅ‰й·їиҐњ е¬ЅйЌ•в•ќи†»? зЂ”й—ѓиҐњ йЌЏи­‡йє§и € URL зёє
+            ињёеѓіе„љи†»пЈё йЌ•жЁЏ? зЅ»и†·??зЂЃзЅ»и«и†ј ?е„ґж§ји†»пЈё зЂ”йі»ж­‘(AGCode is in <FONT color=#ff0000>red</FONT>).
             <P>
               <CENTER>
                 <FONT color=#ff0000>[img]</FONT>http://www.yourURL.com/image/logo.gif<FONT color=#ff0000>[/img]</FONT>
               </CENTER>
-            <P>В примера AG кода прави автоматично Вашия графичен обект видим. Забележете "http://" частта ат URL е
-              НЕОБХОДИМА за  <FONT color=#ff0000>[img]</FONT> code.</P>
+            <P>?зЂ”йі»ж­‘?AG и†°й­Ў зЂ”йЈ¶?йЈ¶иҐњж†µи ‚з±¦?иЅ‰йє пЈё ињёеѓіе„љжЁ‡ йЌ•жЁЏ?зќЇе„°? пћЌж‘ЋйЊјз·Єи € "http://" ж¬‘ељ¦и ‰ еѓ— URL ?
+              иЉ¶жЃ”жў‰йҐ‘жЉё и«  <FONT color=#ff0000>[img]</FONT> code.</P>
           </TD>
         </TR>
         </TBODY>
@@ -142,11 +142,11 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
 <table width="95%" border="0" cellspacing="1" cellpadding="4" align="center">
   <tr>
     <td><font color=#800000>Of Note</font><br>
-      Можете да използватеи двата HTML и AGCode за една и съща функция. Само забележете
-      че AG кода не е case чувствителен (можете да използвате <font color=#ff0000>[URL]</font>
-      и <font color=#ff0000>[url]</font>).<br><br>
+      жІ“з·Єи € й­Ў йіїзЂЃйЊЈз”и €?йі±еѓ—?HTML ?AGCode и« ж§јзёє ?е¬Ѕв•  йЏµи‡ЊзЃ•пЈё. жЎЏж–Ѓ и«ж‘ЋйЊјз·Єи €
+      зЃљ AG и†°й­Ў зїґ ?case ијзў«и ‹йјЏж§¶жЁ‡ (ж–Ѓз·Єи € й­Ў йіїзЂЃйЊЈз”и € <font color=#ff0000>[URL]</font>
+      ?<font color=#ff0000>[url]</font>).<br><br>
       <font color="#800000">Incorrect AGCode Usage:</font> <br>
-       <font color="#ff0000">[url]</font> www.atlanticradio.net <font color=#ff0000>[/url]</font> - не оставяйте разстояния между кода в скобите
+       <font color="#ff0000">[url]</font> www.atlanticradio.net <font color=#ff0000>[/url]</font> - зїґ й—ѓи ‰?жѕЅ?и­‡и¶ЎиҐњпЈёи†»пЈё ж‡¤з·›?и†°й­Ў ?йЅ•йЌ•йјЏ?
         .<br>
         <br>
         <font color="#ff0000">[email]</font>webmaster@atlanticradio.net<font color=#ff0000>[email]</font>  (<font color=#ff0000>[/email]</font>)
@@ -157,3 +157,4 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
 <BR>
 </BODY>
 </HTML>
+

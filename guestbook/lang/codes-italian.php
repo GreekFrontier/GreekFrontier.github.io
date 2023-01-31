@@ -1,4 +1,4 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+ï»¿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <HTML>
 <HEAD>
 <TITLE>Smilies And AGCodes</TITLE>
@@ -18,11 +18,11 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
     <tr>
       <td>
         <p>Le 'Smilies' sono  piccole immagini grafiche che possono essere usate per esprimere
-	 emozioni. Se avete già scritto email o chattato, avrete sicuramente già una buona familiarità
+	 emozioni. Se avete gi?scritto email o chattato, avrete sicuramente gi?una buona familiarit?
 	con il loro uso. Le  'faccine' standard vengono automaticamente convertite in 'Smiles' .
 Provate a girare  la vostra testa di lato se non  riuscite a vedere le 'faccine'; usando un po' di
 immaginazione dovreste poter riconoscere una faccia che esprime uno stato d'animo</p>
-        <p> Qui sotto c'è la lista di tutte le 'faccine' al momento riconosciute dal guestbook: </p>
+        <p> Qui sotto c'?la lista di tutte le 'faccine' al momento riconosciute dal guestbook: </p>
       </td>
     </tr>
   </table>
@@ -31,7 +31,7 @@ immaginazione dovreste poter riconoscere una faccia che esprime uno stato d'anim
     <tr>
       <td bgcolor="#996699"><font color=#ffffff><b>Cosa devi scrivere</b></font></td>
       <td bgcolor="#996699"><font color=#ffffff><b>Emozione</b></font></td>
-      <td bgcolor="#996699"><font color=#ffffff><b>Il disegno che verrà visualizzato</b></font></td>
+      <td bgcolor="#996699"><font color=#ffffff><b>Il disegno che verr?visualizzato</b></font></td>
     </tr>
 
 <?php include ("./smilies.inc"); ?>
@@ -46,9 +46,9 @@ immaginazione dovreste poter riconoscere una faccia che esprime uno stato d'anim
     </tr>
     <tr>
       <td>
-        <p>L'AGCode è una variazione dei tag HTML di cui potreste già avere una conoscenza di base.
-Permette di aggiungere funzionalità o stili al vostro messaggio, cosa permessa normalmente con l'uso dell'HTML. Si può usare l'AGCode anche se l'HTML sui messaggi è disabilitato. Potreste usare
-l'AGCode in sostituzione dell'HTML, anche se l'HTML è attivo sul guestbook, perchè richiede di scrivere meno codice ed è più sicuro da usare (sintassi errate non daranno problemi indesiderati).
+        <p>L'AGCode ?una variazione dei tag HTML di cui potreste gi?avere una conoscenza di base.
+Permette di aggiungere funzionalit?o stili al vostro messaggio, cosa permessa normalmente con l'uso dell'HTML. Si pu?usare l'AGCode anche se l'HTML sui messaggi ?disabilitato. Potreste usare
+l'AGCode in sostituzione dell'HTML, anche se l'HTML ?attivo sul guestbook, perch?richiede di scrivere meno codice ed ?pi?sicuro da usare (sintassi errate non daranno problemi indesiderati).
         <p>L'AGCodes corrente:
       </td>
     </tr>
@@ -63,25 +63,25 @@ l'AGCode in sostituzione dell'HTML, anche se l'HTML è attivo sul guestbook, perc
           <TD><b><font color="#FFFFFF">URL Hyperlinking</font></b></TD>
         </TR>
         <TR bgColor=#ffffff>
-          <TD>Se AGCode è abilitato, non dovrete più usare il codice per creare un hyperlink. Digitate semplicemente la URL completa in uno dei seguenti modi e il link sarà creato automaticamente:
+          <TD>Se AGCode ?abilitato, non dovrete pi?usare il codice per creare un hyperlink. Digitate semplicemente la URL completa in uno dei seguenti modi e il link sar?creato automaticamente:
             <UL>
               <LI><font color="#800000">http://www.iltuoURL.com </font>
-              <LI><FONT color=#800000>www.iltuoURL.com </FONT>Potete usare la dicitura completa di http:// o digitare solo il dominio senza www. Se il sito non inizia con "www", dovete usare l'indirizzo completo con davanti "http://". Si possono anche usare indirizzi con protocolli https e ftp  (quando  AGCode è attivo). <BR>
+              <LI><FONT color=#800000>www.iltuoURL.com </FONT>Potete usare la dicitura completa di http:// o digitare solo il dominio senza www. Se il sito non inizia con "www", dovete usare l'indirizzo completo con davanti "http://". Si possono anche usare indirizzi con protocolli https e ftp  (quando  AGCode ?attivo). <BR>
                 <BR>
               <LI>Puoi anche avere degli hyperlink usando lo [url] codice, usando il seguente formato: <br><br>
                 <CENTER>
                   <FONT color=#ff0000>[url=http://www.proxy2.de]</FONT>hyperlink<FONT color=#ff0000>[/url]</FONT>
                 </CENTER><br><br>
               <LI>
-                <P>Il vecchio [URL] codice lavorerà ancora, come scritto qui sotto. Racchiudete il link come vedete nel seguente esempio (l'AGCode è<FONT color=#ff0000>scritto in rosso</FONT>).
+                <P>Il vecchio [URL] codice lavorer?ancora, come scritto qui sotto. Racchiudete il link come vedete nel seguente esempio (l'AGCode ?FONT color=#ff0000>scritto in rosso</FONT>).
                 <P>
                   <CENTER>
                     <FONT color=#ff0000>[url]</FONT>http://www.proxy2.de<FONT color=#ff0000>[/url]</FONT>
                   </CENTER>
                 <P>
 
-Nell'esempio sopra l'AGCode genererà automaticamente
-un hiperlink all'indirizzo che racchiude. Assicurerà che il link sia aperto in una nuova finestra non appena un utente ci cliccherà sopra. Notare che la parte "http://" è opzionale. Nel secondo esempio visto sopra, la URL sarà assegnata al testo che verrà inserito dopo il segno uguale. Si noti anche che non sono state usate le virgolette per scrivere l'indirizzo. </P>
+Nell'esempio sopra l'AGCode generer?automaticamente
+un hiperlink all'indirizzo che racchiude. Assicurer?che il link sia aperto in una nuova finestra non appena un utente ci cliccher?sopra. Notare che la parte "http://" ?opzionale. Nel secondo esempio visto sopra, la URL sar?assegnata al testo che verr?inserito dopo il segno uguale. Si noti anche che non sono state usate le virgolette per scrivere l'indirizzo. </P>
               </LI>
             </UL>
           </TD>
@@ -89,7 +89,7 @@ un hiperlink all'indirizzo che racchiude. Assicurerà che il link sia aperto in u
           <TD><b><font color="#FFFFFF">Email Links</font></b></TD>
         </TR>
         <TR bgColor=#ffffff>
-          <TD>Per aggiungere un link ad una email nel messaggio, racchiudere l'indirizzo email come descritto qui sotto (l'AGCode è 
+          <TD>Per aggiungere un link ad una email nel messaggio, racchiudere l'indirizzo email come descritto qui sotto (l'AGCode ?
             <FONT color=#ff0000>scritto in rosso</FONT>).
             <P>
               <CENTER>
@@ -115,12 +115,12 @@ un hiperlink all'indirizzo che racchiude. Assicurerà che il link sia aperto in u
           <TD><b><font color="#FFFFFF">Aggiungere immagini</font></b></TD>
         </TR>
         <TR bgColor=#ffffff>
-          <TD>Per aggiungere immagini nel messaggio, racchiudere la URL dell'immagine come nell'esempio qui sotto (l'AGCode è <FONT color=#ff0000>scritto in rosso</FONT>).
+          <TD>Per aggiungere immagini nel messaggio, racchiudere la URL dell'immagine come nell'esempio qui sotto (l'AGCode ?<FONT color=#ff0000>scritto in rosso</FONT>).
             <P>
               <CENTER>
                 <FONT color=#ff0000>[img]</FONT>http://www.yourURL.com/image/logo.gif<FONT color=#ff0000>[/img]</FONT>
               </CENTER>
-            <P>Nell'esempio sopra, l'AGCode rende  automaticamente visibile l'immagine all'interno del messaggio. Notare che la parte "http://" della URL è OBBLIGATORIA per il tag <FONT color=#ff0000>[img]</FONT>.</P>
+            <P>Nell'esempio sopra, l'AGCode rende  automaticamente visibile l'immagine all'interno del messaggio. Notare che la parte "http://" della URL ?OBBLIGATORIA per il tag <FONT color=#ff0000>[img]</FONT>.</P>
           </TD>
         </TR>
         </TBODY>
@@ -132,7 +132,7 @@ un hiperlink all'indirizzo che racchiude. Assicurerà che il link sia aperto in u
 <table width="95%" border="0" cellspacing="1" cellpadding="4" align="center">
   <tr>
     <td><font color=#800000>NOTE</font><br>
-      Non usare l'HTML e l'AGCode assieme per fare la stessa cosa. Si noti anche che l'AGCode non è 'case-sensitive' (cioè non fa differenza scrivere in maiuscolo o in minuscolo il codice: si può scrivere sia <font color=#ff0000>[URL]</font>
+      Non usare l'HTML e l'AGCode assieme per fare la stessa cosa. Si noti anche che l'AGCode non ?'case-sensitive' (cio?non fa differenza scrivere in maiuscolo o in minuscolo il codice: si pu?scrivere sia <font color=#ff0000>[URL]</font>
       che <font color=#ff0000>[url]</font>).<br><br>
       <font color="#800000">Uso incorretto dell'AGCode:</font> <br>
        <font color="#ff0000">[url]</font> www.proxy2.de <font color=#ff0000>[/url]</font> - non mettere spazi tra i tag e il testo racchiuso all'interno.<br>
@@ -145,3 +145,4 @@ un hiperlink all'indirizzo che racchiude. Assicurerà che il link sia aperto in u
 <BR>
 </BODY>
 </HTML>
+

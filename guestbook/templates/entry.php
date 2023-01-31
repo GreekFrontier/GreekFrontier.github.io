@@ -1,4 +1,4 @@
-<tr bgcolor="$bgcolor">
+﻿<tr bgcolor="$bgcolor">
  <td width="32%" valign="top">
    <table border="0" cellspacing="0" cellpadding="2">
      <tr>
@@ -31,3 +31,4 @@
    $COMMENT
  </td>
 </tr>
+

@@ -1,4 +1,4 @@
-
+﻿
 <table border="0" cellspacing="0" cellpadding="2" align="center" width="$VARS[width]">
   <tr>
     <td width="55%" height="40"><font size="4" face="$VARS[font_face]" color="$VARS[text_color]"><b>$LANG[ErrorPost5]</b></font></td>
@@ -11,3 +11,4 @@
   </tr>
 </table>
 <br>
+

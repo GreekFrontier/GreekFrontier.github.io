@@ -1,4 +1,4 @@
-<html>
+﻿<html>
 <head>
 <title>Guestbook - Admin Panel</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -18,3 +18,4 @@ Settings</font></a> | <a href="<?php echo $this->SELF; ?>?action=settings&amp;pa
 <hr>
 <b><font size="1" face="Verdana, Arial" color="#FFFFFF">To check your environmental variables, <a href="<?php echo $this->SELF; ?>?action=info&amp;session=<?php echo $this->session; ?>&amp;uid=<?php echo $this->uid; ?>">click here.</a></font></b>
 <br><br><br>
+

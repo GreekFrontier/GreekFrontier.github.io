@@ -1,4 +1,4 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//SWE">
+ï»¿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//SWE">
 <HTML>
 <HEAD>
 <TITLE>Smilies And AGCodes</TITLE>
@@ -17,17 +17,17 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
     </tr>
     <tr>
       <td>
-        <p>'Smilies' är små bilder du kan använda för att visa känslor. Om du vrider huvudet
-	i sida så kan du vanligen se vad de föreställer.</p>
-        <p> Här är en lista på allmännt accepterade smilies: </p>
+        <p>'Smilies' é…º sm?bilder du kan anvé„šda fé¡¤ att visa ké„šslor. Om du vrider huvudet
+	i sida s?kan du vanligen se vad de fé¡¤esté„Ÿler.</p>
+        <p> Hé…º é…º en lista p?allmé„šnt accepterade smilies: </p>
       </td>
     </tr>
   </table>
   <table bgcolor=#f7f7f7 border=0 width="95%" cellspacing="1" cellpadding="4">
     <tbody>
     <tr>
-      <td bgcolor="#996699"><font color=#ffffff><b>Så här skrivs det</b></font></td>
-      <td bgcolor="#996699"><font color=#ffffff><b>Känsla</b></font></td>
+      <td bgcolor="#996699"><font color=#ffffff><b>S?hé…º skrivs det</b></font></td>
+      <td bgcolor="#996699"><font color=#ffffff><b>Ké„šsla</b></font></td>
       <td bgcolor="#996699"><font color=#ffffff><b>Vad som visar sig grafiskt.</b></font></td>
     </tr>
 
@@ -38,15 +38,15 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
   <br>
   <table width="95%" border="0" cellspacing="1" cellpadding="0">
     <tr>
-      <td height="25">V A D &nbsp;&nbsp;&nbsp;Ä R &nbsp;&nbsp;&nbsp;A V A
-        N C E R A D &nbsp;&nbsp;&nbsp;G Ä S T B  O K &nbsp;&nbsp;&nbsp;C O D E ? </td>
+      <td height="25">V A D &nbsp;&nbsp;&nbsp;?R &nbsp;&nbsp;&nbsp;A V A
+        N C E R A D &nbsp;&nbsp;&nbsp;G ?S T B  O K &nbsp;&nbsp;&nbsp;C O D E ? </td>
     </tr>
     <tr>
       <td>
-        <p>AGCode är en variation på vanlig enkel HTML kod. Man använder dessa koder
-	för att formatera sitt meddelande. Du kan använda AGCode även om
-          HTML inte får användas i gästboken. Du kan också välja att använda AGCode istället
-	för HTML, den innehåller färre kommando att hålla reda på och är säkrare.
+        <p>AGCode é…º en variation p?vanlig enkel HTML kod. Man anvé„šder dessa koder
+	fé¡¤ att formatera sitt meddelande. Du kan anvé„šda AGCode éŠ¥en om
+          HTML inte fç·³ anvé„šdas i gé…²tboken. Du kan ocks?vé„Ÿja att anvé„šda AGCode isté„Ÿlet
+	fé¡¤ HTML, den innehå¶šler fé…ºre kommando att hå¶šla reda p?och é…º sé„¢rare.
         <p>Vanliga AGCodes:
       </td>
     </tr>
@@ -61,35 +61,35 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
           <TD><b><font color="#FFFFFF">URL Hyperlinking</font></b></TD>
         </TR>
         <TR bgColor=#ffffff>
-          <TD>Om AGCode är tillåten så behöver du inte längre använda 
-            [URL] code för att skapa en länk. Bara skriv in hela URL:en på något av
-		följande sätt så kommer länken att skapas automatiskt.:
+          <TD>Om AGCode é…º tillå»en s?behé¥˜er du inte lé„šgre anvé„šda 
+            [URL] code fé¡¤ att skapa en lé„šk. Bara skriv in hela URL:en p?nå¶“ot av
+		fé—¤jande sé…¹t s?kommer lé„šken att skapas automatiskt.:
             <UL>
               <LI><font color="#800000">http://www.yourURL.com </font>
               <LI><FONT color=#800000>www.yourURL.com </FONT>Notera att du antingen kan
-                använda den kompletta http:// address eller den kortare varianten www
-                domain. Om hemsida inte börjar med "www", så måste du använda den längre varianten.
-		 Du kan också använda https och ftp URL
-                prefix i auto-link läge (när AGCode is på). <BR>
+                anvé„šda den kompletta http:// address eller den kortare varianten www
+                domain. Om hemsida inte bé¡¤jar med "www", s?må»›te du anvé„šda den lé„šgre varianten.
+		 Du kan ocks?anvé„šda https och ftp URL
+                prefix i auto-link lè¼e (né…º AGCode is p?. <BR>
                 <BR>
-              <LI>Du kan också ha äkta [url] länkar genom att skriva code. Andvänd
-		bara följande format: <br><br>
+              <LI>Du kan ocks?ha é„¢ta [url] lé„škar genom att skriva code. Andvé„šd
+		bara fé—¤jande format: <br><br>
                 <CENTER>
                   <FONT color=#ff0000>[url=http://www.proxy2.de]</FONT>hyperlink<FONT color=#ff0000>[/url]</FONT>
                 </CENTER><br><br>
               <LI>
                 <P>Den gamla [URL] coden kommer fortfarande att fungera, som beskrivs nedan. Men 
-                  utifall länken visas som i exemplet(AGCode är
-                  i <FONT color=#ff0000>rött</FONT>).
+                  utifall lé„šken visas som i exemplet(AGCode é…º
+                  i <FONT color=#ff0000>ré£†t</FONT>).
                 <P>
                   <CENTER>
                     <FONT color=#ff0000>[url]</FONT>http://www.proxy2.de<FONT color=#ff0000>[/url]</FONT>
                   </CENTER>
                 <P>I exemplet ovan, kommer AGCoden automatiskt att generera
-                  en länkt till URL:en. Den kommer också att göra så att länken öppnas i ett nytt fönster när 
-		man klicka på den. Notera att "http://" delen av URL:en är frivillig. 
-		I det andra exemplet ovan, kommer URL:en länka texten till den URL du skriver in efter likhetstecknet.
-                  Notera också att du inte skall använda citationstecken inne i en länk. 
+                  en lé„škt till URL:en. Den kommer ocks?att gé¡¤a s?att lé„šken é¿pnas i ett nytt féœµster né…º 
+		man klicka p?den. Notera att "http://" delen av URL:en é…º frivillig. 
+		I det andra exemplet ovan, kommer URL:en lé„ška texten till den URL du skriver in efter likhetstecknet.
+                  Notera ocks?att du inte skall anvé„šda citationstecken inne i en lé„šk. 
 		</P>
               </LI>
             </UL>
@@ -98,13 +98,13 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
           <TD><b><font color="#FFFFFF">Email Links</font></b></TD>
         </TR>
         <TR bgColor=#ffffff>
-          <TD>För att lägga till en länkad e-mail adress inuti ett meddelande, skriva bara in den som i exemplet nedan. 	(AGCode is in
+          <TD>Fé¡¤ att lè¼ga till en lé„škad e-mail adress inuti ett meddelande, skriva bara in den som i exemplet nedan. 	(AGCode is in
             <FONT color=#ff0000>red</FONT>).
             <P>
               <CENTER>
                 <FONT color=#ff0000>[email]</FONT>webmaster@proxy2.de<FONT color=#ff0000>[/email]</FONT>
               </CENTER>
-            <P>I exemplet ovan kommer AGCoden automatiskt att generera en länk till e-mail adressen som finns där.
+            <P>I exemplet ovan kommer AGCoden automatiskt att generera en lé„šk till e-mail adressen som finns dé…º.
               </P>
           </TD>
         </TR>
@@ -112,7 +112,7 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
           <TD><b><font color="#FFFFFF">Fet ock kursiv stil</font></b></TD>
         </TR>
         <TR bgColor=#ffffff>
-          <TD>Om du vill ha fet- eller kursiv stil så skriver du bara in den mellan taggarna [b] [/b] [i] [/i] .
+          <TD>Om du vill ha fet- eller kursiv stil s?skriver du bara in den mellan taggarna [b] [/b] [i] [/i] .
             <P>
               <CENTER>
                 Hello, <FONT color=#ff0000>[b]</FONT><B>John</B><FONT color=#ff0000>[/b]</FONT><BR><br>
@@ -121,16 +121,16 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
           </TD>
         </TR>
         <TR bgColor=#0099CC>
-          <TD><b><font color="#FFFFFF">Lägga till bilder</font></b></TD>
+          <TD><b><font color="#FFFFFF">Lè¼ga till bilder</font></b></TD>
         </TR>
         <TR bgColor=#ffffff>
-          <TD>För att lägga in en bild i ett meddelande så skriver du bara in adressen och namnet på bilden
-		som det är beskrivet här nedan. (AGCode is in <FONT color=#ff0000>red</FONT>).
+          <TD>Fé¡¤ att lè¼ga in en bild i ett meddelande s?skriver du bara in adressen och namnet p?bilden
+		som det é…º beskrivet hé…º nedan. (AGCode is in <FONT color=#ff0000>red</FONT>).
             <P>
               <CENTER>
                 <FONT color=#ff0000>[img]</FONT>http://www.yourURL.com/image/logo.gif<FONT color=#ff0000>[/img]</FONT>
               </CENTER>
-            <P>I exemplet ovan så kommer AGCcoden automatiskt visa bilden i ditt meddelande.Notera: "http://" delen av URL:en 		måste skrivas in.<FONT color=#ff0000>[img]</FONT> </P>
+            <P>I exemplet ovan s?kommer AGCcoden automatiskt visa bilden i ditt meddelande.Notera: "http://" delen av URL:en 		må»›te skrivas in.<FONT color=#ff0000>[img]</FONT> </P>
           </TD>
         </TR>
         </TBODY>
@@ -141,15 +141,15 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
 </TABLE>
 <table width="95%" border="0" cellspacing="1" cellpadding="4" align="center">
   <tr>
-    <td><font color=#800000>Tillägg</font><br>
-      Du skall inte använda både HTML och AGCode för att göra samma sak. Notera också
-      att AGCoden inte är beroende av små och stora bokstäver (så du kan använda <font color=#ff0000>[URL]</font>
+    <td><font color=#800000>Tillè¼g</font><br>
+      Du skall inte anvé„šda bå¶Ÿe HTML och AGCode fé¡¤ att gé¡¤a samma sak. Notera ocks?
+      att AGCoden inte é…º beroende av sm?och stora bokstéŠ¥er (s?du kan anvé„šda <font color=#ff0000>[URL]</font>
       or <font color=#ff0000>[url]</font>).<br><br>
-      <font color="#800000">Felaktig AGCode användning:</font> <br>
-       <font color="#ff0000">[url]</font> www.proxy2.de <font color=#ff0000>[/url]</font> - lägg inte in mellanslag mellan 
+      <font color="#800000">Felaktig AGCode anvé„šdning:</font> <br>
+       <font color="#ff0000">[url]</font> www.proxy2.de <font color=#ff0000>[/url]</font> - lè¼g inte in mellanslag mellan 
 	code inom paranteser eller texten som du formaterar.<br>
         <br>
-        <font color="#ff0000">[email]</font>webmaster@proxy2.de<font color=#ff0000>[email]</font> - den avslutande parantesen har alltid ett framåt lutande snedstreck.(<font color=#ff0000>[/email]</font>)
+        <font color="#ff0000">[email]</font>webmaster@proxy2.de<font color=#ff0000>[email]</font> - den avslutande parantesen har alltid ett framå» lutande snedstreck.(<font color=#ff0000>[/email]</font>)
     </td>
   </tr>
 </table>
@@ -157,3 +157,4 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
 <BR>
 </BODY>
 </HTML>
+

@@ -1,4 +1,4 @@
-<html>
+﻿<html>
 <head>
 <title>Guestbook - Easy Admin</title>
 <?php
@@ -182,3 +182,4 @@ $id--;
 ?>
   </table>
   </form>
+

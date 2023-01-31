@@ -1,4 +1,4 @@
-Advanced Guestbook 2.4.3 (PHP/MySQL)
+﻿Advanced Guestbook 2.4.3 (PHP/MySQL)
 Copyright (c) Chi Kien Uong
 URL: http://www.proxy2.de
 
@@ -24,3 +24,4 @@ Installation:
 
 
 
+

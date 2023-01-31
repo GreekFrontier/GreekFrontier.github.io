@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 $include_path = dirname(__FILE__);
 require_once $include_path."/admin/config.inc.php";
 
@@ -70,3 +70,4 @@ if (isset($size[1]) && $size[1]>100) {
 </table>
 </body>
 </html>
+

@@ -1,101 +1,101 @@
-<?php
+﻿<?php
 # General
 
 $LANG["metatag"]    = "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">";
 
-$LANG["BookMess1"]  = "HTML code 关闭";
-$LANG["BookMess2"]  = "HTML code 打开";
-$LANG["BookMess3"]  = "我要留言";
-$LANG["BookMess4"]  = "回到留言板";
-$LANG["BookMess5"]  = "管理者";
-$LANG["BookMess6"]  = "感谢您的停留，请留下您的意见或建议。";
-$LANG["BookMess7"]  = "留言内容";
-$LANG["BookMess8"]  = "回到送出表";
-$LANG["BookMess9"]  = "回复此篇留言";
-$LANG["BookMess10"] = "<u>感谢您的留言。</u><br><br>您的留言已经加入成功! 2秒后返回到留言板。";
+$LANG["BookMess1"]  = "HTML code ?喲";
+$LANG["BookMess2"]  = "HTML code ??";
+$LANG["BookMess3"]  = "????";
+$LANG["BookMess4"]  = "?????;
+$LANG["BookMess5"]  = "蝞∠???;
+$LANG["BookMess6"]  = "?陝?函???嚗窈???函????遣霈柴?;
+$LANG["BookMess7"]  = "???捆";
+$LANG["BookMess8"]  = "??銵?;
+$LANG["BookMess9"]  = "??甇斤???";
+$LANG["BookMess10"] = "<u>?陝?函?????/u><br><br>?函???撌脩????! 2蝘?餈??啁?閮?踴?;
 
-$LANG["EmailAdminSubject"] = "新留言板";
-$LANG["EmailGuestSubject"] = "感谢您的留言";
+$LANG["EmailAdminSubject"] = "?啁?閮??;
+$LANG["EmailGuestSubject"] = "?陝?函???";
 
-$LANG["AltIP"]    = "IP地址";
+$LANG["AltIP"]    = "IP?啣?";
 $LANG["AltICQ"]   = "QQ";
-$LANG["AltEmail"] = "写信给他";
-$LANG["AltUrl"]   = "网址";
-$LANG["AltAim"]   = "即时信息";
-$LANG["AltCom"]   = "回复";
+$LANG["AltEmail"] = "?縑蝏?";
+$LANG["AltUrl"]   = "蝵?";
+$LANG["AltAim"]   = "?單靽⊥";
+$LANG["AltCom"]   = "??";
 
 # Form
-$LANG["FormMess1"]   = "请填写您的留言，送出后您将回到留言本。有(*)者为必需填写的栏目。";
-$LANG["FormMess2"]   = "表情图案 打开";
-$LANG["FormMess3"]   = "AGCode 打开";
-$LANG["FormMess4"]   = "范例";
-$LANG["FormMess5"]   = "下方是预览画面";
-$LANG["FormMess6"]   = "AGCode 关闭";
-$LANG["FormMess7"]   = "表情图案 关闭";
-$LANG["FormName"]    = "访客姓名";
-$LANG["FormEmail"]   = "电子邮件";
-$LANG["FormLoc"]     = "来自";
-$LANG["FormPic"]     = "图片";
-$LANG["FormUrl"]     = "网站";
-$LANG["FormGender"]  = "性别";
-$LANG["FormMale"]    = "男";
-$LANG["FormFemale"]  = "女";
-$LANG["FormMessage"] = "留言内容";
-$LANG["FormSelect"]  = "留言板";
-$LANG["FormUser"]    = "账号";
-$LANG["FormPass"]    = "密码";
-$LANG["FormReset"]   = "清除";
-$LANG["FormSubmit"]  = "送出";
-$LANG["FormPreview"] = "预览";
-$LANG["FormBack"]    = "回上页";
-$LANG["FormEnter"]   = "留言板 - 管理中心";
-$LANG["FormButton"]  = "确定";
-$LANG["FormPriv"]    = "私密讯息(留言给管理者)";
+$LANG["FormMess1"]   = "霂瑕‵???閮嚗?撠??啁?閮?研?(*)?蛹敹?憛怠????柴?;
+$LANG["FormMess2"]   = "銵冽??暹? ??";
+$LANG["FormMess3"]   = "AGCode ??";
+$LANG["FormMess4"]   = "??";
+$LANG["FormMess5"]   = "銝?舫?閫??;
+$LANG["FormMess6"]   = "AGCode ?喲";
+$LANG["FormMess7"]   = "銵冽??暹? ?喲";
+$LANG["FormName"]    = "霈踹恥憪?";
+$LANG["FormEmail"]   = "?萄??桐辣";
+$LANG["FormLoc"]     = "?亥";
+$LANG["FormPic"]     = "?曄?";
+$LANG["FormUrl"]     = "蝵?";
+$LANG["FormGender"]  = "?批";
+$LANG["FormMale"]    = "??;
+$LANG["FormFemale"]  = "憟?;
+$LANG["FormMessage"] = "???捆";
+$LANG["FormSelect"]  = "????;
+$LANG["FormUser"]    = "韐血";
+$LANG["FormPass"]    = "撖?";
+$LANG["FormReset"]   = "皜";
+$LANG["FormSubmit"]  = "?";
+$LANG["FormPreview"] = "憸?";
+$LANG["FormBack"]    = "??憿?;
+$LANG["FormEnter"]   = "????- 蝞∠?銝剖?";
+$LANG["FormButton"]  = "蝖桀?";
+$LANG["FormPriv"]    = "蝘?霈舀(??蝏恣??";
 
 # Navigation Bar
-$LANG["NavTotal"]   = "留言总数:";
-$LANG["NavRecords"] = "每页留言数:";
-$LANG["NavPrev"]    = "上一页";
-$LANG["NavNext"]    = "下一页";
+$LANG["NavTotal"]   = "???餅:";
+$LANG["NavRecords"] = "瘥△????";
+$LANG["NavPrev"]    = "銝?憿?;
+$LANG["NavNext"]    = "銝?憿?;
 
 # Post Errors
-$LANG["ErrorPost1"]  = "请填写访客姓名";
-$LANG["ErrorPost2"]  = "请填写留言内容";
-$LANG["ErrorPost3"]  = "留言内容太短或太长";
-$LANG["ErrorPost4"]  = "有栏位输入不正确";
-$LANG["ErrorPost5"]  = "留言板 - 错误";
-$LANG["ErrorPost6"]  = "图片太大";
-$LANG["ErrorPost7"]  = "图片格式不正确";
-$LANG["ErrorPost8"]  = "整理中，请稍候再使用!";
-$LANG["ErrorPost9"]  = "您的Ip被拒!";
-$LANG["ErrorPost10"] = "留言内容里有一些不被接受的文字，请重新输入!";
-$LANG["ErrorPost11"] = "请输入留言内容";
+$LANG["ErrorPost1"]  = "霂瑕‵?挪摰Ｗ???;
+$LANG["ErrorPost2"]  = "霂瑕‵??閮?捆";
+$LANG["ErrorPost3"]  = "???捆憭芰?云??;
+$LANG["ErrorPost4"]  = "??雿??乩?甇?＆";
+$LANG["ErrorPost5"]  = "????- ?秤";
+$LANG["ErrorPost6"]  = "?曄?憭芸之";
+$LANG["ErrorPost7"]  = "?曄??澆?銝迤蝖?;
+$LANG["ErrorPost8"]  = "?渡?銝哨?霂瑞???雿輻!";
+$LANG["ErrorPost9"]  = "?函?Ip鋡急?!";
+$LANG["ErrorPost10"] = "???捆??銝鈭?鋡急????嚗窈?颲!";
+$LANG["ErrorPost11"] = "霂瑁??亦?閮?捆";
 
-$LANG["PassMess1"] = "请输入合法的账号和密码:";
-$LANG["PassMess2"] = "不正确的账号或密码，请重新输入。";
-$LANG["PassMess3"] = "抱歉，您的密码不正确。";
+$LANG["PassMess1"] = "霂瑁??亙?瘜?韐血????";
+$LANG["PassMess2"] = "銝迤蝖桃?韐血????霂琿??啗??乓?;
+$LANG["PassMess3"] = "?望?嚗????甇?＆??;
 
 # Days
-$weekday[0] = "星期日";
-$weekday[1] = "星期一";
-$weekday[2] = "星期二";
-$weekday[3] = "星期三";
-$weekday[4] = "星期四";
-$weekday[5] = "星期五";
-$weekday[6] = "星期六";
+$weekday[0] = "????;
+$weekday[1] = "??銝";
+$weekday[2] = "??鈭?;
+$weekday[3] = "??銝?;
+$weekday[4] = "????;
+$weekday[5] = "??鈭?;
+$weekday[6] = "????;
 
 # Months
-$months[0]  = "一月";
-$months[1]  = "二月";
-$months[2]  = "三月";
-$months[3]  = "四月";
-$months[4]  = "五月";
-$months[5]  = "六月";
-$months[6]  = "七月";
-$months[7]  = "八月";
-$months[8]  = "九月";
-$months[9]  = "十月";
-$months[10] = "十一月";
-$months[11] = "十二月";
+$months[0]  = "銝??;
+$months[1]  = "鈭?";
+$months[2]  = "銝?";
+$months[3]  = "??";
+$months[4]  = "鈭?";
+$months[5]  = "?剜?";
+$months[6]  = "銝?";
+$months[7]  = "?急?";
+$months[8]  = "銋?";
+$months[9]  = "??";
+$months[10] = "????;
+$months[11] = "????;
 
 ?>

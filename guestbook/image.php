@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 $include_path = dirname(__FILE__);
 require_once $include_path."/admin/config.inc.php";
 require_once $include_path."/lib/$DB_CLASS";

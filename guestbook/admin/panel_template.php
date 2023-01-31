@@ -1,4 +1,4 @@
-<html>
+﻿<html>
 <head>
 <title>Guestbook - Templates</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -81,3 +81,4 @@ for (reset($GB_TPL);$key=key($GB_TPL); next($GB_TPL)) {
     <input type="hidden" name="save" value="update">
   </center>
 </form>
+

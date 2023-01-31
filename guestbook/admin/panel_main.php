@@ -1,4 +1,4 @@
-<html>
+﻿<html>
 <head>
 <title>Guestbook - General Settings</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -364,3 +364,4 @@ if (isset($banned_ips) && sizeof($banned_ips)>0) {
     <input type="hidden" value="general" name="panel">
   </center>
 </form>
+

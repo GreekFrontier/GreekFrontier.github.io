@@ -1,4 +1,4 @@
-<html>
+﻿<html>
 <head>
 <title>Guestbook - Smilies</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -90,3 +90,4 @@ if (isset($smilie_list)) {
     <input type="hidden" name="add_smilies" value="1">
   </center>
 </form>
+

@@ -1,6 +1,6 @@
-µn¤J±b¸¹ :  greekfro
-µn¤J±K½X :  sert4w34z
-±zªººô°ì :  greek-frontier.com
-cpanel±±¨î¥x http://greek-frontier.com:2082
+ï»¿ç™»å…¥å¸³è™Ÿ :  greekfro
+ç™»å…¥å¯†ç¢¼ :  sert4w34z
+æ‚¨çš„ç¶²åŸŸ :  greek-frontier.com
+cpanelæ§åˆ¶å° http://greek-frontier.com:2082
 public_html
 ftp.greek-frontier.com

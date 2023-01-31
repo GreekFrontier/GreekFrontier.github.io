@@ -1,28 +1,28 @@
-#!/usr/bin/perl
+ï»¿#!/usr/bin/perl
 ########################################################
-#ª©Åv«Å§i
-#µ{¦¡¦WºÙ¡GTMmany ½u¤W¶Ç°T
-#µ{¦¡ª©¥»¡G1.2.3
-#µ{¦¡§@ªÌ¡GTurtleMan
-#§@ªÌ¹q¶l¡Gturtlemn@pchome.com.tw
-#¯S§O»¡©ú¡G
-# ­ì©l½X¤¤°ì¦WÂà´«³¡¤À°Ñ¦Ò¦Û ¬õ³·ºô­¶ ³ÅÂE©ú¥ı¥Í ©Ò³Ğ§@¤§¡uNSLOOKUP 1.00  ºô°ì¦WºÙ¬d¸ßµ{¦¡¡v
-# ¥t¥~cookie³]©w¤Îªí³æ¸ê®Æ³B²z°Ñ¦Ò¦Û¨k¤B®æº¸¤§¡uMale Nurse Guest¡vµ{¦¡
-#¥H¤Wª©Åv«Å§i¡A½Ğ¤Å§R°£
-################³]©w¶}©l##################################
-$datafile='many.txt';##¬ö¿ı¸ê®ÆªºÀÉ®×¦ì§}
-$cycle=10;##¦Û°Êreloadªº¶g´Á(³æ¦ì¡G¬í)
-$bgcolor='FFFFFF';##­I´ºÃC¦â
-$cgiurl='TMmany.cgi';##¥Dµ{¦¡ÀÉ¦W
-$usehtmlpass='~!12345!~';##(¨Ï¥ÎHTMLªº±K½X)ª`·N¡G¥²¶·¬°7­Ó¥b§Î¦r¤¸¡m¸m©ó¨â­Ó³æ¤Ş¸¹¤¤¡nµo°e°T®§®É¥[¦b¦r¦ê³Ì«e­±´N¥i¥H¨Ï¥Îhtml»yªk¤F
-$listcolor='0080C0';##½u¤W¤H¼Æ¿ï³æ¤å¦rÃC¦â
-$listbgcolor='Ffffff';##½u¤W¤H¼Æ¿ï³æ­I´ºÃC¦â
-$cmdlistcolor='F0F8FF';##¨t²Î©R¥O¿ï³æ¤å¦rÃC¦â
-$cmdlistbgcolor='0080C0';##¨t²Î©R¥O¿ï³æ­I´ºÃC¦â
-$onlistcolor='0080C0';##½u¤W¤H¦W¿ï³æ¤å¦rÃC¦â
-$onlistbgcolor='F0F8FF';##½u¤W¤H¦W¿ï³æ­I´ºÃC¦â
-$nickcount=12;##³]©w¼ÊºÙ¥i¿é¤Jªº³Ì¦h¦r¤¸¼Æ(¥ş§Î¦r¤@¦r¦û2¦r¤¸)
-################³]©wµ²§ô##################################
+#ç‰ˆæ¬Šå®£å‘Š
+#ç¨‹å¼åç¨±ï¼šTMmany ç·šä¸Šå‚³è¨Š
+#ç¨‹å¼ç‰ˆæœ¬ï¼š1.2.3
+#ç¨‹å¼ä½œè€…ï¼šTurtleMan
+#ä½œè€…é›»éƒµï¼šturtlemn@pchome.com.tw
+#ç‰¹åˆ¥èªªæ˜ï¼š
+# åŸå§‹ç¢¼ä¸­åŸŸåè½‰æ›éƒ¨åˆ†åƒè€ƒè‡ª ç´…é›ªç¶²é  å‚…é´»æ˜å…ˆç”Ÿ æ‰€å‰µä½œä¹‹ã€ŒNSLOOKUP 1.00  ç¶²åŸŸåç¨±æŸ¥è©¢ç¨‹å¼ã€
+# å¦å¤–cookieè¨­å®šåŠè¡¨å–®è³‡æ–™è™•ç†åƒè€ƒè‡ªç”·ä¸æ ¼çˆ¾ä¹‹ã€ŒMale Nurse Guestã€ç¨‹å¼
+#ä»¥ä¸Šç‰ˆæ¬Šå®£å‘Šï¼Œè«‹å‹¿åˆªé™¤
+################è¨­å®šé–‹å§‹##################################
+$datafile='many.txt';##ç´€éŒ„è³‡æ–™çš„æª”æ¡ˆä½å€
+$cycle=10;##è‡ªå‹•reloadçš„é€±æœŸ(å–®ä½ï¼šç§’)
+$bgcolor='FFFFFF';##èƒŒæ™¯é¡è‰²
+$cgiurl='TMmany.cgi';##ä¸»ç¨‹å¼æª”å
+$usehtmlpass='~!12345!~';##(ä½¿ç”¨HTMLçš„å¯†ç¢¼)æ³¨æ„ï¼šå¿…é ˆç‚º7å€‹åŠå½¢å­—å…ƒã€Šç½®æ–¼å…©å€‹å–®å¼•è™Ÿä¸­ã€‹ç™¼é€è¨Šæ¯æ™‚åŠ åœ¨å­—ä¸²æœ€å‰é¢å°±å¯ä»¥ä½¿ç”¨htmlèªæ³•äº†
+$listcolor='0080C0';##ç·šä¸Šäººæ•¸é¸å–®æ–‡å­—é¡è‰²
+$listbgcolor='Ffffff';##ç·šä¸Šäººæ•¸é¸å–®èƒŒæ™¯é¡è‰²
+$cmdlistcolor='F0F8FF';##ç³»çµ±å‘½ä»¤é¸å–®æ–‡å­—é¡è‰²
+$cmdlistbgcolor='0080C0';##ç³»çµ±å‘½ä»¤é¸å–®èƒŒæ™¯é¡è‰²
+$onlistcolor='0080C0';##ç·šä¸Šäººåé¸å–®æ–‡å­—é¡è‰²
+$onlistbgcolor='F0F8FF';##ç·šä¸Šäººåé¸å–®èƒŒæ™¯é¡è‰²
+$nickcount=12;##è¨­å®šæš±ç¨±å¯è¼¸å…¥çš„æœ€å¤šå­—å…ƒæ•¸(å…¨å½¢å­—ä¸€å­—ä½”2å­—å…ƒ)
+################è¨­å®šçµæŸ##################################
 $version='1.2.3';
 $now=time();
 $ip=$ENV{'REMOTE_ADDR'};
@@ -47,7 +47,7 @@ open(FILE,">$datafile");
 $mynick=$ip;
 foreach $line (@DATAS)
 {
- ($recip,$recadd,$recmsgonoff,$rectime,$recintime,$recnick,$recmsg)=split("¡ü",$line);
+ ($recip,$recadd,$recmsgonoff,$rectime,$recintime,$recnick,$recmsg)=split("âˆ¥",$line);
  chop $recmsg;
  if(($now-$rectime)<=($cycle+30))
  {
@@ -56,8 +56,8 @@ foreach $line (@DATAS)
    $message=$recmsg;
    $found=1;
    $count++;
-   print FILE "$recip¡ü$recadd¡ü$recmsgonoff¡ü$now¡ü$recintime¡ü$recnick¡ü\n";
-   $options=$options."<OPTION VALUE=1 STYLE=background-color:$onlistbgcolor\;color:$onlistcolor>¡¹ ";
+   print FILE "$recipâˆ¥$recaddâˆ¥$recmsgonoffâˆ¥$nowâˆ¥$recintimeâˆ¥$recnickâˆ¥\n";
+   $options=$options."<OPTION VALUE=1 STYLE=background-color:$onlistbgcolor\;color:$onlistcolor>â˜… ";
    if($recnick ne "")
    {
     $options=$options.$recnick."\n";
@@ -71,15 +71,15 @@ foreach $line (@DATAS)
   ## $ip ne $recip
   else
   {
-   print FILE "$recip¡ü$recadd¡ü$recmsgonoff¡ü$rectime¡ü$recintime¡ü$recnick¡ü$recmsg\n";
+   print FILE "$recipâˆ¥$recaddâˆ¥$recmsgonoffâˆ¥$rectimeâˆ¥$recintimeâˆ¥$recnickâˆ¥$recmsg\n";
    if($recnick ne "")
    {
-    $options=$options."<OPTION VALUE=$recip¡ü$recnick STYLE=background-color:$onlistbgcolor\;color:$onlistcolor> ¡@ ";
+    $options=$options."<OPTION VALUE=$recipâˆ¥$recnick STYLE=background-color:$onlistbgcolor\;color:$onlistcolor> ã€€ ";
     $options=$options.$recnick."\n";
    }
    else
    {
-    $options=$options."<OPTION VALUE=$recip¡ü STYLE=background-color:$onlistbgcolor\;color:$onlistcolor> ";
+    $options=$options."<OPTION VALUE=$recipâˆ¥ STYLE=background-color:$onlistbgcolor\;color:$onlistcolor> ";
     $options=$options.$recip."\n";
    }
    $count++;
@@ -90,7 +90,7 @@ if(!$found)
 {
  ($sec,$min,$hour,$mday,$mon,$year,$wday,$yday,$isdst)=localtime(time);
  $mon++;
-#------ipÂà´«
+#------ipè½‰æ›
  $arg=$ip;
  if($arg =~ /^\d{1,3}\.\d{1,3}\.\d{1,3}\.\d{1,3}$/)
  {
@@ -112,8 +112,8 @@ if(!$found)
  }
 #------
  &get_cookie;
- print FILE "$ip¡ü$arg¡üon¡ü$now¡ü$mon/$mday $hour:$min:$sec¡ü$cookienick¡ü\n";
- $options=$options."<OPTION VALUE=1 STYLE=background-color:$onlistbgcolor\;color:$onlistcolor>¡¸ ";
+ print FILE "$ipâˆ¥$argâˆ¥onâˆ¥$nowâˆ¥$mon/$mday $hour:$min:$secâˆ¥$cookienickâˆ¥\n";
+ $options=$options."<OPTION VALUE=1 STYLE=background-color:$onlistbgcolor\;color:$onlistcolor>â˜† ";
  if($cookienick eq "")
  {
   $options=$options.$ip."\n";
@@ -133,13 +133,13 @@ print "<SCRIPT LANGUAGE=JavaScript>\n";
 if($message ne "")
 {
  print "message=window.open('','','menubar=no,status=no,toolbar=no,scrollbars=yes,width=300,height=300,left=300,top=200')\;\n";
- print "message.document.writeln('<HTML><HEAD><TITLE>¦¬¨ì°T®§</TITLE></HEAD>')\;\n";
- print "message.document.writeln('<BODY BGCOLOR=$bgcolor STYLE=\"font-size:8pt\;font-family:·s²Ó©úÅé,Arial\">')\;\n";
- print "message.document.writeln('<TABLE ALIGN=CENTER><TR><TD STYLE=position:relative\\;color:white\\;font-size:8pt\\;text-decoration:underline\\;letter-spacing:5px\\;filter:glow(color=red,strength=1)\\;>¦¬¨ì°T®§</TD></TR></TABLE><BR>')\;\n";
- print "message.document.writeln('<CENTER><input type=button value=\"Ãö³¬µøµ¡\" STYLE=font-size:8pt\;color:blue\; onclick=window.close()\;></CENTER><HR>')\;\n";
+ print "message.document.writeln('<HTML><HEAD><TITLE>æ”¶åˆ°è¨Šæ¯</TITLE></HEAD>')\;\n";
+ print "message.document.writeln('<BODY BGCOLOR=$bgcolor STYLE=\"font-size:8pt\;font-family:æ–°ç´°æ˜é«”,Arial\">')\;\n";
+ print "message.document.writeln('<TABLE ALIGN=CENTER><TR><TD STYLE=position:relative\\;color:white\\;font-size:8pt\\;text-decoration:underline\\;letter-spacing:5px\\;filter:glow(color=red,strength=1)\\;>æ”¶åˆ°è¨Šæ¯</TD></TR></TABLE><BR>')\;\n";
+ print "message.document.writeln('<CENTER><input type=button value=\"é—œé–‰è¦–çª—\" STYLE=font-size:8pt\;color:blue\; onclick=window.close()\;></CENTER><HR>')\;\n";
  print "message.document.writeln('$message')\;\n";
- print "message.document.writeln('<HR><CENTER><input type=button value=\"Ãö³¬µøµ¡\" STYLE=font-size:8pt\;color:blue\; onclick=window.close()\;></CENTER>')\;\n";
- print "message.document.writeln('<DIV STYLE=color:blue\;font-size:8pt\;text-align:center\;padding-top:20px\;letter-spacing:2px>TMmany ½u¤W¶Ç°T v $version<BR>­«·s±Æª©¡G<a href=http://222721.24cc.com target=_blank>¡¹~ÃtÅx©~~¡¹</a><FONT COLOR=FF0000 STYLE=font-size:8pt>¡¹¨H¡ñ¯E¡¹~*</FONT></DIV></CENTER>')\;\n";
+ print "message.document.writeln('<HR><CENTER><input type=button value=\"é—œé–‰è¦–çª—\" STYLE=font-size:8pt\;color:blue\; onclick=window.close()\;></CENTER>')\;\n";
+ print "message.document.writeln('<DIV STYLE=color:blue\;font-size:8pt\;text-align:center\;padding-top:20px\;letter-spacing:2px>TMmany ç·šä¸Šå‚³è¨Š v $version<BR>é‡æ–°æ’ç‰ˆï¼š<a href=http://222721.24cc.com target=_blank>â˜…~ç€Ÿç‘å±…~â˜…</a><FONT COLOR=FF0000 STYLE=font-size:8pt>â˜…æ²ˆâ™‚æµ©â˜…~*</FONT></DIV></CENTER>')\;\n";
  print "message.document.writeln('</BODY></HTML>')\;\n";
 }
 print "function change(obj)\n";
@@ -156,7 +156,7 @@ print " }\n";
 print " else if(obj.options[obj.selectedIndex].value==2)\n";
 print " {\n";
 print "  obj.selectedIndex=0\;\n";
-print "  window.open('$cgiurl?job=wrtmsg&sender=$mynick&towho=all¡ü¤j®a','','menubar=no,status=no,toolbar=no,width=180,height=180,left=300,top=200')\;\n";
+print "  window.open('$cgiurl?job=wrtmsg&sender=$mynick&towho=allâˆ¥å¤§å®¶','','menubar=no,status=no,toolbar=no,width=180,height=180,left=300,top=200')\;\n";
 print " }\n";
 print " else if(obj.options[obj.selectedIndex].value==3)\n";
 print " {\n";
@@ -183,15 +183,15 @@ print "</HEAD>\n";
 print "<BODY BGCOLOR=$bgcolor topmargin=\"0\" leftmargin=\"0\"><CENTER>\n";
 print "<FORM>\n";
 print "<SELECT ONCHANGE='change(this)\;'>\n";
-print "<OPTION SELECTED STYLE=background-color:$listbgcolor\;color:$listcolor>¦b½u¤H¼Æ¡G ".$count." </FONT>¤H\n";
+print "<OPTION SELECTED STYLE=background-color:$listbgcolor\;color:$listcolor>åœ¨ç·šäººæ•¸ï¼š ".$count." </FONT>äºº\n";
 print $options;
-print "<OPTION VALUE=0 STYLE=background-color:$cmdlistbgcolor\;color:$cmdlistcolor>¡Å¡Å¡Å¡Å¡Å¡Å¡Å¡Å\n";
-print "<OPTION VALUE=2 STYLE=background-color:$cmdlistbgcolor\;color:$cmdlistcolor>¡¿¶Ç°e¼s¼½°T®§¡¿\n";
-print "<OPTION VALUE=3 STYLE=background-color:$cmdlistbgcolor\;color:$cmdlistcolor>¡»¸Ô²Ó½u¤W¸ê®Æ¡»\n";
-print "<OPTION VALUE=4 STYLE=background-color:$cmdlistbgcolor\;color:$cmdlistcolor>¡»°T®§±µ¦¬¶}Ãö¡»\n";
-print "<OPTION VALUE=5 STYLE=background-color:$cmdlistbgcolor\;color:$cmdlistcolor>¡»¨Ï¥Î»¡©ú½d¨Ò¡»\n";
-print "<OPTION VALUE=0 STYLE=background-color:$cmdlistbgcolor\;color:$cmdlistcolor>¡¶³Ì·s¤H¼Æª¬ªp¡¶\n";
-print "<OPTION VALUE=0 STYLE=background-color:$cmdlistbgcolor\;color:$cmdlistcolor>¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã¡Ã\n";
+print "<OPTION VALUE=0 STYLE=background-color:$cmdlistbgcolor\;color:$cmdlistcolor>ËËËËËËËË\n";
+print "<OPTION VALUE=2 STYLE=background-color:$cmdlistbgcolor\;color:$cmdlistcolor>â–¼å‚³é€å»£æ’­è¨Šæ¯â–¼\n";
+print "<OPTION VALUE=3 STYLE=background-color:$cmdlistbgcolor\;color:$cmdlistcolor>â—†è©³ç´°ç·šä¸Šè³‡æ–™â—†\n";
+print "<OPTION VALUE=4 STYLE=background-color:$cmdlistbgcolor\;color:$cmdlistcolor>â—†è¨Šæ¯æ¥æ”¶é–‹é—œâ—†\n";
+print "<OPTION VALUE=5 STYLE=background-color:$cmdlistbgcolor\;color:$cmdlistcolor>â—†ä½¿ç”¨èªªæ˜ç¯„ä¾‹â—†\n";
+print "<OPTION VALUE=0 STYLE=background-color:$cmdlistbgcolor\;color:$cmdlistcolor>â–²æœ€æ–°äººæ•¸ç‹€æ³â–²\n";
+print "<OPTION VALUE=0 STYLE=background-color:$cmdlistbgcolor\;color:$cmdlistcolor>ï¿£ï¿£ï¿£ï¿£ï¿£ï¿£ï¿£ï¿£\n";
 print "</SELECT>\n";
 print "</FORM>\n";
 #########################################################################
@@ -201,7 +201,7 @@ print "</CENTER></BODY></HTML>\n";
 sub setnick
 {
  print "Content-type: text/html\n\n";
- print "<HTML><HEAD><meta http-equiv=\"Content-Type\" content=\"text/html\; charset=big5\"><TITLE>ÅÜ§ó±zªº¼ÊºÙ</TITLE></HEAD>\n";
+ print "<HTML><HEAD><meta http-equiv=\"Content-Type\" content=\"text/html\; charset=big5\"><TITLE>è®Šæ›´æ‚¨çš„æš±ç¨±</TITLE></HEAD>\n";
  print "<SCRIPT LANGUAGE=JavaScript>\n";
  print "function lengthcheck()\n";
  print "{\n";
@@ -215,14 +215,14 @@ sub setnick
  print " }\n";
  print " if(total>$nickcount)\n";
  print " {\n";
- print "  alert(\'¿é¤J¦r¦ê¹Lªø¡A½Ğ­«·s¿é¤J¡I\')\;\n";
+ print "  alert(\'è¼¸å…¥å­—ä¸²éé•·ï¼Œè«‹é‡æ–°è¼¸å…¥ï¼\')\;\n";
  print "  my.reset()\;\n";
  print "  my.nick.focus()\;\n";
  print "  return false\;\n";
  print " }\n";
  print " else if(total == 0)\n";
  print " {\n";
- print "  alert(\'¨S¦³¿é¤J¥ô¦óªF¦è¡A½Ğ­«·s¿é¤J¡I\')\;\n";
+ print "  alert(\'æ²’æœ‰è¼¸å…¥ä»»ä½•æ±è¥¿ï¼Œè«‹é‡æ–°è¼¸å…¥ï¼\')\;\n";
  print "  my.reset()\;\n";
  print "  my.nick.focus()\;\n";
  print "  return false\;\n";
@@ -234,33 +234,33 @@ sub setnick
  print "<BODY BGCOLOR=$bgcolor ONLOAD=my.nick.focus()>\n";
  print "<FORM NAME=my ACTION=$cgiurl METHOD=post ONSUBMIT=return(lengthcheck())\;>\n";
  print "<TABLE ALIGN=CENTER CELLSPACING=3 STYLE=text-align:center\;font-size:8pt>\n";
- print "<TR><TD STYLE=position:relative\;color:white\;font-size:8pt\;text-decoration:underline\;letter-spacing:5px\;filter:glow(color=red,strength=1)\;>¿é¤J¼ÊºÙ</TD><TR>\n";
+ print "<TR><TD STYLE=position:relative\;color:white\;font-size:8pt\;text-decoration:underline\;letter-spacing:5px\;filter:glow(color=red,strength=1)\;>è¼¸å…¥æš±ç¨±</TD><TR>\n";
  print "<TR><TD><INPUT TYPE=text NAME=nick SIZE=10 MAXLENGTH=12 STYLE=font-size:8pt\;color:green\;border-width:3px\;border-style:double\;border-color:darkcyan></TD></TR>\n";
- print "<TR><TD><INPUT TYPE=submit VALUE=½T©w STYLE=font-size:8pt\;color:brown\;background-color:powderblue\;border-width:1px\;border-style:solid\;border-color:darkcyan>\n";
- print "<INPUT TYPE=reset VALUE=²M°£ STYLE=font-size:8pt\;color:brown\;background-color:powderblue\;border-width:1px\;border-style:solid\;border-color:darkcyan></TD></TR>\n";
+ print "<TR><TD><INPUT TYPE=submit VALUE=ç¢ºå®š STYLE=font-size:8pt\;color:brown\;background-color:powderblue\;border-width:1px\;border-style:solid\;border-color:darkcyan>\n";
+ print "<INPUT TYPE=reset VALUE=æ¸…é™¤ STYLE=font-size:8pt\;color:brown\;background-color:powderblue\;border-width:1px\;border-style:solid\;border-color:darkcyan></TD></TR>\n";
  print "</TABLE>\n";
  print "<INPUT TYPE=hidden NAME=job VALUE=chgnick>\n";
  print "</FORM>\n";
- print "<HR><CENTER><input type=button value=\"Ãö³¬µøµ¡\" STYLE=font-size:8pt\;color:blue\; onclick=window.close()\;></CENTER>";
+ print "<HR><CENTER><input type=button value=\"é—œé–‰è¦–çª—\" STYLE=font-size:8pt\;color:blue\; onclick=window.close()\;></CENTER>";
  print "</BODY></HTML>\n";
 }
 #########################################################################
 sub chgnick
 {
- $FORM{nick}=~s/¡ü/||/g;
+ $FORM{nick}=~s/âˆ¥/||/g;
  open (FILE, $datafile);@DATAS=<FILE>;close (FILE);
  open(FILE,">$datafile");
  foreach $line (@DATAS)
  {
-  ($recip,$recadd,$recmsgonoff,$rectime,$recintime,$recnick,$recmsg)=split("¡ü",$line);
+  ($recip,$recadd,$recmsgonoff,$rectime,$recintime,$recnick,$recmsg)=split("âˆ¥",$line);
   chop $recmsg;
   if($ip eq $recip)
   {
-   print FILE "$recip¡ü$recadd¡ü$recmsgonoff¡ü$rectime¡ü$recintime¡ü$FORM{nick}¡ü$recmsg\n";
+   print FILE "$recipâˆ¥$recaddâˆ¥$recmsgonoffâˆ¥$rectimeâˆ¥$recintimeâˆ¥$FORM{nick}âˆ¥$recmsg\n";
   }
   else
   {
-   print FILE "$recip¡ü$recadd¡ü$recmsgonoff¡ü$rectime¡ü$recintime¡ü$recnick¡ü$recmsg\n";
+   print FILE "$recipâˆ¥$recaddâˆ¥$recmsgonoffâˆ¥$rectimeâˆ¥$recintimeâˆ¥$recnickâˆ¥$recmsg\n";
   }
  }
  close(FILE);
@@ -273,16 +273,16 @@ sub chgnick
 #########################################################################
 sub wrtmsg
 {
- @reciever=split(/¡ü/,$FORM{towho});
+ @reciever=split(/âˆ¥/,$FORM{towho});
  print "Content-type: text/html\n\n";
- print "<HTML><HEAD><meta http-equiv=\"Content-Type\" content=\"text/html\; charset=big5\"><TITLE>¶Ç°e°T®§</TITLE>\n";
+ print "<HTML><HEAD><meta http-equiv=\"Content-Type\" content=\"text/html\; charset=big5\"><TITLE>å‚³é€è¨Šæ¯</TITLE>\n";
  print "<SCRIPT LANGUAGE=JavaScript>\n";
  print "\n";
  print "function codecheck()\n";
  print "{\n";
  print " if(my.msg.value.length == 0)\n";
  print " {\n";
- print "  alert(\'¨S¦³¿é¤J¥ô¦óªF¦è¡A½Ğ­«·s¿é¤J¡I\')\;\n";
+ print "  alert(\'æ²’æœ‰è¼¸å…¥ä»»ä½•æ±è¥¿ï¼Œè«‹é‡æ–°è¼¸å…¥ï¼\')\;\n";
  print "  my.msg.focus()\;\n";
  print "  return false\;\n";
  print " }\n";
@@ -306,7 +306,7 @@ sub wrtmsg
  print "  return true\;\n";
  print " else\n";
  print " {\n";
- print "  alert(\'¡@¢Ö¢â¢Û¢Ú¯S®í¦r¤¸ÀË¬d¿ù»~¡I\\n¡@¡Ê¡Ê¡Ê¡Ê¡Ê¡Ê¡Ê¡Ê¡Ê¡Ê¡Ê¡Ê¡Ê\\n¢z¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢{\\n¢x¡i´£¥Ü¡j©Ò¦³ªº¼ĞÅÒ³£¥²¶·¦¨¹ï¢x\\n¢|¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢w¢}\\n¨Ò¦p¡G\\n¤@­Ó ~\!b\!~ ´N¥²¶·¹ïÀ³¤@­Ó ~\!/b\!~\')\;\n";
+ print "  alert(\'ã€€ï¼¨ï¼´ï¼­ï¼¬ç‰¹æ®Šå­—å…ƒæª¢æŸ¥éŒ¯èª¤ï¼\\nã€€ï¹‹ï¹‹ï¹‹ï¹‹ï¹‹ï¹‹ï¹‹ï¹‹ï¹‹ï¹‹ï¹‹ï¹‹ï¹‹\\nâ”Œâ”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”\\nâ”‚ã€æç¤ºã€‘æ‰€æœ‰çš„æ¨™ç±¤éƒ½å¿…é ˆæˆå°â”‚\\nâ””â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”˜\\nä¾‹å¦‚ï¼š\\nä¸€å€‹ ~\!b\!~ å°±å¿…é ˆå°æ‡‰ä¸€å€‹ ~\!/b\!~\')\;\n";
  print "  my.msg.focus()\;\n";
  print "  return false\;\n";
  print " }\n";
@@ -327,17 +327,17 @@ sub wrtmsg
  print "<BODY BGCOLOR=$bgcolor ONLOAD=my.msg.focus()>\n";
  print "<FORM NAME=my ACTION=$cgiurl METHOD=post ONSUBMIT=return(codecheck())\;>\n";
  print "<TABLE CELLSPACING=3 ALIGN=CENTER STYLE=text-align:center\;font-size:8pt>\n";
- print "<TR><TD STYLE=position:relative\;color:white\;font-size:8pt\;text-decoration:underline\;letter-spacing:5px\;filter:glow(color=red,strength=1)\;>¶Ç°e°T®§</TD><TR>\n";
- print "<TR><TD>µ¹¡G<FONT COLOR=coral>$reciever[1]¡i$reciever[0]¡j</FONT></TD></TR>\n";
+ print "<TR><TD STYLE=position:relative\;color:white\;font-size:8pt\;text-decoration:underline\;letter-spacing:5px\;filter:glow(color=red,strength=1)\;>å‚³é€è¨Šæ¯</TD><TR>\n";
+ print "<TR><TD>çµ¦ï¼š<FONT COLOR=coral>$reciever[1]ã€$reciever[0]ã€‘</FONT></TD></TR>\n";
  print "<TR><TD><INPUT TYPE=text NAME=msg SIZE=10 STYLE=font-size:8pt\;color:green\;border-width:3px\;border-style:double\;border-color:darkcyan></TD></TR>\n";
- print "<TR><TD><INPUT TYPE=submit VALUE=½T©w STYLE=font-size:8pt\;color:brown\;background-color:powderblue\;border-width:1px\;border-style:solid\;border-color:darkcyan\;>\n";
- print "<INPUT TYPE=reset VALUE=²M°£ STYLE=font-size:8pt\;color:brown\;background-color:powderblue\;border-width:1px\;border-style:solid\;border-color:darkcyan></TD></TR>\n";
+ print "<TR><TD><INPUT TYPE=submit VALUE=ç¢ºå®š STYLE=font-size:8pt\;color:brown\;background-color:powderblue\;border-width:1px\;border-style:solid\;border-color:darkcyan\;>\n";
+ print "<INPUT TYPE=reset VALUE=æ¸…é™¤ STYLE=font-size:8pt\;color:brown\;background-color:powderblue\;border-width:1px\;border-style:solid\;border-color:darkcyan></TD></TR>\n";
  print "</TABLE>\n";
  print "<INPUT TYPE=hidden NAME=job VALUE=savemsg>\n";
- print "<INPUT TYPE=hidden NAME=sender VALUE=\'$FORM{sender}¡i$ip¡j\'>\n";
+ print "<INPUT TYPE=hidden NAME=sender VALUE=\'$FORM{sender}ã€$ipã€‘\'>\n";
  print "<INPUT TYPE=hidden NAME=reciever VALUE=\'$reciever[0]\'>\n";
  print "</FORM>\n";
- print "<HR><CENTER><input type=button value=\"Ãö³¬µøµ¡\" STYLE=font-size:8pt\;color:blue\; onclick=window.close()\;></CENTER>";
+ print "<HR><CENTER><input type=button value=\"é—œé–‰è¦–çª—\" STYLE=font-size:8pt\;color:blue\; onclick=window.close()\;></CENTER>";
  print "</BODY></HTML>\n";
 }
 #########################################################################
@@ -345,7 +345,7 @@ sub savemsg
 {
  ($sec,$min,$hour,$mday,$mon,$year,$wday,$yday,$isdst)=localtime(time);
  $mon++;
- ##-----¹LÂo¤£¦Xªk¦r¤¸
+ ##-----éæ¿¾ä¸åˆæ³•å­—å…ƒ
  if(substr($FORM{msg},0,7) ne $usehtmlpass)
  {
   $FORM{msg}=~s/</&lt\;/g;
@@ -355,10 +355,10 @@ sub savemsg
  {
   $FORM{msg}=substr($FORM{msg},7);
  }
- $FORM{msg}=~s/¡ü/||/g;
+ $FORM{msg}=~s/âˆ¥/||/g;
  $FORM{msg}=~s/\'/\\\'/g;
  $FORM{msg}=~s/\"/\\\"/g;
- ##Âà´«¯S®íhtml»yªk
+ ##è½‰æ›ç‰¹æ®Šhtmlèªæ³•
  $FORM{msg}=~s/~!red!~/<font color=red>/g;
  $FORM{msg}=~s/~!blue!~/<font color=blue>/g;
  $FORM{msg}=~s/~!green!~/<font color=green>/g;
@@ -383,7 +383,7 @@ sub savemsg
  open(FILE,">$datafile");
  foreach $line (@DATAS)
  {
-  ($recip,$recadd,$recmsgonoff,$rectime,$recintime,$recnick,$recmsg)=split("¡ü",$line);
+  ($recip,$recadd,$recmsgonoff,$rectime,$recintime,$recnick,$recmsg)=split("âˆ¥",$line);
   chop $recmsg;
   $newmsg="";
   if(($FORM{reciever} eq "all") and ($ip ne $recip) and ($recmsgonoff eq "on"))
@@ -393,8 +393,8 @@ sub savemsg
    {
     $newmsg=$recmsg."<HR>";
    }
-   $newmsg=$newmsg."<FONT COLOR=blueviolet>".$FORM{sender}."</FONT> ªº<SPAN STYLE=text-decoration:underline>°T®§¼s¼½</SPAN>¡G<BR>".$FORM{msg}."<BR><DIV STYLE=text-align:right\;color:gray\;font-size:8pt>\&lt\; ".$mon."/".$mday." ".$hour.":".$min.":".$sec." \&gt\;</DIV>";
-   print FILE "$recip¡ü$recadd¡ü$recmsgonoff¡ü$rectime¡ü$recintime¡ü$recnick¡ü$newmsg\n";
+   $newmsg=$newmsg."<FONT COLOR=blueviolet>".$FORM{sender}."</FONT> çš„<SPAN STYLE=text-decoration:underline>è¨Šæ¯å»£æ’­</SPAN>ï¼š<BR>".$FORM{msg}."<BR><DIV STYLE=text-align:right\;color:gray\;font-size:8pt>\&lt\; ".$mon."/".$mday." ".$hour.":".$min.":".$sec." \&gt\;</DIV>";
+   print FILE "$recipâˆ¥$recaddâˆ¥$recmsgonoffâˆ¥$rectimeâˆ¥$recintimeâˆ¥$recnickâˆ¥$newmsg\n";
   }
   elsif(($FORM{reciever} eq $recip) and ($recmsgonoff eq "on"))
   {
@@ -403,12 +403,12 @@ sub savemsg
    {
     $newmsg=$recmsg."<HR>";
    }
-   $newmsg=$newmsg."¦¬¨ì¨Ó¦Û <FONT COLOR=9966ff>".$FORM{sender}."</FONT> ªº<SPAN STYLE=text-decoration:underline>°T®§</SPAN>¡G<BR>".$FORM{msg}."<BR><DIV STYLE=text-align:right\;color:gray\;font-size:8pt>\&lt\; ".$mon."/".$mday." ".$hour.":".$min.":".$sec." \&gt\;</DIV>";
-   print FILE "$recip¡ü$recadd¡ü$recmsgonoff¡ü$rectime¡ü$recintime¡ü$recnick¡ü$newmsg\n";
+   $newmsg=$newmsg."æ”¶åˆ°ä¾†è‡ª <FONT COLOR=9966ff>".$FORM{sender}."</FONT> çš„<SPAN STYLE=text-decoration:underline>è¨Šæ¯</SPAN>ï¼š<BR>".$FORM{msg}."<BR><DIV STYLE=text-align:right\;color:gray\;font-size:8pt>\&lt\; ".$mon."/".$mday." ".$hour.":".$min.":".$sec." \&gt\;</DIV>";
+   print FILE "$recipâˆ¥$recaddâˆ¥$recmsgonoffâˆ¥$rectimeâˆ¥$recintimeâˆ¥$recnickâˆ¥$newmsg\n";
   }
   else
   {
-   print FILE "$recip¡ü$recadd¡ü$recmsgonoff¡ü$rectime¡ü$recintime¡ü$recnick¡ü$recmsg\n";
+   print FILE "$recipâˆ¥$recaddâˆ¥$recmsgonoffâˆ¥$rectimeâˆ¥$recintimeâˆ¥$recnickâˆ¥$recmsg\n";
   }
  }
  close(FILE);
@@ -416,11 +416,11 @@ sub savemsg
  if($found eq 1){print "<SCRIPT LANGUAGE=JavaScript>\nwindow.close()\;\n</SCRIPT>\n";}
  else
  {
-  print "<HTML><HEAD><meta http-equiv=\"Content-Type\" content=\"text/html\; charset=big5\"><TITLE>¶Ç°e°T®§µo¥Í¿ù»~</TITLE></HEAD>\n";
+  print "<HTML><HEAD><meta http-equiv=\"Content-Type\" content=\"text/html\; charset=big5\"><TITLE>å‚³é€è¨Šæ¯ç™¼ç”ŸéŒ¯èª¤</TITLE></HEAD>\n";
   print "<BODY BGCOLOR=$bgcolor><CENTER>\n";
-  print "<TABLE><TR><TD STYLE=position:relative\;color:white\;font-size:8pt\;text-decoration:underline\;letter-spacing:5px\;filter:glow(color=red,strength=1)\;>¿ù»~°T®§</TD></TR></TABLE><BR>\n";
-  print "<DIV STYLE=font-size:8pt\;color:darkred\;text-align:left>¶Ç°e°T®§®Éµo¥Í¿ù»~¡I<BR>¿ù»~µo¥Í­ì¦]¥i¯à¬°¡G<BR>¡´¦¬°TªÌªº¦¬°T¶}Ãö¬°¡yÃö¡z<BR>¡´¦¬°TªÌ¤w¸g¤£¦b¯¸¤W<BR>¡´­Y¬°°T®§¼s¼½«hªí¥Ü¨ä¥L¤H<BR>ªº¦¬°T¶}Ãö¬Ò¬°¡yÃö¡z</DIV>\n";
-  print "<HR><CENTER><input type=button value=\"Ãö³¬µøµ¡\" STYLE=font-size:8pt\;color:blue\; onclick=window.close()\;>";
+  print "<TABLE><TR><TD STYLE=position:relative\;color:white\;font-size:8pt\;text-decoration:underline\;letter-spacing:5px\;filter:glow(color=red,strength=1)\;>éŒ¯èª¤è¨Šæ¯</TD></TR></TABLE><BR>\n";
+  print "<DIV STYLE=font-size:8pt\;color:darkred\;text-align:left>å‚³é€è¨Šæ¯æ™‚ç™¼ç”ŸéŒ¯èª¤ï¼<BR>éŒ¯èª¤ç™¼ç”ŸåŸå› å¯èƒ½ç‚ºï¼š<BR>â—æ”¶è¨Šè€…çš„æ”¶è¨Šé–‹é—œç‚ºã€é—œã€<BR>â—æ”¶è¨Šè€…å·²ç¶“ä¸åœ¨ç«™ä¸Š<BR>â—è‹¥ç‚ºè¨Šæ¯å»£æ’­å‰‡è¡¨ç¤ºå…¶ä»–äºº<BR>çš„æ”¶è¨Šé–‹é—œçš†ç‚ºã€é—œã€</DIV>\n";
+  print "<HR><CENTER><input type=button value=\"é—œé–‰è¦–çª—\" STYLE=font-size:8pt\;color:blue\; onclick=window.close()\;>";
   print "</CENTER></BODY></HTML>\n";
  }
 }
@@ -431,16 +431,16 @@ sub chgmsgonoff
  open(FILE,">$datafile");
  foreach $line (@DATAS)
  {
-  ($recip,$recadd,$recmsgonoff,$rectime,$recintime,$recnick,$recmsg)=split("¡ü",$line);
+  ($recip,$recadd,$recmsgonoff,$rectime,$recintime,$recnick,$recmsg)=split("âˆ¥",$line);
   chop $recmsg;
   if($ip eq $recip)
   {
-   if($recmsgonoff eq "on"){print FILE "$recip¡ü$recadd¡üoff¡ü$rectime¡ü$recintime¡ü$recnick¡ü$recmsg\n";}
-   else{print FILE "$recip¡ü$recadd¡üon¡ü$rectime¡ü$recintime¡ü$recnick¡ü$recmsg\n";}
+   if($recmsgonoff eq "on"){print FILE "$recipâˆ¥$recaddâˆ¥offâˆ¥$rectimeâˆ¥$recintimeâˆ¥$recnickâˆ¥$recmsg\n";}
+   else{print FILE "$recipâˆ¥$recaddâˆ¥onâˆ¥$rectimeâˆ¥$recintimeâˆ¥$recnickâˆ¥$recmsg\n";}
   }
   else
   {
-   print FILE "$recip¡ü$recadd¡ü$recmsgonoff¡ü$rectime¡ü$recintime¡ü$recnick¡ü$recmsg\n";
+   print FILE "$recipâˆ¥$recaddâˆ¥$recmsgonoffâˆ¥$rectimeâˆ¥$recintimeâˆ¥$recnickâˆ¥$recmsg\n";
   }
  }
  close(FILE);
@@ -451,36 +451,36 @@ sub show
 {
  open (FILE, $datafile);@DATAS=<FILE>;close (FILE);
  print "Content-type: text/html\n\n";
- print "<HTML><HEAD><meta http-equiv=\"Content-Type\" content=\"text/html\; charset=big5\"><TITLE>¸Ô²Ó¸ê®Æ</TITLE></HEAD>\n";
+ print "<HTML><HEAD><meta http-equiv=\"Content-Type\" content=\"text/html\; charset=big5\"><TITLE>è©³ç´°è³‡æ–™</TITLE></HEAD>\n";
  print "<BODY BGCOLOR=$bgcolor><CENTER>\n";
- print "<TABLE><TR><TD STYLE=position:relative\;color:white\;font-size:8pt\;text-decoration:underline\;letter-spacing:5px\;filter:glow(color=red,strength=1)\;>¸Ô²Ó¸ê®Æ</TD></TR></TABLE><BR>\n";
- print "<input type=button value=\"Ãö³¬µøµ¡\" STYLE=font-size:8pt\;color:blue\; onclick=window.close()\;><HR>";
- print "<TABLE BORDER=1 STYLE=font-size:8pt\;text-align:center><TR><TD>¼ÊºÙ<BR>¡iIP/¥D¾÷¦WºÙ¡j</TD><TD>¤W¯¸®É¶¡</TD><TD>¦¬µo°T®§<BR>ª¬ºA</TD><TD>¦³µL°T®§</TD></TR>\n";
+ print "<TABLE><TR><TD STYLE=position:relative\;color:white\;font-size:8pt\;text-decoration:underline\;letter-spacing:5px\;filter:glow(color=red,strength=1)\;>è©³ç´°è³‡æ–™</TD></TR></TABLE><BR>\n";
+ print "<input type=button value=\"é—œé–‰è¦–çª—\" STYLE=font-size:8pt\;color:blue\; onclick=window.close()\;><HR>";
+ print "<TABLE BORDER=1 STYLE=font-size:8pt\;text-align:center><TR><TD>æš±ç¨±<BR>ã€IP/ä¸»æ©Ÿåç¨±ã€‘</TD><TD>ä¸Šç«™æ™‚é–“</TD><TD>æ”¶ç™¼è¨Šæ¯<BR>ç‹€æ…‹</TD><TD>æœ‰ç„¡è¨Šæ¯</TD></TR>\n";
  foreach $line (@DATAS)
  {
-  ($recip,$recadd,$recmsgonoff,$rectime,$recintime,$recnick,$recmsg)=split("¡ü",$line);
+  ($recip,$recadd,$recmsgonoff,$rectime,$recintime,$recnick,$recmsg)=split("âˆ¥",$line);
   chop $recmsg;
-  print "<TR><TD><FONT COLOR=darkcyan>$recnick</FONT><BR><FONT COLOR=darkseagreen>¡i$recip/$recadd¡j</FONT></TD><TD>$recintime</TD>";
+  print "<TR><TD><FONT COLOR=darkcyan>$recnick</FONT><BR><FONT COLOR=darkseagreen>ã€$recip/$recaddã€‘</FONT></TD><TD>$recintime</TD>";
   if($recmsgonoff eq "on")
   {
-   print "<TD><FONT COLOR=red>¶}</FONT></TD>";
+   print "<TD><FONT COLOR=red>é–‹</FONT></TD>";
   }
   else
   {
-   print "<TD>Ãö</TD>";
+   print "<TD>é—œ</TD>";
   }
   if($recmsg eq "")
   {
-   print "<TD>µL</TD></TR>\n";
+   print "<TD>ç„¡</TD></TR>\n";
   }
   else
   {
-   print "<TD><FONT COLOR=red>¦³</FONT></TD></TR>\n";
+   print "<TD><FONT COLOR=red>æœ‰</FONT></TD></TR>\n";
   }
  }
  print "\n";
  print "</TABLE>\n";
- print "<HR><input type=button value=\"Ãö³¬µøµ¡\" STYLE=font-size:8pt\;color:blue\; onclick=window.close()\;></CENTER>";
+ print "<HR><input type=button value=\"é—œé–‰è¦–çª—\" STYLE=font-size:8pt\;color:blue\; onclick=window.close()\;></CENTER>";
  print "</CENTER></BODY></HTML>\n";
 }
 #########################################################################
@@ -488,7 +488,7 @@ sub readme
 {
  print "Content-type: text/html\n\n";
 print <<HTML;
- <HTML><HEAD><meta http-equiv="Content-Type" content="text/html; charset=big5"><TITLE>TMmany ½u¤W¶Ç°T v 1.2.3</TITLE>
+ <HTML><HEAD><meta http-equiv="Content-Type" content="text/html; charset=big5"><TITLE>TMmany ç·šä¸Šå‚³è¨Š v 1.2.3</TITLE>
 <STYLE TYPE="text/css">
 .maintab {background-color:peachpuff;border-color:lightcoral;border-width:4px;border-style:double;font-size:8pt;text-align:center}
 .maintab td {background-color:lightgoldenrodyellow;border-color:lightpink;border-width:1px;border-style:solid;line-height:18px}
@@ -496,65 +496,65 @@ print <<HTML;
 </STYLE>
 </HEAD>
 <BODY BGCOLOR=F0FFF0><CENTER>
-<TABLE><TR><TD STYLE=position:relative;color:white;font-size:8pt;text-decoration:underline;letter-spacing:5px;filter:glow(color=red,strength=1);>»¡©úÀÉ®×</TD></TR></TABLE><BR>
-<input type=button value="Ãö³¬µøµ¡" STYLE=font-size:8pt;color:blue; onclick=window.close();><HR>
+<TABLE><TR><TD STYLE=position:relative;color:white;font-size:8pt;text-decoration:underline;letter-spacing:5px;filter:glow(color=red,strength=1);>èªªæ˜æª”æ¡ˆ</TD></TR></TABLE><BR>
+<input type=button value="é—œé–‰è¦–çª—" STYLE=font-size:8pt;color:blue; onclick=window.close();><HR>
 <TABLE CLASS=maintab CELLSPACING=1 CELLPADDING=2>
-<TR HEIGHT=50><TH COLSPAN=2 STYLE=position:relative;color:bisque;font-size:8pt;text-decoration:underline;letter-spacing:5px;filter:glow(color=blue,strength=1);>TMmany ½u¤W¶Ç°T v 1.2.3</TD></TR>
-<TR><TD STYLE=background-color:paleturquoise;color:teal>µ{¦¡§@ªÌ</TD><TD STYLE=background-color:paleturquoise;color:teal><a href=mailto:turtlemn\@pchome.com.tw>TurtleMan</a></TD></TR>
-<TR><TD COLSPAN=2><FONT COLOR=GREEN>¡¹¡@µ{¦¡»¡©ú¡@¡¹</FONT></TD></TR>
+<TR HEIGHT=50><TH COLSPAN=2 STYLE=position:relative;color:bisque;font-size:8pt;text-decoration:underline;letter-spacing:5px;filter:glow(color=blue,strength=1);>TMmany ç·šä¸Šå‚³è¨Š v 1.2.3</TD></TR>
+<TR><TD STYLE=background-color:paleturquoise;color:teal>ç¨‹å¼ä½œè€…</TD><TD STYLE=background-color:paleturquoise;color:teal><a href=mailto:turtlemn\@pchome.com.tw>TurtleMan</a></TD></TR>
+<TR><TD COLSPAN=2><FONT COLOR=GREEN>â˜…ã€€ç¨‹å¼èªªæ˜ã€€â˜…</FONT></TD></TR>
 <TR><TD COLSPAN=2 ALIGN=LEFT>
-<FONT COLOR=navy>¡±½u¤W¤H¼Æ­p¼Æ</FONT><BR>
-¡@<FONT COLOR=royalblue>°£¤F¶Ç²ÎªºÅã¥Ü¥Ø«e½u¤Wªº¤H¼Æ¤§¥~¡AÁÙ¥i¥H¬d¸ß½u¤W­Ó¤Hªº¸Ô²Ó¸ê®Æ¡A<BR>
-¡@¥]§t¼ÊºÙ¡BIP¡B¥D¾÷¦WºÙ¡B¤W¯¸®É¶¡¡B¦¬°Tª¬ºA¥H¤Î°T®§¶}Ãö¡C</FONT><BR>
-¡@<FONT COLOR=orchid>¡´¼ÊºÙ¡G</FONT><BR>
-¡@<FONT COLOR=orangered>¡÷</FONT>¨Ï¥Î Cookie ¨C¦¸§ó§ï¼ÊºÙ®É±N­È¼g¤J¡A¨C¦¸¤W¯¸§Y¦Û°Ê¥Ñ Cookie ¤¤Åª<BR>
-¡@¡@¨ú¤W¦¸³]©wªº¼ÊºÙ¡A¥i¥H¤£¥Î¨C¦¸¤W¯¸­«·s¶ñ¼g¡C<BR>
-¡@<FONT COLOR=orangered>¡÷</FONT>¼ÊºÙªº³]©wªø«×³Ìªø¬°¢¶­Ó¤¤¤å¦r¡q¥ş§Î¦r¡r©Î¢°¢³­Ó­^¼Æ¦r¡q¥b§Î¦r¡r<BR>
-¡@¡@¡A¥i¥H°ÑÂø¨Ï¥Î¡C<BR>
-<FONT COLOR=navy>¡±½u¤W¶Ç°e°T®§</FONT><BR>
-¡@<FONT COLOR=royalblue>¥i¥H¿ï¾Ü¹ï³æ¤Hµo°e°T®§©Î¥H°T®§¼s¼½ªº§Î¦¡¹ï¦h¤H¦P®Éµo°e°T®§</FONT><BR>
-¡@<FONT COLOR=orchid>¡´³æ¤H¶Ç°T¡G</FONT><BR>
-¡@<FONT COLOR=orangered>¡÷</FONT>ª½±µ¦b¤U©Ô¿ï³æ¤¤ÂI¿ï­nµo°eªº¹ï¶H´N·|¥X²{¶ñ¼g°T®§ªºµøµ¡¡A¶ñ¼g§¹<BR>
-¡@¡@¦¨«á°e¥X§Y§¹¦¨µo°T°Ê§@¡C<BR>
-¡@<FONT COLOR=orangered>¡÷</FONT>¬°¤FÁ×§K¦³¤H¡y¬G·N¡z¦b°T®§¤¤¥[¤J¯}Ãa»yªk¡A¦]¦¹°T®§¤¤©Ò¦³ªºHTML<BR>
-¡@¡@¼ĞÅÒ³£·|µLªkÅã¥Ü¡F¦ı¬O§AÁÙ¬O¥i¥H§ï¥Î¤U­±ªºHTML´À¥N»yªk¨Ó¨Ï¥ÎÂ²<BR>
-¡@¡@³æªº»yªk¡C<BR>
-¡@<FONT COLOR=orchid>¡´°T®§¼s¼½¡G</FONT><BR>
-¡@<FONT COLOR=orangered>¡÷</FONT>¦b¤U©Ô¿ï³æ¤¤ÂI¿ï°T®§¼s¼½¿ï¶µ´N·|¥X²{¶ñ¼g°T®§ªºµøµ¡¡A¶ñ¼g§¹¦¨«á<BR>
-¡@¡@°e¥X§Y§¹¦¨¼s¼½°Ê§@¡C<BR>
-¡@<FONT COLOR=orangered>¡÷</FONT>°T®§¼s¼½ªº¦¬°T¹ï¶H¬°¡G°£¤F§A¥H¥~©Ò¦³¦¬°T¶}Ãö¬°¡y¶}¡zªº½u¤W¤H­û<BR>
-¡@<FONT COLOR=orangered>¡÷</FONT>¬°¤FÁ×§K¦³¤H¡y¬G·N¡z¦b°T®§¤¤¥[¤J¯}Ãa»yªk¡A¦]¦¹°T®§¤¤©Ò¦³ªºHTML<BR>
-¡@¡@¼ĞÅÒ³£·|µLªkÅã¥Ü¡F¦ı¬O§AÁÙ¬O¥i¥H§ï¥Î¤U­±ªºHTML´À¥N»yªk¨Ó¨Ï¥ÎÂ²<BR>
-¡@¡@³æªº»yªk¡C<BR>
+<FONT COLOR=navy>Â§ç·šä¸Šäººæ•¸è¨ˆæ•¸</FONT><BR>
+ã€€<FONT COLOR=royalblue>é™¤äº†å‚³çµ±çš„é¡¯ç¤ºç›®å‰ç·šä¸Šçš„äººæ•¸ä¹‹å¤–ï¼Œé‚„å¯ä»¥æŸ¥è©¢ç·šä¸Šå€‹äººçš„è©³ç´°è³‡æ–™ï¼Œ<BR>
+ã€€åŒ…å«æš±ç¨±ã€IPã€ä¸»æ©Ÿåç¨±ã€ä¸Šç«™æ™‚é–“ã€æ”¶è¨Šç‹€æ…‹ä»¥åŠè¨Šæ¯é–‹é—œã€‚</FONT><BR>
+ã€€<FONT COLOR=orchid>â—æš±ç¨±ï¼š</FONT><BR>
+ã€€<FONT COLOR=orangered>â†’</FONT>ä½¿ç”¨ Cookie æ¯æ¬¡æ›´æ”¹æš±ç¨±æ™‚å°‡å€¼å¯«å…¥ï¼Œæ¯æ¬¡ä¸Šç«™å³è‡ªå‹•ç”± Cookie ä¸­è®€<BR>
+ã€€ã€€å–ä¸Šæ¬¡è¨­å®šçš„æš±ç¨±ï¼Œå¯ä»¥ä¸ç”¨æ¯æ¬¡ä¸Šç«™é‡æ–°å¡«å¯«ã€‚<BR>
+ã€€<FONT COLOR=orangered>â†’</FONT>æš±ç¨±çš„è¨­å®šé•·åº¦æœ€é•·ç‚ºï¼—å€‹ä¸­æ–‡å­—ã€ˆå…¨å½¢å­—ã€‰æˆ–ï¼‘ï¼”å€‹è‹±æ•¸å­—ã€ˆåŠå½¢å­—ã€‰<BR>
+ã€€ã€€ï¼Œå¯ä»¥åƒé›œä½¿ç”¨ã€‚<BR>
+<FONT COLOR=navy>Â§ç·šä¸Šå‚³é€è¨Šæ¯</FONT><BR>
+ã€€<FONT COLOR=royalblue>å¯ä»¥é¸æ“‡å°å–®äººç™¼é€è¨Šæ¯æˆ–ä»¥è¨Šæ¯å»£æ’­çš„å½¢å¼å°å¤šäººåŒæ™‚ç™¼é€è¨Šæ¯</FONT><BR>
+ã€€<FONT COLOR=orchid>â—å–®äººå‚³è¨Šï¼š</FONT><BR>
+ã€€<FONT COLOR=orangered>â†’</FONT>ç›´æ¥åœ¨ä¸‹æ‹‰é¸å–®ä¸­é»é¸è¦ç™¼é€çš„å°è±¡å°±æœƒå‡ºç¾å¡«å¯«è¨Šæ¯çš„è¦–çª—ï¼Œå¡«å¯«å®Œ<BR>
+ã€€ã€€æˆå¾Œé€å‡ºå³å®Œæˆç™¼è¨Šå‹•ä½œã€‚<BR>
+ã€€<FONT COLOR=orangered>â†’</FONT>ç‚ºäº†é¿å…æœ‰äººã€æ•…æ„ã€åœ¨è¨Šæ¯ä¸­åŠ å…¥ç ´å£èªæ³•ï¼Œå› æ­¤è¨Šæ¯ä¸­æ‰€æœ‰çš„HTML<BR>
+ã€€ã€€æ¨™ç±¤éƒ½æœƒç„¡æ³•é¡¯ç¤ºï¼›ä½†æ˜¯ä½ é‚„æ˜¯å¯ä»¥æ”¹ç”¨ä¸‹é¢çš„HTMLæ›¿ä»£èªæ³•ä¾†ä½¿ç”¨ç°¡<BR>
+ã€€ã€€å–®çš„èªæ³•ã€‚<BR>
+ã€€<FONT COLOR=orchid>â—è¨Šæ¯å»£æ’­ï¼š</FONT><BR>
+ã€€<FONT COLOR=orangered>â†’</FONT>åœ¨ä¸‹æ‹‰é¸å–®ä¸­é»é¸è¨Šæ¯å»£æ’­é¸é …å°±æœƒå‡ºç¾å¡«å¯«è¨Šæ¯çš„è¦–çª—ï¼Œå¡«å¯«å®Œæˆå¾Œ<BR>
+ã€€ã€€é€å‡ºå³å®Œæˆå»£æ’­å‹•ä½œã€‚<BR>
+ã€€<FONT COLOR=orangered>â†’</FONT>è¨Šæ¯å»£æ’­çš„æ”¶è¨Šå°è±¡ç‚ºï¼šé™¤äº†ä½ ä»¥å¤–æ‰€æœ‰æ”¶è¨Šé–‹é—œç‚ºã€é–‹ã€çš„ç·šä¸Šäººå“¡<BR>
+ã€€<FONT COLOR=orangered>â†’</FONT>ç‚ºäº†é¿å…æœ‰äººã€æ•…æ„ã€åœ¨è¨Šæ¯ä¸­åŠ å…¥ç ´å£èªæ³•ï¼Œå› æ­¤è¨Šæ¯ä¸­æ‰€æœ‰çš„HTML<BR>
+ã€€ã€€æ¨™ç±¤éƒ½æœƒç„¡æ³•é¡¯ç¤ºï¼›ä½†æ˜¯ä½ é‚„æ˜¯å¯ä»¥æ”¹ç”¨ä¸‹é¢çš„HTMLæ›¿ä»£èªæ³•ä¾†ä½¿ç”¨ç°¡<BR>
+ã€€ã€€å–®çš„èªæ³•ã€‚<BR>
 </TD></TR>
-<TR><TD COLSPAN=2><FONT COLOR=GREEN>¡¹¡@´À¥N»yªk¡@¡¹</FONT></TD></TR>
+<TR><TD COLSPAN=2><FONT COLOR=GREEN>â˜…ã€€æ›¿ä»£èªæ³•ã€€â˜…</FONT></TD></TR>
 <TR><TD COLSPAN=2>
-<FONT COLOR=RED>¡°</FONT><FONT COLOR=crimson>©Ò¦³¼ĞÅÒªº§@¥Î½d³ò´N¦b°_©l¼ĞÅÒ¤Îµ²§À¼ĞÅÒ¤¤<BR>
-¡@¦]¦¹©Ò¦³ªº¼ĞÅÒ³£¥²¶·¦¨¹ï¥X²{¡I</FONT>
+<FONT COLOR=RED>â€»</FONT><FONT COLOR=crimson>æ‰€æœ‰æ¨™ç±¤çš„ä½œç”¨ç¯„åœå°±åœ¨èµ·å§‹æ¨™ç±¤åŠçµå°¾æ¨™ç±¤ä¸­<BR>
+ã€€å› æ­¤æ‰€æœ‰çš„æ¨™ç±¤éƒ½å¿…é ˆæˆå°å‡ºç¾ï¼</FONT>
   <TABLE WIDTH=90%>
-  <TR><TD>°_©l¼ĞÅÒ</TD><TD>µ²§À¼ĞÅÒ</TD><TD>»¡©ú</TD></TR>
-  <TR><TD>~!red!~</TD><TD>~!/color!~</TD><TD>³]©w¦rÅé¬°<FONT COLOR=red>¡½</FONT>¦â</TD></TR>
-  <TR><TD>~!blue!~</TD><TD>~!/color!~</TD><TD>³]©w¦rÅé¬°<FONT COLOR=blue>¡½</FONT>¦â</TD></TR>
-  <TR><TD>~!green!~</TD><TD>~!/color!~</TD><TD>³]©w¦rÅé¬°<FONT COLOR=green>¡½</FONT>¦â</TD></TR>
-  <TR><TD>~!purple!~</TD><TD>~!/color!~</TD><TD>³]©w¦rÅé¬°<FONT COLOR=purple>¡½</FONT>¦â</TD></TR>
-  <TR><TD>~!dodgerblue!~</TD><TD>~!/color!~</TD><TD>³]©w¦rÅé¬°<FONT COLOR=dodgerblue>¡½</FONT>¦â</TD></TR>
-  <TR><TD>~!deeppink!~</TD><TD>~!/color!~</TD><TD>³]©w¦rÅé¬°<FONT COLOR=deeppink>¡½</FONT>¦â</TD></TR>
-  <TR><TD>~!lightgreen!~</TD><TD>~!/color!~</TD><TD>³]©w¦rÅé¬°<FONT COLOR=lightgreen>¡½</FONT>¦â</TD></TR>
-  <TR><TD>~!mediumpurple!~</TD><TD>~!/color!~</TD><TD>³]©w¦rÅé¬°<FONT COLOR=mediumpurple>¡½</FONT>¦â</TD></TR>
-  <TR><TD>~!olivedrab!~</TD><TD>~!/color!~</TD><TD>³]©w¦rÅé¬°<FONT COLOR=olivedrab>¡½</FONT>¦â</TD></TR>
-  <TR><TD>~!sienna!~</TD><TD>~!/color!~</TD><TD>³]©w¦rÅé¬°<FONT COLOR=sienna>¡½</FONT>¦â</TD></TR>
-  <TR><TD>~!big!~</TD><TD>~!/big!~</TD><TD>©ñ¤j¦rÅé</TD></TR>
-  <TR><TD>~!small!~</TD><TD>~!/small!~</TD><TD>ÁY¤p¦rÅé</TD></TR>
-  <TR><TD>~!i!~</TD><TD>~!/i!~</TD><TD>±×Åé¦r</TD></TR>
-  <TR><TD>~!b!~</TD><TD>~!/b!~</TD><TD>²ÊÅé¦r</TD></TR>
+  <TR><TD>èµ·å§‹æ¨™ç±¤</TD><TD>çµå°¾æ¨™ç±¤</TD><TD>èªªæ˜</TD></TR>
+  <TR><TD>~!red!~</TD><TD>~!/color!~</TD><TD>è¨­å®šå­—é«”ç‚º<FONT COLOR=red>â– </FONT>è‰²</TD></TR>
+  <TR><TD>~!blue!~</TD><TD>~!/color!~</TD><TD>è¨­å®šå­—é«”ç‚º<FONT COLOR=blue>â– </FONT>è‰²</TD></TR>
+  <TR><TD>~!green!~</TD><TD>~!/color!~</TD><TD>è¨­å®šå­—é«”ç‚º<FONT COLOR=green>â– </FONT>è‰²</TD></TR>
+  <TR><TD>~!purple!~</TD><TD>~!/color!~</TD><TD>è¨­å®šå­—é«”ç‚º<FONT COLOR=purple>â– </FONT>è‰²</TD></TR>
+  <TR><TD>~!dodgerblue!~</TD><TD>~!/color!~</TD><TD>è¨­å®šå­—é«”ç‚º<FONT COLOR=dodgerblue>â– </FONT>è‰²</TD></TR>
+  <TR><TD>~!deeppink!~</TD><TD>~!/color!~</TD><TD>è¨­å®šå­—é«”ç‚º<FONT COLOR=deeppink>â– </FONT>è‰²</TD></TR>
+  <TR><TD>~!lightgreen!~</TD><TD>~!/color!~</TD><TD>è¨­å®šå­—é«”ç‚º<FONT COLOR=lightgreen>â– </FONT>è‰²</TD></TR>
+  <TR><TD>~!mediumpurple!~</TD><TD>~!/color!~</TD><TD>è¨­å®šå­—é«”ç‚º<FONT COLOR=mediumpurple>â– </FONT>è‰²</TD></TR>
+  <TR><TD>~!olivedrab!~</TD><TD>~!/color!~</TD><TD>è¨­å®šå­—é«”ç‚º<FONT COLOR=olivedrab>â– </FONT>è‰²</TD></TR>
+  <TR><TD>~!sienna!~</TD><TD>~!/color!~</TD><TD>è¨­å®šå­—é«”ç‚º<FONT COLOR=sienna>â– </FONT>è‰²</TD></TR>
+  <TR><TD>~!big!~</TD><TD>~!/big!~</TD><TD>æ”¾å¤§å­—é«”</TD></TR>
+  <TR><TD>~!small!~</TD><TD>~!/small!~</TD><TD>ç¸®å°å­—é«”</TD></TR>
+  <TR><TD>~!i!~</TD><TD>~!/i!~</TD><TD>æ–œé«”å­—</TD></TR>
+  <TR><TD>~!b!~</TD><TD>~!/b!~</TD><TD>ç²—é«”å­—</TD></TR>
   </TABLE><BR>
-¡i½d¨Ò-¿é¤J¡j
-<DIV STYLE=font-size:8pt;color:black;text-align:left;width:80%>³o~!red!~~!big!~¬O~!/big!~~!i!~¤@­Ó~!/i!~<BR>~!/color!~Â²~!green!~³æ~!deeppink!~ªº~!/color!~½d~!/color!~¨Ò¡I</DIV>
-¡iÅã¥Üªº®ÄªG¡j
-<DIV STYLE=font-size:8pt;color:black;text-align:left;width:80%>³o<FONT COLOR=red><BIG>¬O</BIG><I>¤@­Ó</I></FONT>Â²<FONT COLOR=green>³æ<FONT COLOR=deeppink>ªº</FONT>½d</FONT>¨Ò¡I</DIV>
+ã€ç¯„ä¾‹-è¼¸å…¥ã€‘
+<DIV STYLE=font-size:8pt;color:black;text-align:left;width:80%>é€™~!red!~~!big!~æ˜¯~!/big!~~!i!~ä¸€å€‹~!/i!~<BR>~!/color!~ç°¡~!green!~å–®~!deeppink!~çš„~!/color!~ç¯„~!/color!~ä¾‹ï¼</DIV>
+ã€é¡¯ç¤ºçš„æ•ˆæœã€‘
+<DIV STYLE=font-size:8pt;color:black;text-align:left;width:80%>é€™<FONT COLOR=red><BIG>æ˜¯</BIG><I>ä¸€å€‹</I></FONT>ç°¡<FONT COLOR=green>å–®<FONT COLOR=deeppink>çš„</FONT>ç¯„</FONT>ä¾‹ï¼</DIV>
 </TD></TR>
 </TABLE>
-<HR><input type=button value="Ãö³¬µøµ¡" STYLE=font-size:8pt;color:blue; onclick=window.close();>
+<HR><input type=button value="é—œé–‰è¦–çª—" STYLE=font-size:8pt;color:blue; onclick=window.close();>
 </CENTER></BODY></HTML>
 HTML
 }
@@ -596,7 +596,7 @@ sub setvaluetoform
 {
  if ($FORM{$_[0]})
  {
-  $FORM{$_[0]}="$FORM{$_[0]}¡±$_[1]";
+  $FORM{$_[0]}="$FORM{$_[0]}Â§$_[1]";
  }
  else
  {
@@ -617,7 +617,7 @@ if ($mdayg < 10) { $mdayg = "0$mdayg"; }
 $month = ('Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec')[$mong];
 $youbi = ('Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday')[$wdayg];
 $date_gmt = "$youbi, $mdayg\-$month\-$yearg $hourg:$ming:$secg GMT";
-$cook="nick¡ü$FORM{nick}\,email¡üemailemail";
+$cook="nickâˆ¥$FORM{nick}\,emailâˆ¥emailemail";
 print "Set-Cookie: TMmany=$cook; expires=$date_gmt\n";
 }
 #########################################################################
@@ -630,7 +630,7 @@ $DUMMY{$name} = $value;
 }
 @pairs = split(/\,/, $DUMMY{'TMmany'});
 foreach $pair (@pairs) {
-local($name, $value) = split(/\¡ü/, $pair);
+local($name, $value) = split(/\âˆ¥/, $pair);
 $COOKIE{$name} = $value;
 }
 	$cookienick  = $COOKIE{'nick'};

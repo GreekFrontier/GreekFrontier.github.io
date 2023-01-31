@@ -1,22 +1,22 @@
-<?php
+Ôªø<?php
 # General
 
 $LANG["metatag"]    = '<META http-equiv=Content-Type content="text/html; charset=UTF-8">';
 
 $LANG["BookMess1"]  = "HTML code is disabled";
 $LANG["BookMess2"]  = "HTML code b&amp;#7853;t";
-$LANG["BookMess3"]  = "Ghi s&amp;#7893; l&amp;#432;u niÍm";
+$LANG["BookMess3"]  = "Ghi s&amp;#7893; l&amp;#432;u niÁò±";
 $LANG["BookMess4"]  = "Xem s&amp;#7893; l&amp;#432;u ni&amp;#7879;m";
 $LANG["BookMess5"]  = "Qu&amp;#7843;n tr&amp;#7883;";
-$LANG["BookMess6"]  = "C·m &amp;#417;n b&amp;#7841;n &amp;#273;„ &amp;#273;&amp;#7871;n th&amp;#259;m trang web c&amp;#7911;a Nh&amp;#7885; Nhem, m&amp;#7901;i b&amp;#7841;n h„y
-l&amp;#432;u gi&amp;#7919; b˙t tÌch c&amp;#7911;a mÏnh t&amp;#7841;i &amp;#273;‚y";
-$LANG["BookMess7"]  = "L&amp;#7901;i bÏnh";
+$LANG["BookMess6"]  = "CÂ´• &amp;#417;n b&amp;#7841;n &amp;#273;?&amp;#273;&amp;#7871;n th&amp;#259;m trang web c&amp;#7911;a Nh&amp;#7885; Nhem, m&amp;#7901;i b&amp;#7841;n hÁ∑â
+l&amp;#432;u gi&amp;#7919; bÓÄ¥ tÁç≥h c&amp;#7911;a mÈ´∂h t&amp;#7841;i &amp;#273;Êºß";
+$LANG["BookMess7"]  = "L&amp;#7901;i bÈ´∂h";
 $LANG["BookMess8"]  = "Tr&amp;#7903; l&amp;#7841;i Form";
-$LANG["BookMess9"]  = "B&amp;#7841;n h„y vi&amp;#7871;t v‡i dÚng c&amp;#7843;m t&amp;#432;&amp;#7903;ng nhÈ.";
-$LANG["BookMess10"] = "<u>C·m &amp;#417;n b&amp;#7841;n &amp;#273;„ ghi s&amp;#7893; l&amp;#432;u ni&amp;#7879;m c&amp;#7911;a Nh&amp;#7885; Nhem,.</u><br><br>B&amp;#7841;n s&amp;#7869; &amp;#273;&amp;#432;&amp;#7907;c &amp;#273;&amp;#432;a tr&amp;#7903; l&amp;#7841;i xem s&amp;#7893; l&amp;#432;u ni&amp;#7879;m trong vÚng 2 gi‚y
+$LANG["BookMess9"]  = "B&amp;#7841;n hÁ∑â vi&amp;#7871;t vË∑¨ dÁä•g c&amp;#7843;m t&amp;#432;&amp;#7903;ng nh?";
+$LANG["BookMess10"] = "<u>CÂ´• &amp;#417;n b&amp;#7841;n &amp;#273;?ghi s&amp;#7893; l&amp;#432;u ni&amp;#7879;m c&amp;#7911;a Nh&amp;#7885; Nhem,.</u><br><br>B&amp;#7841;n s&amp;#7869; &amp;#273;&amp;#432;&amp;#7907;c &amp;#273;&amp;#432;a tr&amp;#7903; l&amp;#7841;i xem s&amp;#7893; l&amp;#432;u ni&amp;#7879;m trong vÁä•g 2 giÊºß
 n&amp;#7919;a.";
 
-$LANG["EmailAdminSubject"] = "Vi&amp;#7871;t &amp;#273;Ùi dÚng nh&amp;#7855;n g&amp;#7917;i";
+$LANG["EmailAdminSubject"] = "Vi&amp;#7871;t &amp;#273;ÁÅÅ dÁä•g nh&amp;#7855;n g&amp;#7917;i";
 $LANG["EmailGuestSubject"] = "Cam on ban da ghi so luu niem cua Nho Nhem";
 
 $LANG["AltIP"]    = "IP logged";
@@ -27,23 +27,23 @@ $LANG["AltAim"]   = "Instant Messenger";
 $LANG["AltCom"]   = "Write a comment";
 
 # Form
-$LANG["FormMess1"]   = "&amp;#272;&amp;#7875; vi&amp;#7871;t v‡o s&amp;#7893; l&amp;#432;u ni&amp;#7879;m, m&amp;#7901;i b&amp;#7841;n &amp;#273;i&amp;#7873;n v‡o form d&amp;#432;&amp;#7899;i &amp;#273;‚y.
-C·c m&amp;#7909;c cÛ d&amp;#7845;u * l‡ b&amp;#7855;t bu&amp;#7897;c.";
+$LANG["FormMess1"]   = "&amp;#272;&amp;#7875; vi&amp;#7871;t vË∑¢ s&amp;#7893; l&amp;#432;u ni&amp;#7879;m, m&amp;#7901;i b&amp;#7841;n &amp;#273;i&amp;#7873;n vË∑¢ form d&amp;#432;&amp;#7899;i &amp;#273;Êºß.
+CÂ°∂ m&amp;#7909;c c?d&amp;#7845;u * l?b&amp;#7855;t bu&amp;#7897;c.";
 $LANG["FormMess2"]   = "Smilies b&amp;#7853;t";
 $LANG["FormMess3"]   = "AGCode b&amp;#7853;t";
-$LANG["FormMess4"]   = "Ch˙ thÌch";
-$LANG["FormMess5"]   = "D&amp;#432;&amp;#7899;i &amp;#273;‚y l‡ n&amp;#7897;i dung b&amp;#7841;n &amp;#273;„ vi&amp;#7871;t.";
+$LANG["FormMess4"]   = "Ch?thÁç≥h";
+$LANG["FormMess5"]   = "D&amp;#432;&amp;#7899;i &amp;#273;Êºß l?n&amp;#7897;i dung b&amp;#7841;n &amp;#273;?vi&amp;#7871;t.";
 $LANG["FormMess6"]   = "AG Code is OFF";
 $LANG["FormMess7"]   = "Smilies are OFF";
-$LANG["FormName"]    = "TÍn c&amp;#7911;a b&amp;#7841;n";
+$LANG["FormName"]    = "TÁòΩ c&amp;#7911;a b&amp;#7841;n";
 $LANG["FormEmail"]   = "E-mail";
 $LANG["FormLoc"]     = "N&amp;#417;i sinh s&amp;#7889;ng";
-$LANG["FormPic"]     = "G&amp;#7917;i kËm &amp;#7843;nh";
+$LANG["FormPic"]     = "G&amp;#7917;i kÈãó &amp;#7843;nh";
 $LANG["FormUrl"]     = "Trang ch&amp;#7911;";
 $LANG["FormGender"]  = "Gender";
 $LANG["FormMale"]    = "Male";
 $LANG["FormFemale"]  = "Female";
-$LANG["FormMessage"] = "B&amp;#7841;n vi&amp;#7871;t gÏ n‡o?";
+$LANG["FormMessage"] = "B&amp;#7841;n vi&amp;#7871;t g?nË∑¢?";
 $LANG["FormSelect"]  = "S&amp;#7893; l&amp;#432;u ni&amp;#7879;m";
 $LANG["FormUser"]    = "Username";
 $LANG["FormPass"]    = "Password";
@@ -51,14 +51,14 @@ $LANG["FormReset"]   = "Reset";
 $LANG["FormSubmit"]  = "Submit";
 $LANG["FormPreview"] = "Preview";
 $LANG["FormBack"]    = "Quay tr&amp;#7903; l&amp;#7841;i";
-$LANG["FormEnter"]   = "Khu v&amp;#7921;c qu&amp;#7843;n tr&amp;#7883; S&amp;#7893; L&amp;#432;u Ni&amp;#7879;m. B&amp;#7841;n h„y cung c&amp;#7845;p TÍn v‡ M&amp;#7853;t
+$LANG["FormEnter"]   = "Khu v&amp;#7921;c qu&amp;#7843;n tr&amp;#7883; S&amp;#7893; L&amp;#432;u Ni&amp;#7879;m. B&amp;#7841;n hÁ∑â cung c&amp;#7845;p TÁòΩ v?M&amp;#7853;t
 kh&amp;#7849;u qu&amp;#7843;n tr&amp;#7883;!";
 $LANG["FormButton"]  = "Go";
-$LANG["FormPriv"]    = "Tin riÍng";
+$LANG["FormPriv"]    = "Tin riÁòΩg";
 
 # Navigation Bar
-$LANG["NavTotal"]   = "T&amp;#7893;ng s&amp;#7889; ˝ ki&amp;#7871;n:";
-$LANG["NavRecords"] = "S&amp;#7889; b‡i vi&amp;#7871;t trÍn m&amp;#7895;i trang l‡:";
+$LANG["NavTotal"]   = "T&amp;#7893;ng s&amp;#7889; ?ki&amp;#7871;n:";
+$LANG["NavRecords"] = "S&amp;#7889; bË∑¨ vi&amp;#7871;t trÁòΩ m&amp;#7895;i trang l?";
 $LANG["NavPrev"]    = "Trang tr&amp;#432;&amp;#7899;c";
 $LANG["NavNext"]    = "Trang sau";
 
@@ -67,17 +67,17 @@ $LANG["ErrorPost1"]  = "Ban quen khong dien ten";
 $LANG["ErrorPost2"]  = "Ban quen khong dien noi dung bai viet";
 $LANG["ErrorPost3"]  = "Bai viet co the qua ngan hoac qua dai";
 $LANG["ErrorPost4"]  = "One of the input fields does not seem to be valid.";
-$LANG["ErrorPost5"]  = "CÛ l&amp;#7895;i...";
-$LANG["ErrorPost6"]  = "File &amp;#7843;nh qu· l&amp;#7899;n";
+$LANG["ErrorPost5"]  = "C?l&amp;#7895;i...";
+$LANG["ErrorPost6"]  = "File &amp;#7843;nh qu?l&amp;#7899;n";
 $LANG["ErrorPost7"]  = "Wrong image file type";
 $LANG["ErrorPost8"]  = "Sorry! We have flood-control activated. Please try again after a period of time elapses!";
 $LANG["ErrorPost9"]  = "Your IP adress is banned!";
-$LANG["ErrorPost10"] = "N&amp;#7897;i dung b&amp;#7841;n vi&amp;#7871;t cÛ ch&amp;#7913;a t&amp;#7915; b&amp;#7883; c&amp;#7845;m, b&amp;#7841;n h„y ki&amp;#7875;m tra v‡
-g&amp;#7917;i l&amp;#7841;i nhÈ";
-$LANG["ErrorPost11"] = "B&amp;#7841;n quÍn khÙng &amp;#273;i&amp;#7873;n m&amp;#7909;c N&amp;#7897;i dung";
+$LANG["ErrorPost10"] = "N&amp;#7897;i dung b&amp;#7841;n vi&amp;#7871;t c?ch&amp;#7913;a t&amp;#7915; b&amp;#7883; c&amp;#7845;m, b&amp;#7841;n hÁ∑â ki&amp;#7875;m tra v?
+g&amp;#7917;i l&amp;#7841;i nh?;
+$LANG["ErrorPost11"] = "B&amp;#7841;n quÁòΩ khÁçºg &amp;#273;i&amp;#7873;n m&amp;#7909;c N&amp;#7897;i dung";
 
-$LANG["PassMess1"] = "B&amp;#7841;n h„y &amp;#273;i&amp;#7873;n tÍn v‡ m&amp;#7853;t kh&amp;#7849;u:";
-$LANG["PassMess2"] = "TÍn v‡ m&amp;#7853;t kh&amp;#7849;u sai.";
+$LANG["PassMess1"] = "B&amp;#7841;n hÁ∑â &amp;#273;i&amp;#7873;n tÁòΩ v?m&amp;#7853;t kh&amp;#7849;u:";
+$LANG["PassMess2"] = "TÁòΩ v?m&amp;#7853;t kh&amp;#7849;u sai.";
 $LANG["PassMess3"] = "Xin l&amp;#7895;i sai m&amp;#7853;t kh&amp;#7849;u.";
 
 # Days
@@ -90,17 +90,17 @@ $weekday[5] = "Th&amp;#7913; 6";
 $weekday[6] = "Th&amp;#7913; 7";
 
 # Months
-$months[0]  = "th·ng 1";
-$months[1]  = "th·ng 2";
-$months[2]  = "th·ng 3";
-$months[3]  = "th·ng 4";
-$months[4]  = "th·ng 5";
-$months[5]  = "th·ng 6";
-$months[6]  = "th·ng 7";
-$months[7]  = "th·ng 8";
-$months[8]  = "th·ng 9";
-$months[9]  = "th·ng 10";
-$months[10] = "th·ng 11";
-$months[11] = "th·ng 12";
+$months[0]  = "thÂ´ïg 1";
+$months[1]  = "thÂ´ïg 2";
+$months[2]  = "thÂ´ïg 3";
+$months[3]  = "thÂ´ïg 4";
+$months[4]  = "thÂ´ïg 5";
+$months[5]  = "thÂ´ïg 6";
+$months[6]  = "thÂ´ïg 7";
+$months[7]  = "thÂ´ïg 8";
+$months[8]  = "thÂ´ïg 9";
+$months[9]  = "thÂ´ïg 10";
+$months[10] = "thÂ´ïg 11";
+$months[11] = "thÂ´ïg 12";
 
 ?>

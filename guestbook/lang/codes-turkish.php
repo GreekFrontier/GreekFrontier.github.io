@@ -1,7 +1,7 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+ï»¿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <HTML>
 <HEAD>
-<TITLE>Smilie ler Ve AGCode ları</TITLE>
+<TITLE>Smilie ler Ve AGCode lar?/TITLE>
 <META content="text/html; charset=windows-1254" http-equiv="Content-Type">
 <style type="text/css">
 <!--
@@ -13,24 +13,24 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
 <CENTER>
   <table width="95%" border="0" cellspacing="1" cellpadding="0">
     <tr>
-      <td height="25"> S M I L I E S &nbsp;&nbsp; NEDİR ?</td>
+      <td height="25"> S M I L I E S &nbsp;&nbsp; NEDåµ¬ ?</td>
     </tr>
     <tr>
       <td>
-        <p>'Smilies' email form yada web uzerinden metin uygulamalarında yazıyı şekil ve takılarla 
-desteklenmesini sağlayan yazılımdır. Bu şekilde internet üzerinde chat forum vs uygulamlarında kelimeleriniz 
-şekil yada takılarla ifade etmenizi sağlamaktadır. Bu işlem sitem tarafından otamatik olarak şekil yada logolara 
-dönüştürülmektedir. </p>
-        <p> Aşağıda Smilies içinde yer alan kodlar ve şekillerin listesini bulabilirsiniz: </p>
+        <p>'Smilies' email form yada web uzerinden metin uygulamalarîˆ…da yazîˆ?îŠ™kil ve takîˆƒarla 
+desteklenmesini saç°°ayan yazîˆƒîˆ„dîˆ‰. Bu îŠ™kilde internet î…´erinde chat forum vs uygulamlarîˆ…da kelimeleriniz 
+îŠ™kil yada takîˆƒarla ifade etmenizi saç°°amaktadîˆ‰. Bu iîŠ em sitem tarafîˆ…dan otamatik olarak îŠ™kil yada logolara 
+déœµî‡–tî…¬î…¦mektedir. </p>
+        <p> AîŠ•è¹¥da Smilies iè“¾nde yer alan kodlar ve îŠ™killerin listesini bulabilirsiniz: </p>
       </td>
     </tr>
   </table>
   <table bgcolor=#f7f7f7 border=0 width="95%" cellspacing="1" cellpadding="4">
     <tbody>
     <tr>
-      <td bgcolor="#996699"><font color=#ffffff><b>Şekil Çeşidi</b></font></td>
-      <td bgcolor="#996699"><font color=#ffffff><b>İfade</b></font></td>
-      <td bgcolor="#996699"><font color=#ffffff><b>Grafik Şekli</b></font></td>
+      <td bgcolor="#996699"><font color=#ffffff><b>æº³kil ïœ´îŠdi</b></font></td>
+      <td bgcolor="#996699"><font color=#ffffff><b>æ…‰ade</b></font></td>
+      <td bgcolor="#996699"><font color=#ffffff><b>Grafik æº³kli</b></font></td>
     </tr>
 
 <?php include ("./smilies.inc"); ?>
@@ -40,14 +40,14 @@ dönüştürülmektedir. </p>
   <br>
   <table width="95%" border="0" cellspacing="1" cellpadding="0">
     <tr>
-      <td height="25">ZİYARETÇİ &nbsp;&nbsp;DEFTERİNDEKİ &nbsp;&nbsp;KODLAR &nbsp;&nbsp;NEDİR ? </td>
+      <td height="25">Zå¹ARETïŠ &nbsp;&nbsp;DEFTERåµ£DEK?&nbsp;&nbsp;KODLAR &nbsp;&nbsp;NEDåµ¬ ? </td>
     </tr>
     <tr>
       <td>
-        <p>AGCode ları bir çeşit HTML tag larıdır. AGCodE lar kullanılarak ziyaretçi defterine girilen bilgilerin 
-html formatına dönüştürülmesi sağlanır. AGCodE ları hem güvenli bir şekilde hemde daha az kod kullanılarak bu 
-işlemin yapılmasına olanak tanımaktadır.
-        <p>Geçerli AGCode ları:
+        <p>AGCode lar?bir è”’îŠt HTML tag larî‡»îˆ‰. AGCodE lar kullanîˆƒarak ziyaretè“¾ defterine girilen bilgilerin 
+html formatîˆ…a déœµî‡–tî…¬î…¦mesi saç°°anîˆ‰. AGCodE lar?hem gî…°enli bir îŠ™kilde hemde daha az kod kullanîˆƒarak bu 
+iîŠ emin yapîˆƒmasîˆ…a olanak tanîˆ„aktadîˆ‰.
+        <p>Geè”’rli AGCode lar?
       </td>
     </tr>
   </table>
@@ -61,27 +61,27 @@ işlemin yapılmasına olanak tanımaktadır.
           <TD><b><font color="#FFFFFF">URL Hyperlink</font></b></TD>
         </TR>
         <TR bgColor=#ffffff>
-          <TD>AGCodları nı yapılandırdığınızda hyperlink oluşturmak için [URL] kodlarını kullanmanıza gerek yoktur. 
-Bu şekilde otamatik olarak yaratabilirsiniz:
+          <TD>AGCodlar?n?yapîˆƒandîˆ‰dî‰¥îˆ…îˆ‘da hyperlink oluîŠ¨urmak iè“¾n [URL] kodlarîˆ…?kullanmanîˆ‘a gerek yoktur. 
+Bu îŠ™kilde otamatik olarak yaratabilirsiniz:
             <UL>
               <LI><font color="#800000">http://www.sitenizinadi.com </font>
-              <LI><FONT color=#800000>www.sitenizinadi.com </FONT>Eğer siteniz www. ile başlamıyorsa mutlaka 
-"http://" adresiniz olarak kullanmalısınız. Bu şekilde kullanımda AGCode ları aktif olmalıdır. <BR>
+              <LI><FONT color=#800000>www.sitenizinadi.com </FONT>Eç°Ÿr siteniz www. ile baîŠ amîˆorsa mutlaka 
+"http://" adresiniz olarak kullanmalîˆŠîˆ…îˆ‘. Bu îŠ™kilde kullanîˆ„da AGCode lar?aktif olmalî‡»îˆ‰. <BR>
                 <BR>
-              <LI>Bu işlemi aşağıdaki formatta url kodlarıda kullanrak yapmanız mümkündür: <br><br>
+              <LI>Bu iîŠ emi aîŠ•è¹¥daki formatta url kodlarî‡»a kullanrak yapmanîˆ‘ mî…§kî…¨dî…¬: <br><br>
                 <CENTER>
                   <FONT color=#ff0000>[url=http://www.aeystudio.com]</FONT>hyperlink<FONT color=#ff0000>[/url]</FONT>
                 </CENTER><br><br>
               <LI>
-                <P>Eski [URL] kodları aşağıda ayrıntıları verildiği gibi çalışacaktır. Aşağıdaki örnekte AGCode (
-<FONT color=#ff0000>kırmızı</FONT>)durumdadır.
+                <P>Eski [URL] kodlar?aîŠ•è¹¥da ayrîˆ…tîˆƒar?verildiç°¨ gibi è“·lî‰³acaktîˆ‰. AîŠ•è¹¥daki é¡¤nekte AGCode (
+<FONT color=#ff0000>kîˆ‰mîˆ‘?/FONT>)durumdadîˆ‰.
                 <P>
                   <CENTER>
                     <FONT color=#ff0000>[url]</FONT>http://www.aeystudio.com<FONT color=#ff0000>[/url]</FONT>
                   </CENTER>
-                <P>Yukarıda yer alan örnekte AGCod ları otomatik olarak belirlenen URL ye ait bir  hyperlink 
-oluşturacaktır. Yeni bir kullanıcı linke tıkladığında bu link yeni bir pencerede açılacaktır. "http://" kısmı 
-tamamen opsiyoneldir. URL tagları içinde kesinlikle quotation marks kullanmanız gereklidir.</P>
+                <P>Yukarî‡»a yer alan é¡¤nekte AGCod lar?otomatik olarak belirlenen URL ye ait bir  hyperlink 
+oluîŠ¨uracaktîˆ‰. Yeni bir kullanî‡º?linke tîˆ‚ladî‰¥îˆ…da bu link yeni bir pencerede aè¸¦lacaktîˆ‰. "http://" kîˆŠm?
+tamamen opsiyoneldir. URL taglar?iè“¾nde kesinlikle quotation marks kullanmanîˆ‘ gereklidir.</P>
               </LI>
             </UL>
           </TD>
@@ -89,35 +89,35 @@ tamamen opsiyoneldir. URL tagları içinde kesinlikle quotation marks kullanmanız 
           <TD><b><font color="#FFFFFF">E-mail Linkleri</font></b></TD>
         </TR>
         <TR bgColor=#ffffff>
-          <TD>Mesajlarınızda email adresini  hyperlink olarak eklemek istediğinizde aşağıdaki örneğe bakabilirsiniz.
-(AGCode ları<FONT color=#ff0000> kırmızı</FONT> ) dır.
+          <TD>Mesajlarîˆ…îˆ‘da email adresini  hyperlink olarak eklemek istediç°¨nizde aîŠ•è¹¥daki é¡¤neç°Ÿ bakabilirsiniz.
+(AGCode lar?FONT color=#ff0000> kîˆ‰mîˆ‘?/FONT> ) dîˆ‰.
 <P>
               <CENTER>
                 <FONT color=#ff0000>[email]</FONT>webmaster@aeystudio.com<FONT color=#ff0000>[/email]</FONT>
               </CENTER>
-            <P>Yukarıdaki örnekteki formatı kullandığınızda AGCode  otomatik olarak size bir e-mail adresi hyperlinki oluşturacaktır.</P>
+            <P>Yukarî‡»aki é¡¤nekteki format?kullandî‰¥îˆ…îˆ‘da AGCode  otomatik olarak size bir e-mail adresi hyperlinki oluîŠ¨uracaktîˆ‰.</P>
           </TD>
         </TR>
         <TR bgColor=#0099CC>
-          <TD><b><font color="#FFFFFF">Koyu ve İtalik Yazım</font></b></TD>
+          <TD><b><font color="#FFFFFF">Koyu ve æˆ£alik Yazîˆ„</font></b></TD>
         </TR>
         <TR bgColor=#ffffff>
-          <TD>[b] [/b] yada [i] [/i] tagları. Bu tagları kullanarak metinlerinizde Koyu ve İtalik Yazım özelliği katabilirsiniz<P>
+          <TD>[b] [/b] yada [i] [/i] taglar? Bu taglar?kullanarak metinlerinizde Koyu ve æˆ£alik Yazîˆ„ é©†elliç°¨ katabilirsiniz<P>
               <CENTER>
                 Merhaba, <FONT color=#ff0000>[b]</FONT><B>Ali</B><FONT color=#ff0000>[/b]</FONT><BR><br>
-                Merhaba, <FONT color=#ff0000>[i]</FONT><I>Ayşe</I><font color="#FF0000">[i]</font>
+                Merhaba, <FONT color=#ff0000>[i]</FONT><I>AyîŠ™</I><font color="#FF0000">[i]</font>
               </CENTER>
           </TD>
         </TR>
         <TR bgColor=#0099CC>
-          <TD><b><font color="#FFFFFF">İmaj Ekleme</font></b></TD>
+          <TD><b><font color="#FFFFFF">æ…†aj Ekleme</font></b></TD>
         </TR>
         <TR bgColor=#ffffff>
-          <TD>İmaj eklemek için aşağıdaki örnekte olduğu gibi yapılandırma yapabilirsiniz. AGCode ( <FONT color=#ff0000>kırmızı</FONT> ) durumdadır.<P>
+          <TD>æ…†aj eklemek iè“¾n aîŠ•è¹¥daki é¡¤nekte olduç¹  gibi yapîˆƒandîˆ‰ma yapabilirsiniz. AGCode ( <FONT color=#ff0000>kîˆ‰mîˆ‘?/FONT> ) durumdadîˆ‰.<P>
               <CENTER>
                 <FONT color=#ff0000>[img]</FONT>http://www.sitenizinadi.com/image/logo.gif<FONT color=#ff0000>[/img]</FONT>
               </CENTER>
-            <P>bu şekilde yapılandırılmış kod larda  AGCode grafiğin mesajınızda otomatik olarak görülmesini sağlayacaklardır.</P>
+            <P>bu îŠ™kilde yapîˆƒandîˆ‰îˆƒmî‰³ kod larda  AGCode grafiç°¨n mesajîˆ…îˆ‘da otomatik olarak gé¡¤î…¦mesini saç°°ayacaklardîˆ‰.</P>
           </TD>
         </TR>
         </TBODY>
@@ -128,14 +128,14 @@ tamamen opsiyoneldir. URL tagları içinde kesinlikle quotation marks kullanmanız 
 </TABLE>
 <table width="95%" border="0" cellspacing="1" cellpadding="4" align="center">
   <tr>
-    <td><font color=#800000>Diğer Notlar</font><br>
-      HTML ve  AGCode aynı işlem için beraber kullanmayınız. AGCode ları işlevsel olmayacaklardır. 
-( Bu şekilde kullanabilirsiniz <font color=#ff0000>[URL]</font>
+    <td><font color=#800000>Diç°Ÿr Notlar</font><br>
+      HTML ve  AGCode ayn?iîŠ em iè“¾n beraber kullanmayîˆ…îˆ‘. AGCode lar?iîŠ evsel olmayacaklardîˆ‰. 
+( Bu îŠ™kilde kullanabilirsiniz <font color=#ff0000>[URL]</font>
       yada <font color=#ff0000>[url]</font> ).<br><br>
-      <font color="#800000">AGCode  Yanlış kullanımı:</font> <br>
-       <font color="#ff0000">[url] </font> www.aeystudio.com <font color=#ff0000> [/url]</font> - parantez ve  the text arasında boşluk bırakmayınız.<br>
+      <font color="#800000">AGCode  Yanlî‰³ kullanîˆ„?</font> <br>
+       <font color="#ff0000">[url] </font> www.aeystudio.com <font color=#ff0000> [/url]</font> - parantez ve  the text arasîˆ…da boîŠ uk bîˆ‰akmayîˆ…îˆ‘.<br>
         <br>
-        <font color="#ff0000">[email]</font>webmaster@aeystudio.com<font color=#ff0000>[email]</font> - parantezlerin sonunda slash kullanınız. (<font color=#ff0000>[/email]</font>)
+        <font color="#ff0000">[email]</font>webmaster@aeystudio.com<font color=#ff0000>[email]</font> - parantezlerin sonunda slash kullanîˆ…îˆ‘. (<font color=#ff0000>[/email]</font>)
     </td>
   </tr>
 </table>
@@ -143,3 +143,4 @@ tamamen opsiyoneldir. URL tagları içinde kesinlikle quotation marks kullanmanız 
 <BR>
 </BODY>
 </HTML>
+

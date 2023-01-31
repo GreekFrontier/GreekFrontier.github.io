@@ -1,7 +1,7 @@
-<?php
+﻿<?php
 
 // language: slovak
-// translator: Ondrej Jombík <nepto@pobox.sk>
+// translator: Ondrej Jomb穩k <nepto@pobox.sk>
 // date: 30/3/2002
 // encoding: iso-8859-2
 
@@ -9,99 +9,100 @@
 
 $LANG["metatag"]    = "<meta http-equiv=\"Content-Type\" content=\"text/html; charset=utf-8\">";
 
-$LANG["BookMess1"]  = "HTML kód je vypnutý";
-$LANG["BookMess2"]  = "HTML kód je zapnutý";
-$LANG["BookMess3"]  = "Nový príspevok do Knihy návštev";
-$LANG["BookMess4"]  = "Späť do Knihy návštev";
-$LANG["BookMess5"]  = "Administrácia";
-$LANG["BookMess6"]  = "Ďakujem Vám za návštevu mojej stránky. Tu je miesto kde mi môžete nechať krátky odkaz.";
-$LANG["BookMess7"]  = "Komentár";
-$LANG["BookMess8"]  = "Späť do formuláru";
-$LANG["BookMess9"]  = "Napísať komentár k tomuto príspevku.";
-$LANG["BookMess10"] = "<u>Ďakujem za Váš príspevok do Knihy návštev.</u><br><br>Záznam bol úspešne uložený do databázy. V priebehu dvoch sekúnd by ste mali byť presmerovaný naspäť do Knihy návštev.";
+$LANG["BookMess1"]  = "HTML k籀d je vypnut羸";
+$LANG["BookMess2"]  = "HTML k籀d je zapnut羸";
+$LANG["BookMess3"]  = "Nov羸 pr穩spevok do Knihy n獺v禳tev";
+$LANG["BookMess4"]  = "Sp瓣聽 do Knihy n獺v禳tev";
+$LANG["BookMess5"]  = "Administr獺cia";
+$LANG["BookMess6"]  = "?akujem V獺m za n獺v禳tevu mojej str獺nky. Tu je miesto kde mi m繫鱉ete necha聽 kr獺tky odkaz.";
+$LANG["BookMess7"]  = "Koment獺r";
+$LANG["BookMess8"]  = "Sp瓣聽 do formul獺ru";
+$LANG["BookMess9"]  = "Nap穩sa聽 koment獺r k tomuto pr穩spevku.";
+$LANG["BookMess10"] = "<u>?akujem za V獺禳 pr穩spevok do Knihy n獺v禳tev.</u><br><br>Z獺znam bol 繳spe禳ne ulo鱉en羸 do datab獺zy. V priebehu dvoch sek繳nd by ste mali by聽 presmerovan羸 nasp瓣聽 do Knihy n獺v禳tev.";
 
-$LANG["EmailAdminSubject"] = "Nový príspevok";
-$LANG["EmailGuestSubject"] = "Poďakovanie za Váš príspevok do Knihy návštev";
+$LANG["EmailAdminSubject"] = "Nov羸 pr穩spevok";
+$LANG["EmailGuestSubject"] = "Po?akovanie za V獺禳 pr穩spevok do Knihy n獺v禳tev";
 
-$LANG["AltIP"]    = "IP adresa zaznamenaná";
-$LANG["AltICQ"]   = "Poslať ICQ správu";
-$LANG["AltEmail"] = "Poslať e-mail";
-$LANG["AltUrl"]   = "Pozrieť web stránku";
+$LANG["AltIP"]    = "IP adresa zaznamenan獺";
+$LANG["AltICQ"]   = "Posla聽 ICQ spr獺vu";
+$LANG["AltEmail"] = "Posla聽 e-mail";
+$LANG["AltUrl"]   = "Pozrie聽 web str獺nku";
 $LANG["AltAim"]   = "Instant Messenger";
-$LANG["AltCom"]   = "Napísať komentár";
+$LANG["AltCom"]   = "Nap穩sa聽 koment獺r";
 
 # Form
-$LANG["FormMess1"]   = "Vyplňte nižšieuvedený formulár pre zaradenie príspevku do Knihy návštev. Po potvrdení budete do Knihy návštev opätovne presmerovaný. Polia označené (*) sú povinné.";
-$LANG["FormMess2"]   = "Emotikony sú zapnuté";
-$LANG["FormMess3"]   = "AG kód je zapnutý";
-$LANG["FormMess4"]   = "Ukázať legendu";
-$LANG["FormMess5"]   = "Takto vyzerá Váš príspevok do Knihy návštev.";
-$LANG["FormMess6"]   = "AG kód je vypnutý";
-$LANG["FormMess7"]   = "Emotikony sú vypnuté";
+$LANG["FormMess1"]   = "Vypl?te ni鱉禳ieuveden羸 formul獺r pre zaradenie pr穩spevku do Knihy n獺v禳tev. Po potvrden穩 budete do Knihy n獺v禳tev op瓣tovne presmerovan羸. Polia ozna?en矇 (*) s繳 povinn矇.";
+$LANG["FormMess2"]   = "Emotikony s繳 zapnut矇";
+$LANG["FormMess3"]   = "AG k籀d je zapnut羸";
+$LANG["FormMess4"]   = "Uk獺za聽 legendu";
+$LANG["FormMess5"]   = "Takto vyzer獺 V獺禳 pr穩spevok do Knihy n獺v禳tev.";
+$LANG["FormMess6"]   = "AG k籀d je vypnut羸";
+$LANG["FormMess7"]   = "Emotikony s繳 vypnut矇";
 $LANG["FormName"]    = "Meno";
 $LANG["FormEmail"]   = "E-mail";
 $LANG["FormLoc"]     = "Krajina";
-$LANG["FormPic"]     = "Obrázok";
-$LANG["FormUrl"]     = "Web stránka";
+$LANG["FormPic"]     = "Obr獺zok";
+$LANG["FormUrl"]     = "Web str獺nka";
 $LANG["FormGender"]  = "Pohlavie";
-$LANG["FormMale"]    = "Muž";
-$LANG["FormFemale"]  = "Žena";
-$LANG["FormMessage"] = "Vaša správa";
-$LANG["FormSelect"]  = "Kniha návštev";
-$LANG["FormUser"]    = "Užívateľské meno";
+$LANG["FormMale"]    = "Mu鱉";
+$LANG["FormFemale"]  = "鬚ena";
+$LANG["FormMessage"] = "Va禳a spr獺va";
+$LANG["FormSelect"]  = "Kniha n獺v禳tev";
+$LANG["FormUser"]    = "U鱉穩vate躂sk矇 meno";
 $LANG["FormPass"]    = "Heslo";
-$LANG["FormReset"]   = "Vymazať";
-$LANG["FormSubmit"]  = "Potvrdiť";
-$LANG["FormPreview"] = "Ukázať";
-$LANG["FormBack"]    = "Upraviť";
-$LANG["FormEnter"]   = "Kniha návštev - Administračné centrum<br>Musíte zadať platné užívateľské meno a heslo pre vstup do systému.";
-$LANG["FormButton"]  = "Choď";
-$LANG["FormPriv"]    = "Súkromná správa";
+$LANG["FormReset"]   = "Vymaza聽";
+$LANG["FormSubmit"]  = "Potvrdi聽";
+$LANG["FormPreview"] = "Uk獺za聽";
+$LANG["FormBack"]    = "Upravi聽";
+$LANG["FormEnter"]   = "Kniha n獺v禳tev - Administra?n矇 centrum<br>Mus穩te zada聽 platn矇 u鱉穩vate躂sk矇 meno a heslo pre vstup do syst矇mu.";
+$LANG["FormButton"]  = "Cho?";
+$LANG["FormPriv"]    = "S繳kromn獺 spr獺va";
 
 # Navigation Bar
-$LANG["NavTotal"]   = "Záznamov celkom:";
-$LANG["NavRecords"] = "Záznamov na stránke:";
-$LANG["NavPrev"]    = "Predchádzajúca stránka";
-$LANG["NavNext"]    = "Nasledujúca stránka";
+$LANG["NavTotal"]   = "Z獺znamov celkom:";
+$LANG["NavRecords"] = "Z獺znamov na str獺nke:";
+$LANG["NavPrev"]    = "Predch獺dzaj繳ca str獺nka";
+$LANG["NavNext"]    = "Nasleduj繳ca str獺nka";
 
 # Post Errors
-$LANG["ErrorPost1"]  = "Zabudli ste vyplniť pole s menom. Prosím, opravte chybu a potvrďte formulár znovu.";
-$LANG["ErrorPost2"]  = "Zabudli ste vyplniť pole s príspevkom. Prosím, opravte chybu a potvrďte formulár znovu.";
-$LANG["ErrorPost3"]  = "Vaša správa je príliš krátka alebo veľmi dlhá. Prosím, opravte chybu a potvrďte formulár znovu.";
-$LANG["ErrorPost4"]  = "Niektorý zo vstupných údajov nie je správne vypnený.";
-$LANG["ErrorPost5"]  = "Kniha návštev - Chyba";
-$LANG["ErrorPost6"]  = "Súbor s obrázkom je príliš veľký";
-$LANG["ErrorPost7"]  = "Nesprávny formát súboru s obrázkom";
-$LANG["ErrorPost8"]  = "Prepáčte, máme aktivovanú anti-flood ochranu. Prosím, vyskúšajte poslať Váš príspevok o malú chvíľu.";
-$LANG["ErrorPost9"]  = "Vaša IP adresa bola zablokovaná!";
-$LANG["ErrorPost10"] = "Váš príspevok obsahuje niektoré zo zakázaných slov. Prosím, opravte chybu a potvrďte formulár znovu.";
-$LANG["ErrorPost11"]  = "Zabudli ste vyplniť pole s komentárom. Prosím, opravte chybu a potvrďte formulár znovu.";
+$LANG["ErrorPost1"]  = "Zabudli ste vyplni聽 pole s menom. Pros穩m, opravte chybu a potvr?te formul獺r znovu.";
+$LANG["ErrorPost2"]  = "Zabudli ste vyplni聽 pole s pr穩spevkom. Pros穩m, opravte chybu a potvr?te formul獺r znovu.";
+$LANG["ErrorPost3"]  = "Va禳a spr獺va je pr穩li禳 kr獺tka alebo ve躂mi dlh獺. Pros穩m, opravte chybu a potvr?te formul獺r znovu.";
+$LANG["ErrorPost4"]  = "Niektor羸 zo vstupn羸ch 繳dajov nie je spr獺vne vypnen羸.";
+$LANG["ErrorPost5"]  = "Kniha n獺v禳tev - Chyba";
+$LANG["ErrorPost6"]  = "S繳bor s obr獺zkom je pr穩li禳 ve躂k羸";
+$LANG["ErrorPost7"]  = "Nespr獺vny form獺t s繳boru s obr獺zkom";
+$LANG["ErrorPost8"]  = "Prep獺?te, m獺me aktivovan繳 anti-flood ochranu. Pros穩m, vysk繳禳ajte posla聽 V獺禳 pr穩spevok o mal繳 chv穩躂u.";
+$LANG["ErrorPost9"]  = "Va禳a IP adresa bola zablokovan獺!";
+$LANG["ErrorPost10"] = "V獺禳 pr穩spevok obsahuje niektor矇 zo zak獺zan羸ch slov. Pros穩m, opravte chybu a potvr?te formul獺r znovu.";
+$LANG["ErrorPost11"]  = "Zabudli ste vyplni聽 pole s koment獺rom. Pros穩m, opravte chybu a potvr?te formul獺r znovu.";
 
-$LANG["PassMess1"] = "Prosím zadajte platné užívateľské meno a heslo:";
-$LANG["PassMess2"] = "Nesprávne užívateľské meno alebo heslo. Prosím, skúste znovu.";
-$LANG["PassMess3"] = "Ľutujem, ale zadané heslo nie je správne.";
+$LANG["PassMess1"] = "Pros穩m zadajte platn矇 u鱉穩vate躂sk矇 meno a heslo:";
+$LANG["PassMess2"] = "Nespr獺vne u鱉穩vate躂sk矇 meno alebo heslo. Pros穩m, sk繳ste znovu.";
+$LANG["PassMess3"] = "躅utujem, ale zadan矇 heslo nie je spr獺vne.";
 
 # Days
-$weekday[0] = "Nedeľa";
+$weekday[0] = "Nede躂a";
 $weekday[1] = "Pondelok";
 $weekday[2] = "Utorok";
 $weekday[3] = "Streda";
-$weekday[4] = "Štvrtok";
+$weekday[4] = "?tvrtok";
 $weekday[5] = "Piatok";
 $weekday[6] = "Sobota";
 
 # Months
-$months[0]  = "Január";
-$months[1]  = "Február";
+$months[0]  = "Janu獺r";
+$months[1]  = "Febru獺r";
 $months[2]  = "Marec";
-$months[3]  = "Apríl";
-$months[4]  = "Máj";
-$months[5]  = "Jún";
-$months[6]  = "Júl";
+$months[3]  = "Apr穩l";
+$months[4]  = "M獺j";
+$months[5]  = "J繳n";
+$months[6]  = "J繳l";
 $months[7]  = "August";
 $months[8]  = "September";
-$months[9]  = "Október";
+$months[9]  = "Okt籀ber";
 $months[10] = "November";
 $months[11] = "December";
 
 ?>
+

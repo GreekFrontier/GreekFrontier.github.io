@@ -1,4 +1,4 @@
-<form method="post" action="$GB_PG[index]">
+﻿<form method="post" action="$GB_PG[index]">
  <table border="0" cellspacing="0" cellpadding="2" align="center" width="$VARS[width]">
   <tr>
     <td width="56%"><img src="$GB_PG[base_url]/img/gbook.gif" width="140" height="15"></td>
@@ -59,4 +59,5 @@ $TPL[GB_ENTRIES]
  </table>
 </form> 
 <!--End Bottom Navigation -->
+
 

@@ -1,4 +1,4 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+ï»¿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <HTML>
 <HEAD>
 <TITLE>Smilies (izrazi) i AG specijalni kodovi</TITLE>
@@ -13,19 +13,19 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
 <CENTER>
   <table width="95%" border="0" cellspacing="1" cellpadding="0">
     <tr>
-      <td height="25"> © T A &nbsp;S U &nbsp;T O &nbsp;&quot;S M I L I E S&quot; 
+      <td height="25"> ?T A &nbsp;S U &nbsp;T O &nbsp;&quot;S M I L I E S&quot; 
         (I Z R A Z I)?</td>
     </tr>
     <tr>
       <td>
-        <p>'Smilies' ili izrazisu male slièice koje mogu da opi¹u neko oseæanje 
+        <p>'Smilies' ili izrazisu male slié‹±ce koje mogu da opié´ neko oseæ½»nje 
           ili izraz. Ako ste ranije koristili e-mail ili internet chatovanje, 
-          verovatno ste upoznati sa znaèenjem ovih grafièkih ali i tekstualnik 
-          izraza. U ovom sluèaju odreğene kombinacije slova i karaktera su automatski 
-          konvertovani u grafièki izraz, tj. smilie (izraz). Ukoliko Vam i dalje 
-          nije jasno ¹ta znaèe ovi izrazi, probajte da malo nakrivite glavu i 
-          uz malo ma¹te uvideæete da svaka kombinacija ovih karaktera i slova 
-          ima neki smisao i reflektuje odreğeni izraz.</p>
+          verovatno ste upoznati sa znaé‹€njem ovih grafié‹˜ih ali i tekstualnik 
+          izraza. U ovom slué†€ju odreç°Ÿne kombinacije slova i karaktera su automatski 
+          konvertovani u grafié‹˜i izraz, tj. smilie (izraz). Ukoliko Vam i dalje 
+          nije jasno é–a znaé‹€ ovi izrazi, probajte da malo nakrivite glavu i 
+          uz malo maé–e uvideç†°te da svaka kombinacija ovih karaktera i slova 
+          ima neki smisao i reflektuje odreç°Ÿni izraz.</p>
         <p> Pogledajte spisak trenutnih smilie-a koji su aktivni: </p>
       </td>
     </tr>
@@ -33,9 +33,9 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
   <table bgcolor=#f7f7f7 border=0 width="95%" cellspacing="1" cellpadding="4">
     <tbody>
     <tr>
-      <td bgcolor="#996699"><font color=#ffffff><b>©ta treba napisati</b></font></td>
-      <td bgcolor="#996699"><font color=#ffffff><b>Oseæanje - izraz</b></font></td>
-      <td bgcolor="#996699"><font color=#ffffff><b>Slika koja æe se pojaviti</b></font></td>
+      <td bgcolor="#996699"><font color=#ffffff><b>å­¤a treba napisati</b></font></td>
+      <td bgcolor="#996699"><font color=#ffffff><b>Oseæ½»nje - izraz</b></font></td>
+      <td bgcolor="#996699"><font color=#ffffff><b>Slika koja ç†° se pojaviti</b></font></td>
     </tr>
 
 <?php include ("./smilies.inc"); ?>
@@ -45,22 +45,22 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
   <br>
   <table width="95%" border="0" cellspacing="1" cellpadding="0">
     <tr>
-      <td height="25">© T A &nbsp;S U &nbsp;T O &nbsp;<b>A G</b> &nbsp;S P E C 
+      <td height="25">?T A &nbsp;S U &nbsp;T O &nbsp;<b>A G</b> &nbsp;S P E C 
         I J A L N I &nbsp;K O D O V I ? </td>
     </tr>
     <tr>
       <td>
         <p><b>AG</b> specijalni kodovi su varijacija ubacivanja HTML tagova sa 
-          kojima su neki verovatno upoznati. Prosoto reèeno, dozvoljava Vam da 
-          daodate malo funkcionalnostu i stila u va¹im porukama a za koje bi vam 
-          inaèe trebalo malo &quot;jaèe&quot; poznavanje osnovnih tagova HTML-a. 
-          Mo¾ete koristiti <b>AG</b> specijalne kodove èak i onda kada je administrator 
-          ovog web site-a speèio upotrebu osnovnih HTML tagova. Ali i onda kada 
-          su ukljuceni osnovni HTML tagovi, mo¾ete uporedno da koristite <b>AG</b> 
-          specijalne kodove a kori¹æenjem tih spec. kodova je znatno lak¹e i bezbednije, 
-          samim tim ¹to su manje ¹anse da se pogre¹i u &quot;kodovanju&quot; (¹to 
-          mo¾e da dovede do nekih ne¾eljenih efekata). 
-        <p>Trenutno va¾eæi <b>AG</b> specijalni kodovi: 
+          kojima su neki verovatno upoznati. Prosoto reé‹€no, dozvoljava Vam da 
+          daodate malo funkcionalnostu i stila u vaéš˜m porukama a za koje bi vam 
+          inaé‹€ trebalo malo &quot;jaé‹€&quot; poznavanje osnovnih tagova HTML-a. 
+          Moé ¡te koristiti <b>AG</b> specijalne kodove é†€k i onda kada je administrator 
+          ovog web site-a speé‹±o upotrebu osnovnih HTML tagova. Ali i onda kada 
+          su ukljuceni osnovni HTML tagovi, moé ¡te uporedno da koristite <b>AG</b> 
+          specijalne kodove a koriå¯enjem tih spec. kodova je znatno lakéˆ¹ i bezbednije, 
+          samim tim é–o su manje éˆ´nse da se pogreéš˜ u &quot;kodovanju&quot; (é–o 
+          moé ¡ da dovede do nekih neé ¡ljenih efekata). 
+        <p>Trenutno vaé ¡ç†µ <b>AG</b> specijalni kodovi: 
       </td>
     </tr>
   </table>
@@ -71,26 +71,26 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
       <TABLE border=0 cellPadding=4 cellSpacing=1 width="100%">
         <TBODY>
         <TR bgColor=#0099CC>
-            <TD><b><font color="#FFFFFF">URL Hiperlinkovanje (naznaèavanje odreğenih 
+            <TD><b><font color="#FFFFFF">URL Hiperlinkovanje (naznaé†€vanje odreç°Ÿnih 
               URL adresa)</font></b></TD>
         </TR>
         <TR bgColor=#ffffff>
-            <TD>Ukoliko su <b>AG</b> specijalni kodovi ukljuèeni, nije potrebno 
-              da koristite komadu [URL] da naznaèite da je u pitanju web adresa. 
-              Jednostavno napi¹ite kompletnu adresu i automatski æe biti naznaèeno 
+            <TD>Ukoliko su <b>AG</b> specijalni kodovi ukljué‹€ni, nije potrebno 
+              da koristite komadu [URL] da naznaé‹±te da je u pitanju web adresa. 
+              Jednostavno napiéš˜te kompletnu adresu i automatski ç†° biti naznaé‹€no 
               da je u pitanju web adresa : 
               <UL>
                 <LI><font color="#800000">http://www.adresanekogwebsajta.com </font> 
                 <LI><FONT color=#800000>www.adresanekogwebsajta.com </FONT>Uzmite 
-                  u obzir da nije potrebno da adresu koja poèinje sa &quot;www&quot; 
-                  oznaèavate i sa &quot;http://&quot; ali morate paziti da u sluèaju 
-                  da va¹a adresa koju upisujete mora poèinjati ili sa &quot;www&quot; 
-                  ili &quot;http://&quot; ili da budu zajedno. Ujedno, mo¾ete 
+                  u obzir da nije potrebno da adresu koja poé‹±nje sa &quot;www&quot; 
+                  oznaé†€vate i sa &quot;http://&quot; ali morate paziti da u slué†€ju 
+                  da vaéˆ´ adresa koju upisujete mora poé‹±njati ili sa &quot;www&quot; 
+                  ili &quot;http://&quot; ili da budu zajedno. Ujedno, moé ¡te 
                   da koristite prefikse za https i FTP url adrese u auto-link 
-                  modu (kada su <b>AG</b> specijalni kodovi ukljuèeni). <BR>
+                  modu (kada su <b>AG</b> specijalni kodovi ukljué‹€ni). <BR>
                   <BR>
-                <LI>Mo¾ete da koristite web adrese sa nazivom. Potrebno je da 
-                  koristite sledeæe formate: <br>
+                <LI>Moé ¡te da koristite web adrese sa nazivom. Potrebno je da 
+                  koristite sledeç†° formate: <br>
                   <br>
                   <CENTER>
                     <FONT color=#ff0000>[url=http://www.adresanekogsajta.com]</FONT>ovojenazivmogwebsajta<FONT color=#ff0000>[/url]</FONT> 
@@ -98,74 +98,74 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
                   <br>
                   <br>
                 <LI> 
-                  <P>Stari [URL] kod æe i dalje raditi kao ¹to je dole naznaèeno. 
-                    ispod je prikazano oznaèavanje va¹eg web sajta bez dodatnog 
-                    opisa (<b>AG</b> spec. kodovi su oznaèeni <FONT color=#ff0000>crvenom</FONT> 
+                  <P>Stari [URL] kod ç†° i dalje raditi kao é–o je dole naznaé‹€no. 
+                    ispod je prikazano oznaé†€vanje vaéˆ¹g web sajta bez dodatnog 
+                    opisa (<b>AG</b> spec. kodovi su oznaé‹€ni <FONT color=#ff0000>crvenom</FONT> 
                     bojom). 
                   <P> 
                     <CENTER>
                       <FONT color=#ff0000>[url]</FONT>http://www.adresanekogwebsajta.com<FONT color=#ff0000>[/url]</FONT> 
                     </CENTER>
-                  <P>U gore navedenim primerima , AG kodovi automatski generi¹u 
-                    web adresu u izmeğu otvorenog i zatvorenog taga (<font color=#ff0000>[/url] 
-                    </font>i<font color=#ff0000> [/url]</font>). Automatski æe 
-                    takodje biti i nazaèeno da se kliktanjem na link koji ¾elite 
+                  <P>U gore navedenim primerima , AG kodovi automatski generié´ 
+                    web adresu u izmeç¹  otvorenog i zatvorenog taga (<font color=#ff0000>[/url] 
+                    </font>i<font color=#ff0000> [/url]</font>). Automatski ç†° 
+                    takodje biti i nazaé‹€no da se kliktanjem na link koji é ¡lite 
                     da izdvojite otvara u novom nezavisnom prozoru. U drugom gore 
-                    prikazanom primeru sve ¹to je oznaèeno unutar <b>AG</b> spec. 
-                    kodova se smatra da je naziv web adrese koje ¾elite da izdvojite 
-                    . Nije dozvoljeno da koristite znakove za navoğenje unutar 
+                    prikazanom primeru sve é–o je oznaé‹€no unutar <b>AG</b> spec. 
+                    kodova se smatra da je naziv web adrese koje é ¡lite da izdvojite 
+                    . Nije dozvoljeno da koristite znakove za navoç°Ÿnje unutar 
                     tagova.</P>
                 </LI>
               </UL>
           </TD>
         <TR bgColor=#0099CC>
-            <TD><b><font color="#FFFFFF">Oznaèavanje e-mail adresa</font></b></TD>
+            <TD><b><font color="#FFFFFF">Oznaé†€vanje e-mail adresa</font></b></TD>
         </TR>
         <TR bgColor=#ffffff>
-            <TD height="80">Da bi ste dodali funkciju da va¹ e-mail unutar va¹eg 
+            <TD height="80">Da bi ste dodali funkciju da va?e-mail unutar vaéˆ¹g 
               komentara ima hiperlink u sebi, jednostavno dodajte <b>AG</b> spec. 
-              kodove kao ¹to je naznaèeno u donjem primeru (<b>AG</b> spec. kodovi 
-              su oznaèeni <FONT color=#ff0000>crvenom</FONT> bojom). 
+              kodove kao é–o je naznaé‹€no u donjem primeru (<b>AG</b> spec. kodovi 
+              su oznaé‹€ni <FONT color=#ff0000>crvenom</FONT> bojom). 
               <P>
               <CENTER>
                   <FONT color=#ff0000>[email]</FONT>webmaster@yufestcaffe.com<FONT color=#ff0000>[/email]</FONT> 
                 </CENTER>
-              <P>U gore navedenom primeru, AG spec. kodovi automatski generi¹u 
-                i postavljaju va¹u e-mail adresu kao hiperlink.</P>
+              <P>U gore navedenom primeru, AG spec. kodovi automatski generié´ 
+                i postavljaju vaé´ e-mail adresu kao hiperlink.</P>
           </TD>
         </TR>
         <TR bgColor=#0099CC>
             <TD><b><font color="#FFFFFF">Zakrivljena i potamljena slova</font></b></TD>
         </TR>
         <TR bgColor=#ffffff>
-            <TD>Sledeæa funkcija AG specijalnih kodova je da mo¾ete da iskrivite 
-              va¹a slova (italic), potamnite ih (bold) a sve to se radi sa sledeæim 
-              kodovima [b] [/b] or [i] [/i] ¹to æete i videti u sledeæim primerima. 
+            <TD>Sledeæ½» funkcija AG specijalnih kodova je da moé ¡te da iskrivite 
+              vaéˆ´ slova (italic), potamnite ih (bold) a sve to se radi sa sledeç†µm 
+              kodovima [b] [/b] or [i] [/i] é–o ç†°te i videti u sledeç†µm primerima. 
               <P>
               <CENTER>
-                  Æao, <FONT color=#ff0000>[b]</FONT><B>Milo¹e</B><FONT color=#ff0000>[/b]</FONT><BR>
+                  é¥o, <FONT color=#ff0000>[b]</FONT><B>Miloéˆ¹</B><FONT color=#ff0000>[/b]</FONT><BR>
                   <br>
-                  Æao, <FONT color=#ff0000>[i]</FONT><I>Marija</I><font color="#FF0000">[i]</font> 
+                  é¥o, <FONT color=#ff0000>[i]</FONT><I>Marija</I><font color="#FF0000">[i]</font> 
                 </CENTER>
           </TD>
         </TR>
         <TR bgColor=#0099CC>
-            <TD><b><font color="#FFFFFF">Dodavanje malih liènih slièica</font></b></TD>
+            <TD><b><font color="#FFFFFF">Dodavanje malih lié‹ih slié‹±ca</font></b></TD>
         </TR>
         <TR bgColor=#ffffff>
-            <TD height="2">Da bi ste dodali neku slièicu u va¹ kometar jednostavno 
+            <TD height="2">Da bi ste dodali neku slié‹±cu u va?kometar jednostavno 
               dodajte izmedju <b>AG</b> spec. kodova (<font color=#ff0000>[img] 
-              </font>i<font color=#ff0000> [/img]</font>) <u>taènu</u> adresu 
-              odosno lokaciju na internetu slièice ili nekog grafièkog fajla kao 
-              ¹to mo¾ete da vidite na sledeæim primerima (<b>AG</b> spec. kodovi 
-              su oznaèeni <FONT color=#ff0000>crvenom</FONT> bojom). 
+              </font>i<font color=#ff0000> [/img]</font>) <u>taé‹u</u> adresu 
+              odosno lokaciju na internetu slié‹±ce ili nekog grafié‹˜og fajla kao 
+              é–o moé ¡te da vidite na sledeç†µm primerima (<b>AG</b> spec. kodovi 
+              su oznaé‹€ni <FONT color=#ff0000>crvenom</FONT> bojom). 
               <P>
               <CENTER>
                   <FONT color=#ff0000>[img]</FONT>http://www.adresanekogservera.com/slike/mojaslika.jpg<FONT color=#ff0000>[/img]</FONT> 
                 </CENTER>
               <P>U gore navedenom primeru, AG spec. kodovi automatski postavljaju 
-                va¹u tra¾enu slièicu sa lokacije koju ste zadali. Va¾no: prefiks 
-                "http://" kao deo URL adrese slièice je OBAVEZAN za <FONT color=#ff0000>[img]</FONT> 
+                vaé´ traé ¡nu slié‹±cu sa lokacije koju ste zadali. Vaé§o: prefiks 
+                "http://" kao deo URL adrese slié‹±ce je OBAVEZAN za <FONT color=#ff0000>[img]</FONT> 
                 kod.</P>
           </TD>
         </TR>
@@ -177,20 +177,20 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
 </TABLE>
 <table width="95%" border="0" cellspacing="1" cellpadding="4" align="center">
     <tr> 
-      <td><font color=#800000>Va¾no:</font><br>
-        Nije dozvoljeno kori¹æenje HTML i AG spec. kodova da se uradi ista funkcija 
+      <td><font color=#800000>Vaé§o:</font><br>
+        Nije dozvoljeno koriå¯enje HTML i AG spec. kodova da se uradi ista funkcija 
         odnosno nije dozvoljeno dupliranje funkcija. Nije potrebno da pazite da 
-        velika-mala slova pri pisanju AG spec. kodova (odnosno, mo¾ete koristiti 
+        velika-mala slova pri pisanju AG spec. kodova (odnosno, moé ¡te koristiti 
         <font color=#ff0000>[URL]</font> ili <font color=#ff0000>[url]</font>).<br>
         <br>
-        <font color="#800000">Neispravno kori¹æenje <b>AG</b> spec. kodova:</font> 
+        <font color="#800000">Neispravno koriå¯enje <b>AG</b> spec. kodova:</font> 
         <br>
         <font color="#ff0000">[url]</font> www.adresanekogwebsajta <font color=#ff0000>[/url]</font> 
-        - nemojte da ostavljate prazno mesto izmeğu primenjenog koda odnosno izmedju 
+        - nemojte da ostavljate prazno mesto izmeç¹  primenjenog koda odnosno izmedju 
         kodova.<br>
         <br>
         <font color="#ff0000">[email]</font>webmaster@yufestcaffe.com<font color=#ff0000>[email]</font> 
-        - zadnji kod u svakom sluèaju mora da ima unutar oznake jednu otvorenu 
+        - zadnji kod u svakom slué†€ju mora da ima unutar oznake jednu otvorenu 
         kosu crtu (<font color=#ff0000>[/email]</font>) </td>
   </tr>
 </table>
@@ -207,3 +207,4 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
 </CENTER>
 </BODY>
 </HTML>
+

@@ -1,4 +1,4 @@
-<html>
+﻿<html>
 <head>
 <title>$LANG[FormSelect]</title>
 $LANG[metatag]
@@ -62,3 +62,4 @@ function getEmail(email) {
 </script>
 </head>
 <body bgcolor="$VARS[pbgcolor]" link="$VARS[link_color]" vlink="$VARS[link_color]">
+

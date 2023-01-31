@@ -1,4 +1,4 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+ï»¿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <HTML>
 <HEAD>
 <TITLE>Smilies und AGCodes</TITLE>
@@ -18,9 +18,9 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
     </tr>
     <tr> 
       <td> 
-        <p><font color="#000000">Smilies sind kleine Grafiken, die ein Gefühl 
-          für Ihren Beitrag oder einen Teil Ihres Beitrages darstellen sollen. 
-          Manches läßt sich durch die Verwendung eines Smilies besser darstellen! 
+        <p><font color="#000000">Smilies sind kleine Grafiken, die ein Gefî…¢l 
+          fî…¬ Ihren Beitrag oder einen Teil Ihres Beitrages darstellen sollen. 
+          Manches lé­ t sich durch die Verwendung eines Smilies besser darstellen! 
           So zeigt zum Beispiel ein zwinkernder Smilie eindeutig, das Ihre Aussage 
           als Scherz gedacht ist!</font></p>
         <p><font color="#000000"> Folgende Phrasen in Ihrem Beitrag werden automatisch 
@@ -51,13 +51,13 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
     <tr> 
       <td> 
         <p><font color="#000000">AG Code ist eine Sammlung von HTML-Befehlen. 
-          Er erlaubt Ihnen, bestimmte Funktionen hinzuzufügen oder Ihren Beitrag 
-          zu verändern, wozu Sie normalerweise HTML-Befelhe einsetzen müssten. 
-          Sie können AG Code verwenden, selbst wenn die HTML-Funktion für das 
+          Er erlaubt Ihnen, bestimmte Funktionen hinzuzufî…¡en oder Ihren Beitrag 
+          zu veré„šdern, wozu Sie normalerweise HTML-Befelhe einsetzen mî…­sten. 
+          Sie kéœµnen AG Code verwenden, selbst wenn die HTML-Funktion fî…¬ das 
           G&auml;stebuch abgeschaltet ist. Sie sollten AG Code anstelle von HTML 
-          verwenden, selbst wenn die HTML-Funktion für das G&auml;stebuch eingeschaltet 
+          verwenden, selbst wenn die HTML-Funktion fî…¬ das G&auml;stebuch eingeschaltet 
           ist, da wenig Befehle verwendet werden und er sicherer zu benutzen ist 
-          (falscher Syntax kann zu wenigeren Problemen führen). </font> 
+          (falscher Syntax kann zu wenigeren Problemen fî…¢ren). </font> 
         <p><font color="#000000">Aktuelle AG Codes: </font> 
       </td>
     </tr>
@@ -73,7 +73,7 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
           </TR>
           <TR bgColor=#CCCCCC> 
             <TD bgcolor="#FFFFFF">Ist AG Code eingeschaltet, brauchen Sie nicht 
-              länger den [URL] Code benutzen, um Hyperlinks zu erstellen. Schreiben 
+              lé„šger den [URL] Code benutzen, um Hyperlinks zu erstellen. Schreiben 
               Sie einfach die komplette URL in irgendeiner der folgenden Weise 
               und der Link wird automatisch erstellt: 
               <UL>
@@ -81,12 +81,12 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
                 <LI><FONT color=#800000>www.IhreURL.com </FONT>Sie k&ouml;nnen 
                   entweder die komplette http:// Addresse eingeben oder sie auf 
                   die www Domain k&uuml;rzen. Wenn die Seite nicht mit "www" beginnt, 
-                  müssen Sie die komplette Adresse mit "http://" angeben. Die 
-                  Autolink-Funktion können Sie auch für https und ftp URL's verwenden 
+                  mî…­sen Sie die komplette Adresse mit "http://" angeben. Die 
+                  Autolink-Funktion kéœµnen Sie auch fî…¬ https und ftp URL's verwenden 
                   (wenn AG Code eingeschaltet ist). <BR>
               </UL>
               <ul>
-                Sie können jetzt richtige Links mit dem [url] Code erstellen. 
+                Sie kéœµnen jetzt richtige Links mit dem [url] Code erstellen. 
                 Verwenden Sie folgendes Format (AG Code ist <font color="#FF0000">Rot</font>).<br>
                 <br><br><center>
                   <font color="#FF0000"> [url=http://www.proxy2.de]</font>Ihre 
@@ -101,11 +101,11 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
                   <P align="center"> <font color="#FF0000">[url]</font>http://www.proxy2.de<font color="#FF0000">[/url]</font> 
                   <P>In diesem Beispiel generiert der AG Code automatisch einen 
                     Link der URL, welche zwischen dem AG Code liegt. Bei einem 
-                    Klick, wird der Link in einem neuen Fenster geöffnet. Beachten 
+                    Klick, wird der Link in einem neuen Fenster geéªfnet. Beachten 
                     Sie, das der "http://" Teil der URL nicht unbedingt notwendig 
                     ist. Im ersten Beispiel wird die URL dem Text zugeordnet, 
                     die nach dem = Zeichen steht. Verwenden Sie innerhalb der 
-                    URL keine Anführungszeichen.</P>
+                    URL keine Anfî…¢rungszeichen.</P>
                 </LI>
               </UL>
             </TD>
@@ -124,8 +124,8 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
             <TD bgcolor="#0099CC"><b><font color="#FFFFFF">Fett- und Kursivschrift</font></b></TD>
           </TR>
           <TR bgColor=#CCCCCC> 
-            <TD bgcolor="#FFFFFF">Sie können Kursiv- oder Fettschrift verwenden, 
-              indem Sie den Text zwischen den AG Code einfügen [b] [/b] oder [i] 
+            <TD bgcolor="#FFFFFF">Sie kéœµnen Kursiv- oder Fettschrift verwenden, 
+              indem Sie den Text zwischen den AG Code einfî…¡en [b] [/b] oder [i] 
               [/i]. 
               <P align="center"> Hello, <font color="#FF0000">[b]</font><B>John</B><font color="#FF0000">[/b]</font><BR>
                 <br>
@@ -133,16 +133,16 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
             </TD>
           </TR>
           <TR bgColor=#006666> 
-            <TD bgcolor="#0099CC"><b><font color="#FFFFFF">Einfügen von Bildern</font></b></TD>
+            <TD bgcolor="#0099CC"><b><font color="#FFFFFF">Einfî…¡en von Bildern</font></b></TD>
           </TR>
           <TR bgColor=#CCCCCC> 
-            <TD bgcolor="#FFFFFF">Um eine Grafik in Ihren Beitrag einzufügen, 
-              können Sie die URL der Grafik innerhalb des AG Code verwenden (AG 
+            <TD bgcolor="#FFFFFF">Um eine Grafik in Ihren Beitrag einzufî…¡en, 
+              kéœµnen Sie die URL der Grafik innerhalb des AG Code verwenden (AG 
               Code ist <font color="#FF0000">Rot</font>): 
               <P align="center"> <font color="#FF0000">[img]</font>http://www.IhreURL.de/image/logo.gif<font color="#FF0000">[/img]</font> 
               <P>In diesem Beispiel macht der AG Code die Grafik in Ihrem Beitrag 
                 automatisch sichtbar. Hinweis: der "http://" Teil der URL ist 
-                NOTWENDIG für den <font color="#FF0000">[img]</font> Code.</P>
+                NOTWENDIG fî…¬ den <font color="#FF0000">[img]</font> Code.</P>
             </TD>
           </TR>
           </TBODY> 
@@ -155,9 +155,9 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
   <table width="95%" border="0" cellspacing="1" cellpadding="4" align="center">
     <tr bgcolor="#CCCCCC"> 
       <td bgcolor="#FFFFFF"><font color=#800000><u>Hinweise:</u></font><br>
-        Sie dürfen HTML und UBB Code nicht gleichzeitig verwenden, um die gleiche 
-        Funktion auszuführen. Weiterhin brauchen Sie beim AG Code nicht auf Groß-/Kleinschreibung 
-        zu achten (Sie können <font color="#FF0000">[URL]</font> oder <font color="#FF0000">[url]</font> 
+        Sie dî…¬fen HTML und UBB Code nicht gleichzeitig verwenden, um die gleiche 
+        Funktion auszufî…¢ren. Weiterhin brauchen Sie beim AG Code nicht auf Gro?/Kleinschreibung 
+        zu achten (Sie kéœµnen <font color="#FF0000">[URL]</font> oder <font color="#FF0000">[url]</font> 
         verwenden). <br>
         <br>
         <font color="#800000"><u>Falscher AG Code:</u></font> <br>
@@ -166,7 +166,7 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
         kodiert werden soll. <br>
         <br>
         <font color="#FF0000">[email]</font>webmaster@proxy2.de<font color="#FF0000">[email]</font> 
-        - der End-Code enthält jeweils einen Schrägstrich (<font color="#FF0000">[/email]</font>) 
+        - der End-Code enthé„Ÿt jeweils einen Schrè¼strich (<font color="#FF0000">[/email]</font>) 
       </td>
     </tr>
   </table>
@@ -174,3 +174,4 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
 <BR>
 </BODY>
 </HTML>
+

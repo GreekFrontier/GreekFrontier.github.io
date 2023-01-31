@@ -1,4 +1,4 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+п»ї<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 
 <HTML>
 
@@ -28,7 +28,7 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
 
     <tr>
 
-      <td height="25"> ЧТО ТАКОЕ&nbsp;&nbsp;&nbsp;S M I L I E S ?</td>
+      <td height="25"> иІҐ?з”Ўеє‰?nbsp;&nbsp;&nbsp;S M I L I E S ?</td>
 
     </tr>
 
@@ -36,14 +36,14 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
 
       <td>
 
-        <p>'Smilies' - небольшие графические
-        изображения, отображающие настроение.
-        Если Вы когда-нибудь пользовались
-        интернет чатами, то наверняка знакомы
-        со смайликами. Smiles заменяет эти
-        смайлики на графические изображения.</p>
+        <p>'Smilies' - зїґжђїйЊЄйє ?ињёеѓіе„љж®Ґи†±?
+        йіїйЌ•и­‡з·Єи†»пЈё, й—…йЌ•и­‡зі€оЊ‹йіє зёєељ¦и±‚жЁ‡йіє.
+        е›‘йЊ’ й›ћ и†°ињ ?и†»ж‘·е™‰ зЂЃйЊЄиі§з”йЊ’е¬ї
+        йґ€и €и¬єж®Ј ж¬‘и ‰ж“Ї, иҐњ зёєзћ‚и¬єпЈёзЅ» иіќй­›йЌЋ?
+        е‹· е„µйЄ«йЊ’зЅ»ж“Ї. Smiles и«ж‡¤?ж®Ј о‰§?
+        е„µйЄ«йЊ’и†± зёє ињёеѓіе„љж®Ґи†±?йіїйЌ•и­‡з·Єи†»пЈё.</p>
 
-        <p>Список доступных Smiles: </p>
+        <p>ж Ёй»“йЌ§ е„‹ељ¦йµїи•»?Smiles: </p>
 
       </td>
 
@@ -57,12 +57,12 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
 
     <tr>
 
-      <td bgcolor="#996699"><font color="#ffffff"><b>Смайлики</b></font></td>
+      <td bgcolor="#996699"><font color="#ffffff"><b>ж ’йЄ«йЊ’и†±</b></font></td>
 
-      <td bgcolor="#996699"><font color="#ffffff"><b>Эмоция</b></font></td>
+      <td bgcolor="#996699"><font color="#ffffff"><b>ж¤·йљ¬?</b></font></td>
 
-      <td bgcolor="#996699"><font color="#ffffff"><b>Так будет
-        выглядеть</b></font></td>
+      <td bgcolor="#996699"><font color="#ffffff"><b>з «?ж‘·йє§?
+        з¦–ињ±пЈёйє§и­”</b></font></td>
 
     </tr>
 
@@ -82,7 +82,7 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
 
     <tr>
 
-      <td height="25">ЧТО ТАКОЕ&nbsp;&nbsp;&nbsp;A D V A
+      <td height="25">иІҐ?з”Ўеє‰?nbsp;&nbsp;&nbsp;A D V A
 
         N D C E D &nbsp;&nbsp;&nbsp;G U E S T B O O K &nbsp;&nbsp;&nbsp;C O D E&nbsp;
         (AGcode) ? </td>
@@ -93,9 +93,9 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
 
       <td>
 
-        <p>AGCode разновидность HTML тэгов. Вы можете
-        использовать AGCode если HTML отключено в
-        Гостевой книге.<p>Доступные AGCodes:
+        <p>AGCode и­‡иіќйЌ’йіји†јељ¦?HTML и­‹ињ¦? й›ћ ж–Ѓз·Єи €
+        й»“зЂЃйЊЄиі§з”и­” AGCode ж®ҐйЊ’ HTML й—…и†№оЊ‰жЁ‡??
+        йЏќељ¦ж§»йЌЈ и†«й­¬?<p>з™©ељ¦йµїи•»?AGCodes:
 
       </td>
 
@@ -123,30 +123,30 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
 
         <TR bgColor=#ffffff>
 
-          <TD>Если AGCode включен, Вам не нужно
-            использовать длинный код для
-            создания ссылки, просто используйте
-            тэг [URL]:
+          <TD>е›‘йЊ’ AGCode зћѓйЊЊзЃљ? иЅ‰?зїґ и–ѓз·±?
+            й»“зЂЃйЊЄиі§з”и­” е„‡йґ€и•»?и†°?е„‡пЈё
+            е‹·и«™йі§? ељ­о„¦и†±, зЂ”й—ѓиҐњ й»“зЂЃйЊЄиё жѕЅ?
+            и­‹?[URL]:
 
             <UL>
 
-              <LI>Для добавления URL в сообщение
-                используйте следующий код (AGCode - <font color="#ff0000">красн</font>).
+              <LI>зЉ§пЈё е„‹ж‘ізўІжЁ‡? URL ?е‹·йЌ•в•ќи†»?
+                й»“зЂЃйЊЄиё жѕЅ?е„ґж§јељІв••?и†°?(AGCode - <font color="#ff0000">и†ґеѓ”?/font>).
 
                 <P align="center">
 
                     <FONT color=#ff0000>[url]</FONT>http://www.proxy2.de<FONT color=#ff0000>[/url]</FONT>
 
-                <p>Запомните, Вы должны
-                использовать полный http:// адрес или
-                короткий, начинающийся с www. Если в
-                адресе не присутствует &quot;www&quot;, Вы
-                должны начать его с &quot;http://&quot;.
+                <p>пћЌзЂЃж“ЁйјЏ? й›ћ е„‹йЊ›и•»
+                й»“зЂЃйЊЄиі§з”и­” зЂЃйЊЌо„¤ http:// й¦Їи¬Ґ?йі№?
+                и†°и±‚иҐљйґ‡, зёєзЋЃзёєоЊ‹йґ‡? ?www. е›‘йЊ’ ?
+                й¦Їи¬Ґйј« зїґ зЂ”й»“йє”ељ¦зўҐж®Ј &quot;www&quot;, й›ћ
+                е„‹йЊ›и•» зёєж¬‘и­” жЁЌ??&quot;http://&quot;.
 
                 <BR>
 
-              <LI>Вы можете использовать [url] код и в
-                таком формате: <br><br>
+              <LI>й›ћ ж–Ѓз·Єи € й»“зЂЃйЊЄиі§з”и­” [url] и†°???
+                и ‰и†°?йђ•и¬Ѕеѓ—? <br><br>
 
                 <CENTER>
 
@@ -164,8 +164,8 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
 
         <TR bgColor=#ffffff>
 
-          <TD>Для добавления e-mail в сообщение
-            используйте следующий код (AGCode - <font color="#ff0000">красн</font>).
+          <TD>зЉ§пЈё е„‹ж‘ізўІжЁ‡? e-mail ?е‹·йЌ•в•ќи†»?
+            й»“зЂЃйЊЄиё жѕЅ?е„ґж§јељІв••?и†°?(AGCode - <font color="#ff0000">и†ґеѓ”?/font>).
 
             <P>
 
@@ -182,14 +182,14 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
 
         <TR bgColor=#0099CC>
 
-          <TD><b><font color="#FFFFFF">Bold и Italics</font></b></TD>
+          <TD><b><font color="#FFFFFF">Bold ?Italics</font></b></TD>
 
         </TR>
 
         <TR bgColor=#ffffff>
 
-          <TD>Используйте обычные [b] [/b] и [i] [/i]
-            тэги.
+          <TD>п »зЂЃйЊЄиё жѕЅ?йЌ•о„Іи•»?[b] [/b] ?[i] [/i]
+            и­‹ињј.
 
             <P>
 
@@ -208,16 +208,16 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
 
         <TR bgColor=#0099CC>
 
-          <TD><b><font color="#FFFFFF">Добавление
-            изображений</font></b></TD>
+          <TD><b><font color="#FFFFFF">з™©ж‘ізўІжЁ‡йіє
+            йіїйЌ•и­‡з·Єи†»?/font></b></TD>
 
         </TR>
 
         <TR bgColor=#ffffff>
 
-          <TD>Для добавления изображения в
-            сообщение используйте следующий код
-            (AGCode - <font color="#ff0000">красн</font>).
+          <TD>зЉ§пЈё е„‹ж‘ізўІжЁ‡? йіїйЌ•и­‡з·Єи†»пЈё ?
+            е‹·йЌ•в•ќи†»?й»“зЂЃйЊЄиё жѕЅ?е„ґж§јељІв••?и†°?
+            (AGCode - <font color="#ff0000">и†ґеѓ”?/font>).
 
             <P>
 
@@ -227,8 +227,8 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
 
               </CENTER>
 
-            <P>Запомните: &quot;http://&quot; часть
-            ОБЯЗАТЕЛЬНА в <FONT color=#ff0000>[img]</FONT>  коде.<br>
+            <P>пћЌзЂЃж“ЁйјЏ? &quot;http://&quot; ж¬‘ељ¦?
+            жЃ”иђ©жЄ ж”Је—ђ??<FONT color=#ff0000>[img]</FONT>  и†°йє§.<br>
             </P>
 
           </TD>
@@ -251,22 +251,22 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
 
   <tr>
 
-    <td><font color="#800000">Запомните:</font><br>
+    <td><font color="#800000">пћЌзЂЃж“ЁйјЏ?</font><br>
 
-      Вы не должны использовать вместе HTML и AGCode
-      для одной и той же функции. В AGCode <font color=#ff0000>[URL]</font>
+      й›ћ зїґ е„‹йЊ›и•» й»“зЂЃйЊЄиі§з”и­” зўЄж®Ґи € HTML ?AGCode
+      е„‡пЈё йЌ±и†ј??иҐњ?з·Є йЏµи‡ЊзЃ•? ?AGCode <font color=#ff0000>[URL]</font>
       = <font color=#ff0000>[url]</font>.<br><br>
 
-      <font color="#800000">Неправильное использование AGCode:</font> <br>
+      <font color="#800000">дїњзЂ”йЈ¶йі№о‡…йЌ· й»“зЂЃйЊЄиі§з”и†»?AGCode:</font> <br>
 
        <font color="#ff0000">[url]</font> www.proxy2.de <font color=#ff0000>[/url]</font> -
-      не используйте пробелы перед или после
-      ссылки.<br>
+      зїґ й»“зЂЃйЊЄиё жѕЅ?зЂ”йЌ•ж§¶?ж«‡и¬Ґ?йі№?зЂЃе„ґ?
+      ељ­о„¦и†±.<br>
 
         <br>
 
         <font color="#ff0000">[email]</font>webmaster@proxy2.de<font color=#ff0000>[email]</font> -
-      не забывайте слеш в закрывающем тэге (<font color=#ff0000>[/email]</font>)
+      зїґ и«жњўз”жѕЅ?е„ґж°‚ ?и«и†ґо„ќеѓ в•ќ?и­‹ињІ (<font color=#ff0000>[/email]</font>)
 
     </td>
 
@@ -282,3 +282,4 @@ td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 8pt}
 
 </HTML>
 
+

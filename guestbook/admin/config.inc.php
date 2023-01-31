@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 /* database settings */
 $GB_DB = array();
 $GB_DB["dbName"] = "greekfro_agbook1";
@@ -83,3 +83,4 @@ if ($GB_PG["base_url"] == "") {
 }
 
 ?>
+
