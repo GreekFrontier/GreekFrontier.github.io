@@ -63,7 +63,7 @@ define('IS_MODULE', false);  /* running as POST-Nuke 0.x or PHP-Nuke 5.x addon? 
 $GB_PG["base_url"] = "http://greek-frontier.com/guestbook";  /* e.g http://www.yourdomain.com/guestbook */
 
 $DB_CLASS  = "mysql.class.php";
-$TEC_MAIL  = "papapizza2003@yahoo.com.tw";
+$TEC_MAIL  = "yasuechiu@gmail.com";
 $GB_UPLOAD = "public";
 $GB_TMP    = "tmp";
 
